@@ -1,6 +1,6 @@
 Main stream media has drawbacks, as illustrated in the video below.
 
-{{< addmp4vid news_propaganda.mp4>}}
+{{< addmp4vid news_propaganda.mp4 >}}
 
 Here are some alternatives!
 

@@ -3,4 +3,4 @@ more:
   - name: "View Source"
     ref: "https://github.com/Econiverse/econiverse"
     external: true
-    icon: "github"
+    icon: "gdoc_github"
