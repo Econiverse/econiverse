@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "The Hitchhikers Guide to Finance"
+title = "Econiverse"
 theme = "hugo-geekdoc"
 
 # Required to get well formatted code blocks
