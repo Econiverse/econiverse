@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "http://econiverse.github.io"
 title = "Econiverse"
 theme = "hugo-geekdoc"
 
