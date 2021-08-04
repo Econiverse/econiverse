@@ -3,8 +3,8 @@ main:
   - name: Market Basics
     ref: "/market_basics"
     sub:
-      - name: Charts, Float, Market Cap
-        ref: "/market_basics/charts_float_marketcap"
+      - name: What Is A Stock Chart?
+        ref: "/market_basics/what_is_a_stock_chart"
       - name: Trading
         ref: "/market_basics/trading"
       - name: Psychology
@@ -84,6 +84,8 @@ main:
         ref: "online_privacy/encrypted_email"
       - name: Encrypted Cloud Data Storage
         ref: "online_privacy/encrypted_cloud_data_storage"
+  - name: Taxes and Wealth Management
+    ref: "/taxes_and_wealth_management"
   - name: Help Build the Community
     ref: "/help_build_the_community"
     sub:
