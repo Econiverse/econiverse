@@ -1,0 +1,95 @@
+---
+main:
+  - name: Market Basics
+    ref: "/market_basics"
+    sub:
+      - name: Charts, Float, Market Cap
+        ref: "/market_basics/charts_float_marketcap"
+      - name: Trading
+        ref: "/market_basics/trading"
+      - name: Psychology
+        ref:  "/market_basics/psychology"
+      - name: Account Types
+        ref:  "/market_basics/account_types"
+        sub:
+          - name: Cash vs. Margin
+            ref: "/market_basics/account_types/cash_vs_margin"
+          - name: Tax Advantaged Accounts
+            ref: "/market_basics/account_types/tax_advantaged_accounts"
+      - name: Further Education
+        ref: "/market_basics/further_education"
+  - name: Technical Analysis
+    ref: "/technical_analysis"
+    sub:
+      - name: Chart Patterns
+        ref: "/technical_analysis/chart_patterns"
+      - name: Moving Averages
+        ref: "/technical_analysis/moving_averages"
+      - name: Indicators and Oscillators
+        ref: "/technical_analysis/indicators_and_oscillators"
+      - name: Support and Resistance
+        ref: "/technical_analysis/support_and_resistance"
+      - name: Advanced Techniques
+        ref: "/technical_analysis/advanced_techniques"
+  - name: Options
+    ref: "/options"
+    sub:
+      - name: What Are Options
+        ref:  "/options/what_are_options"
+      - name: Basic Strategies
+        ref:  "/options/basic_strategies"
+      - name: Advanced Strategies
+        ref:  "/options/advanced_strategies"
+      - name: Greeks
+        ref: "/options/greeks"
+  - name: Cryptocurrency
+    ref: "/cryptocurrency"
+    sub:
+      - name: Blockchain Overview
+        ref: "/cryptocurrency/blockchain_overview"
+      - name: How to Exchange
+        ref: "/cryptocurrency/how_to_exchange"
+      - name: Automated Trading
+        ref: "/cryptocurrency/automated_trading"
+      - name: Decentralized Finance
+        ref: "/cryptocurrency/decentralized_finance"
+      - name: Decentralized Services
+        ref: "/cryptocurrency/decentralized_services"
+  - name: Due Diligence
+    ref: "/due_diligence"
+    sub:
+      - name: Market Data
+        ref: "due_diligence/market_data"
+      - name: Internet Archives
+        ref: "due_diligence/internet_archives"
+      - name: Alternatives to Main Stream Media
+        ref: "due_diligence/alternatives_to_main_stream_media"
+      - name: Macrofinance Movie List
+        ref: "due_diligence/macrofinance_movie_list"
+      - name: GME
+        ref: "/due_diligence/GME"
+        sub:
+          - name: Reddit Subs
+            ref: "/due_diligence/GME/reddit_subs"
+  - name: Online Privacy
+    ref: "online_privacy"
+    sub:
+      - name: Browsers and Search Engines
+        ref: "online_privacy/browsers_and_search_engines"
+      - name: VPN
+        ref: "online_privacy/vpn"
+      - name: Free Open Source Software (FOSS)
+        ref: "online_privacy/foss"
+      - name: Encrypted Email
+        ref: "online_privacy/encrypted_email"
+      - name: Encrypted Cloud Data Storage
+        ref: "online_privacy/encrypted_cloud_data_storage"
+  - name: Help Build the Community
+    ref: "/help_build_the_community"
+    sub:
+      - name: Edit With Web Browser
+        ref: "/help_build_the_community/edit_with_web_browser"
+      - name: Edit Locally
+        ref: "/help_build_the_community/edit_locally"
+      - name: Maintainers
+        ref: "/help_build_the_community/maintainers"

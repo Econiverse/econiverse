@@ -1,0 +1,1 @@
+stochastic oscillator, RSI, MACD
