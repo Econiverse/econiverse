@@ -1,23 +1,47 @@
 ---
 main:
-  - name: Market Basics
-    ref: "/market_basics"
+  - name: Fundamentals
+    ref: "/fundamentals"
     sub:
       - name: What Is A Stock Chart?
-        ref: "/market_basics/what_is_a_stock_chart"
+        ref: "/fundamentals/what_is_a_stock_chart"
       - name: Order Types
-        ref: "/market_basics/order_types"
+        ref: "/fundamentals/order_types"
       - name: Account Types
-        ref:  "/market_basics/account_types"
+        ref:  "/fundamentals/account_types"
         sub:
           - name: Cash vs. Margin
-            ref: "/market_basics/account_types/cash_vs_margin"
+            ref: "/fundamentals/account_types/cash_vs_margin"
           - name: Tax Advantaged Accounts
-            ref: "/market_basics/account_types/tax_advantaged_accounts"
+            ref: "/fundamentals/account_types/tax_advantaged_accounts"
+      - name: Options
+        ref: "/fundamentals/options"
+        sub:
+          - name: What Are Options
+            ref:  "/fundamentals/options/what_are_options"
+          - name: Basic Strategies
+            ref:  "/fundamentals/options/basic_strategies"
+          - name: Advanced Strategies
+            ref:  "/fundamentals/options/advanced_strategies"
+          - name: Greeks
+            ref: "/fundamentals/options/greeks"
+      - name: Cryptocurrency
+        ref: "/fundamentals/cryptocurrency"
+        sub:
+          - name: Blockchain Overview
+            ref: "/fundamentals/cryptocurrency/blockchain_overview"
+          - name: How to Exchange
+            ref: "/fundamentals/cryptocurrency/how_to_exchange"
+          - name: Automated Trading
+            ref: "/fundamentals/cryptocurrency/automated_trading"
+          - name: Decentralized Finance
+            ref: "/fundamentals/cryptocurrency/decentralized_finance"
+          - name: Decentralized Services
+            ref: "/fundamentals/cryptocurrency/decentralized_services"
       - name: Psychology
-        ref:  "/market_basics/psychology"
+        ref:  "/fundamentals/psychology"
       - name: Further Education
-        ref: "/market_basics/further_education"
+        ref: "/fundamentals/further_education"
   - name: Technical Analysis
     ref: "/technical_analysis"
     sub:
@@ -31,30 +55,6 @@ main:
         ref: "/technical_analysis/support_and_resistance"
       - name: Advanced Techniques
         ref: "/technical_analysis/advanced_techniques"
-  - name: Options
-    ref: "/options"
-    sub:
-      - name: What Are Options
-        ref:  "/options/what_are_options"
-      - name: Basic Strategies
-        ref:  "/options/basic_strategies"
-      - name: Advanced Strategies
-        ref:  "/options/advanced_strategies"
-      - name: Greeks
-        ref: "/options/greeks"
-  - name: Cryptocurrency
-    ref: "/cryptocurrency"
-    sub:
-      - name: Blockchain Overview
-        ref: "/cryptocurrency/blockchain_overview"
-      - name: How to Exchange
-        ref: "/cryptocurrency/how_to_exchange"
-      - name: Automated Trading
-        ref: "/cryptocurrency/automated_trading"
-      - name: Decentralized Finance
-        ref: "/cryptocurrency/decentralized_finance"
-      - name: Decentralized Services
-        ref: "/cryptocurrency/decentralized_services"
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
@@ -71,6 +71,8 @@ main:
         sub:
           - name: Reddit Subs
             ref: "/due_diligence/GME/reddit_subs"
+          - name: wikAPEdia
+            ref: "/due_diligence/GME/wikapedia"
   - name: Online Privacy
     ref: "online_privacy"
     sub:
