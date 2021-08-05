@@ -19,12 +19,12 @@ main:
         sub:
           - name: What Are Options
             ref:  "/fundamentals/options/what_are_options"
+          - name: Greeks
+            ref: "/fundamentals/options/greeks"
           - name: Basic Strategies
             ref:  "/fundamentals/options/basic_strategies"
           - name: Advanced Strategies
             ref:  "/fundamentals/options/advanced_strategies"
-          - name: Greeks
-            ref: "/fundamentals/options/greeks"
       - name: Cryptocurrency
         ref: "/fundamentals/cryptocurrency"
         sub:
