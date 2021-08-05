@@ -5,10 +5,8 @@ main:
     sub:
       - name: What Is A Stock Chart?
         ref: "/market_basics/what_is_a_stock_chart"
-      - name: Trading
-        ref: "/market_basics/trading"
-      - name: Psychology
-        ref:  "/market_basics/psychology"
+      - name: Order Types
+        ref: "/market_basics/order_types"
       - name: Account Types
         ref:  "/market_basics/account_types"
         sub:
@@ -16,6 +14,8 @@ main:
             ref: "/market_basics/account_types/cash_vs_margin"
           - name: Tax Advantaged Accounts
             ref: "/market_basics/account_types/tax_advantaged_accounts"
+      - name: Psychology
+        ref:  "/market_basics/psychology"
       - name: Further Education
         ref: "/market_basics/further_education"
   - name: Technical Analysis
@@ -86,12 +86,12 @@ main:
         ref: "online_privacy/encrypted_cloud_data_storage"
   - name: Taxes and Wealth Management
     ref: "/taxes_and_wealth_management"
-  - name: Help Build the Community
-    ref: "/help_build_the_community"
+  - name: Help Build Econiverse
+    ref: "/help_build_econiverse"
     sub:
       - name: Edit With Web Browser
-        ref: "/help_build_the_community/edit_with_web_browser"
+        ref: "/help_build_econiverse/edit_with_web_browser"
       - name: Edit Locally
-        ref: "/help_build_the_community/edit_locally"
+        ref: "/help_build_econiverse/edit_locally"
       - name: Maintainers
-        ref: "/help_build_the_community/maintainers"
+        ref: "/help_build_econiverse/maintainers"
