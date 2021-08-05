@@ -38,6 +38,8 @@ main:
             ref: "/fundamentals/cryptocurrency/decentralized_finance"
           - name: Decentralized Services
             ref: "/fundamentals/cryptocurrency/decentralized_services"
+          - name: Other Resources
+            ref: "/fundamentals/cryptocurrency/other_resources"
       - name: Psychology
         ref:  "/fundamentals/psychology"
       - name: Further Education
