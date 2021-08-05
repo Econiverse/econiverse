@@ -1,3 +1,4 @@
+This page still needs to be built! You can help by [contributing](/help_build_the_community/edit_with_web_browser/) knowledge!
 
 Intro information about the page (optional). something like? here is a list of subs
 that are good resources for information about the situation surrounding GME
