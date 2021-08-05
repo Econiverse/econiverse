@@ -1,2 +1,2 @@
 # econiverse
-Website for Econiverse
+Econiverse website content
