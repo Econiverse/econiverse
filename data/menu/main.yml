@@ -80,6 +80,8 @@ main:
     sub:
       - name: Browsers and Search Engines
         ref: "privacy_and_security/browsers_and_search_engines"
+      - name: Cell Phones
+        ref: "privacy_and_security/cell_phones"
       - name: VPN
         ref: "privacy_and_security/vpn"
       - name: Free Open Source Software (FOSS)
@@ -88,8 +90,6 @@ main:
         ref: "privacy_and_security/encrypted_email"
       - name: Encrypted Cloud Data Storage
         ref: "privacy_and_security/encrypted_cloud_data_storage"
-      - name: Cell Phones
-        ref: "privacy_and_security/cell_phones"
   - name: Taxes and Wealth Management
     ref: "/taxes_and_wealth_management"
   - name: Help Build Econiverse
