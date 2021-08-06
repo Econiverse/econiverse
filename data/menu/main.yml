@@ -75,19 +75,21 @@ main:
             ref: "/due_diligence/GME/reddit_subs"
           - name: wikAPEdia
             ref: "/due_diligence/GME/wikapedia"
-  - name: Online Privacy
-    ref: "online_privacy"
+  - name: Privacy And Security
+    ref: "privacy_and_security"
     sub:
       - name: Browsers and Search Engines
-        ref: "online_privacy/browsers_and_search_engines"
+        ref: "privacy_and_security/browsers_and_search_engines"
       - name: VPN
-        ref: "online_privacy/vpn"
+        ref: "privacy_and_security/vpn"
       - name: Free Open Source Software (FOSS)
-        ref: "online_privacy/foss"
+        ref: "privacy_and_security/foss"
       - name: Encrypted Email
-        ref: "online_privacy/encrypted_email"
+        ref: "privacy_and_security/encrypted_email"
       - name: Encrypted Cloud Data Storage
-        ref: "online_privacy/encrypted_cloud_data_storage"
+        ref: "privacy_and_security/encrypted_cloud_data_storage"
+      - name: Cell Phones
+        ref: "privacy_and_security/cell_phones"
   - name: Taxes and Wealth Management
     ref: "/taxes_and_wealth_management"
   - name: Help Build Econiverse
