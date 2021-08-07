@@ -1,27 +1,52 @@
-This page still needs to be built! You can help by [contributing](/help_build_the_community/edit_with_web_browser/) knowledge!
-
-Intro information about the page (optional). something like? here is a list of subs
-that are good resources for information about the situation surrounding GME
+Here is a list of subs that are good resources for information about the situation surrounding GME.
 
 
 {{< toc >}}
 
 ## Autisticats
 
-the best sub ever :)
+[Autisticats](https://www.reddit.com/r/Autisticats/)
+
+A community for GameStop stock owners, who enjoy learning about the larger picture, to discuss whatever they want, uncensored! Academic discussion on every topic is encouraged but anything that is hateful will not be tolerated. Please review the rule list for an explanation of what this means before posting or commenting.
+
+## TheGloryHodl
+
+[TheGloryHodl](https://www.reddit.com/r/TheGloryHodl/)
+
+"A foxhole for apes...but glorier!" This sub is a safe place for information ONLY. It is meant to be a smaller sub—for AMC/GME apes alike and whatever eventually comes after—that is less overwhelmed by chaos and noise than others. Think of it as an unofficial ape library. Remember those? Ideally, this sub will remain shill-free and and will also provide us with a solid, reliable place to share DD, research, news/media stories, and intel.
+
+## ratioatblessons
+
+[RatioAtBlessons](https://www.reddit.com/r/ratioatblessons/)
+
+All is flair in profits & losses. Success investing starts with self investing. Grow your portfolio. Increase your knowledge. Make some history in the process surrounded by those just like you. We all /RatioAt something..what do you?
 
 ## GME
 
-good dd, became popular during the drama on ..
+[GME](https://www.reddit.com/r/GME/)
 
-## ddIntoGME
+Gamestop ($GME) Stock: 🚀 Get Ready For The Biggest Short Squeeze Of Our Lifetime 🚀
 
-sub that only allows original content and focus specifically on dinging into GMEdd
+## GME2
 
-## another sub
+[GME2](https://www.reddit.com/r/GME2/)
 
-bla
+Seems like /r/GME was taken over by bots. On to the next one folks!
 
-## anothernother sub
+## tradespotting
 
-blabla
+[tradespotting](https://www.reddit.com/r/tradespotting/)
+
+The tradespotting subreddit
+
+## MoonBets
+
+[MoonBets](https://www.reddit.com/r/MoonBets/)
+
+💎WE ARE NOT SELLING 💎 Fueled by Stocks & Crypto 🚀
+
+## MOASS
+
+[MOASS](https://www.reddit.com/r/MOASS/)
+
+This is an Ape Fallout Shelter. See below for where to travel from here. Profit to the People. Power to the Players. 💎✊
