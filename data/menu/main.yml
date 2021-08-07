@@ -80,8 +80,8 @@ main:
     sub:
       - name: Browsers and Search Engines
         ref: "privacy_and_security/browsers_and_search_engines"
-      - name: Cell Phones
-        ref: "privacy_and_security/cell_phones"
+      - name: Cell Phone
+        ref: "privacy_and_security/cell_phone"
       - name: VPN
         ref: "privacy_and_security/vpn"
       - name: Free Open Source Software (FOSS)
