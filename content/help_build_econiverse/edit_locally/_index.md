@@ -23,7 +23,7 @@ site. Instructions for how to install it can be found [here](https://gohugo.io/g
 
 At this point, you should have then entire site downloaded locally and a way to
 run it, so, let's test it! Using the command line, navigate to the location where
-you cloned TheTravelGuide. Once there, run `hugo server -D`. You should be able
+you cloned *econiverse*. Once there, run `hugo server -D`. You should be able
 to open the website by navigating to *localhost:1313* in your browser.
 
 ## Download Atom
@@ -36,7 +36,7 @@ Download Atom [here](https://atom.io/).
 ## Edit the Site!
 
 At this point, you have everything you need to make edits and view them locally.
-Open Atom, navigate to *File -> Add Project Folder*, and then add TheTravelGuide
+Open Atom, navigate to *File -> Add Project Folder*, and then add *econiverse*
 folder that you previously cloned.  
 
 ## Site Organization
