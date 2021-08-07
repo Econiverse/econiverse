@@ -25,6 +25,10 @@ main:
             ref:  "/fundamentals/options/basic_strategies"
           - name: Advanced Strategies
             ref:  "/fundamentals/options/advanced_strategies"
+      - name: Forex
+        ref: "/fundamentals/forex"
+      - name: Futures
+        ref: "/fundamentals/futures"
       - name: Cryptocurrency
         ref: "/fundamentals/cryptocurrency"
         sub:
