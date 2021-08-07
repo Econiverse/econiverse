@@ -1,5 +1,4 @@
 ---
-title: How to Edit This Site Through a Web Browser
 resources:
   - name: commit_button
     src: "commit_button.png"
