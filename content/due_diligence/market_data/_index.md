@@ -17,7 +17,7 @@ Here's some market data sources!
 ## Ownership Data
 | Source | Description
 :---|---
-| [ETF Holding Data](https://www.etf.com/etfanalytics/etf-stock-finder) | Stock Ownership by ETF
+| [ETF.com](https://www.etf.com/etfanalytics/etf-stock-finder) | Stock Ownership by ETF
 | [Holdings Channel](https://www.holdingschannel.com/bystock/) | Hedge Fund Holdings
 | [Fintel](https://fintel.io/) | Institutional Ownership, SEC Filings, Insier Trading
 | [US Senate Stock Watcher](https://senatestockwatcher.com/) | US Senate Ownership Data
