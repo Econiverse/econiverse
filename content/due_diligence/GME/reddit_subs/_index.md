@@ -15,7 +15,7 @@ A community for GameStop stock owners, who enjoy learning about the larger pictu
 
 "A foxhole for apes...but glorier!" This sub is a safe place for information ONLY. It is meant to be a smaller sub—for AMC/GME apes alike and whatever eventually comes after—that is less overwhelmed by chaos and noise than others. Think of it as an unofficial ape library. Remember those? Ideally, this sub will remain shill-free and and will also provide us with a solid, reliable place to share DD, research, news/media stories, and intel.
 
-## ratioatblessons
+## RatioAtBlessons
 
 [RatioAtBlessons](https://www.reddit.com/r/ratioatblessons/)
 
