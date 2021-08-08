@@ -1,1 +1,17 @@
-This page still needs to be built! You can help by [contributing](/help_build_econiverse/) knowledge!
+---
+resources:
+  - name: epicresearchchart
+    src: "epicresearchchart.jpeg"
+    title: Basic Patterns
+    params:
+      credits: https://www.pinterest.com/pin/792422496904680304/
+  - name: charts2
+    src: "charts2.jpg"
+    title: More Basic Patterns
+    params:
+      credits: https://pbs.twimg.com/media/B_YvrR8UgAAmfod.jpg
+---
+
+{{< img name="epicresearchchart" lazy=false >}}
+
+{{< img name="charts2" lazy=false >}}
