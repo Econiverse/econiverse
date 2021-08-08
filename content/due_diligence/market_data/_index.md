@@ -6,7 +6,7 @@ Here's some market data sources!
 | Source | Description
 :---|---
 | [Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/default.jsp) | Market Data From Finra
-| [Daily Volume By Exchange](https://chartexchange.com) | Daily Volume by Exchange
+| [ChartExchange](https://chartexchange.com) | Daily Volume by Exchange (Under Stats)
 | [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) | Open Source Bloomberg Terminal
 | [Finviz Map](https://finviz.com/map.ashx) | Visual Gains and Losses for Stocks and ETFs
 | [Max Pain (Option Data)](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
