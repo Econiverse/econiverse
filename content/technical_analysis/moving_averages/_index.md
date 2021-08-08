@@ -1,3 +1,7 @@
-This page still needs to be built! You can help by [contributing](/help_build_econiverse/) knowledge!
+---
 
-simple moving averages, exponential moving averages
+---
+
+Source: https://www.investopedia.com/ask/answers/122314/what-exponential-moving-average-ema-formula-and-how-ema-calculated.asp
+
+{{< siteinsite "https://www.investopedia.com/ask/answers/122314/what-exponential-moving-average-ema-formula-and-how-ema-calculated.asp" >}}
