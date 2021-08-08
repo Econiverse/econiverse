@@ -1,6 +1,3 @@
-This page still needs to be complete! You can help by [contributing](help_build_econiverse/edit_with_web_browser/) knowledge!
-
-
 It is imperative for travelers to do their own critical and cross-checked due dilligence (dd). Here are some sources worth checking out in order to better your understanding of the financial information universe, specifically as related to GME:
 
 [Moon Timers](https://www.moontimers.com/home/all)
