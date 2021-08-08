@@ -11,6 +11,8 @@ Here's some market data sources!
 | [Finviz Map](https://finviz.com/map.ashx) | Visual Gains and Losses for Stocks and ETFs
 | [Max Pain (Option Data)](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
 | [Dark Pool Data](https://www.stockgrid.io/darkpools) | Dark Pool Data
+| [stocksera](https://stocksera.pythonanywhere.com/) | Open Source Analysis, Financials, Option Data, Short Volume, and Failure to Deliver
+| [Federal Reserve Bank of New York](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) | Repo and Reverse Repo Operations Data
 
 ## Ownership Data
 | Source | Description

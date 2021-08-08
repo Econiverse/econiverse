@@ -25,6 +25,8 @@ Here are some alternatives!
 
 [Unlimited Hangout](https://unlimitedhangout.com/)
 
+[The Komisar Scoop](https://www.thekomisarscoop.com/)
+
 ## YouTube Videos
 [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw)
 
