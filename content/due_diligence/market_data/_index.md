@@ -3,44 +3,34 @@ Here's some market data sources!
 {{< toc >}}
 
 ## Price and Volume Data
-
-[Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CH&sdkVersion=2.60.1)
-
-[GameStop Daily Volume By Exchange](https://chartexchange.com/symbol/nyse-gme/stats/?uy=3287)
-
-[Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
-
-[Finviz Map](https://finviz.com/map.ashx)
-
-[Max Pain (Option Data)](https://maximum-pain.com/options/GME)
-
-[Dark Pool Data](https://www.stockgrid.io/darkpools)
-
-[Quiver Quantitative](https://www.quiverquant.com/dashboard/GME/)
+| Source | Description
+:---|---
+| [Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/default.jsp) | Market Data From Finra
+| [Daily Volume By Exchange](https://chartexchange.com) | Daily Volume by Exchange
+| [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) | Open Source Bloomberg Terminal
+| [Finviz Map](https://finviz.com/map.ashx) | Visual Gains and Losses for Stocks and ETFs
+| [Max Pain (Option Data)](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
+| [Dark Pool Data](https://www.stockgrid.io/darkpools) | Dark Pool Data
 
 ## Ownership Data
-[ETF Holding Data](https://www.etf.com/stock/GME)
-
-[Funds Holdings](https://www.holdingschannel.com/bystock/?symbol=gme)
-
-[Institutional Ownership](https://fintel.io/so/us/gme?__cf_chl_jschl_tk__=pmd_a611be6379e6a29703cbd172f710a4225fadb244-1627167768-0-gqNtZGzNAg2jcnBszQ1i)
-
-[US Senate Stock Watcher](https://senatestockwatcher.com/)
-
-[US House of Representatives Stock Watcher](https://housestockwatcher.com/)
+| Source | Description
+:---|---
+| [ETF Holding Data](https://www.etf.com/etfanalytics/etf-stock-finder) | Stock Ownership by ETF
+| [Holdings Channel](https://www.holdingschannel.com/bystock/) | Hedge Fund Holdings
+| [Fintel](https://fintel.io/) | Institutional Ownership, SEC Filings, Insier Trading
+| [US Senate Stock Watcher](https://senatestockwatcher.com/) | US Senate Ownership Data
+| [US House of Representatives Stock Watcher](https://housestockwatcher.com/) | US House of Representatives Ownership Data
 
 ## Regulatory Data
-
-[SEC FTD Data](https://www.sec.gov/data/foiadocsfailsdatahtm)
-
-[Trading Halts](https://nasdaqtrader.com/trader.aspx?id=TradeHalts)
-
-[Market Holidays](https://www.nyse.com/markets/hours-calendars)
-
-[Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker)
-
-[DTCC - SEC Rule Filings](https://www.dtcc.com/legal/sec-rule-filings)
+| Source | Description
+:---|---
+| [SEC FTD Data](https://www.sec.gov/data/foiadocsfailsdatahtm) | Failure to Deliver Data From The SEC
+| [Trading Halts](https://nasdaqtrader.com/trader.aspx?id=TradeHalts) | Current and Past Trading Haults
+| [Market Holidays](https://www.nyse.com/markets/hours-calendars) | NYSE Market Holidays
+| [Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker) | When Triggered, Restricts Short Selling
+| [DTCC - SEC Rule Filings](https://www.dtcc.com/legal/sec-rule-filings) | Regulatory Rule Filings
 
 ## Social Data
-
-[Reddit Search](https://camas.github.io/reddit-search/)
+| Source | Description
+:---|---
+| [Reddit Search](https://camas.github.io/reddit-search/) | Search Reddit by Author, Subreddit, Comments/Posts, Date, Search Terms
