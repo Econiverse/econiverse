@@ -9,3 +9,5 @@ Technical traders follow things such as chart patterns, indicators, oscillators,
 In this section, you will find information that can help you to understand these basics of Technical Analysis, along with links to resources for further learning.
 
 It is important to note, like any other strategy, TA works best when paired with other forms of analysis, and can fail for a variety of reasons- the most common of which being user error. This is why you must not rely entirely on one strategy, but instead use multiple analysis strategies to complement each other.
+
+test edit
