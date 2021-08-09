@@ -1,16 +1,14 @@
+<form>
+  <input id="myURL" name="myURL" type="url">
+  <button>Submit</button>
+</form>
 
-
-
-<input type="url"/>
-<button type="submit">🔎</button><br>
-
-
+<iframe src="https://duckduckgo.com/" width=100% height=1000></iframe>
 
 <script>
     document.querySelector("button").addEventListener("click", ()=>{
         let src = document.querySelector("input").value;
         document.querySelector("iframe").setAttribute("src", src);
+        console.log()
   });
 </script>
-
-<iframe src="www.duckduckgo.com"width=100% height=1000></iframe>
