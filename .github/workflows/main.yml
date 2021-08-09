@@ -24,11 +24,11 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.Econiverse_Secret }}
+          personal_token: ${{ secrets.dangers_secret }}
           external_repository: Econiverse/Econiverse.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: Econiverse
-          user_email: lunarnautics@protonmail.com
+          #user_name: Econiverse
+          #user_email: lunarnautics@protonmail.com
           publish_branch: main
         #   cname: example.com
