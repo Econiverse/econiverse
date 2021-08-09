@@ -1,6 +1,4 @@
 ---
 
 ---
-hi
-
-{{< proxy >}}
+This page is under construction!
