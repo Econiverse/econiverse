@@ -80,8 +80,6 @@ main:
         ref: "due_diligence/alternatives_to_main_stream_media"
       - name: Macrofinance Movie List
         ref: "due_diligence/macrofinance_movie_list"
-      - name: Website Proxy
-        ref: "/due_diligence/website_proxy"
   - name: GME
     ref: "/GME"
     sub:
@@ -100,6 +98,8 @@ main:
         ref: "privacy_and_security/cell_phone"
       - name: VPN
         ref: "privacy_and_security/vpn"
+      - name: Website Proxy
+        ref: "privacy_and_security/website_proxy"
       - name: Free Open Source Software (FOSS)
         ref: "privacy_and_security/foss"
       - name: Encrypted Email
