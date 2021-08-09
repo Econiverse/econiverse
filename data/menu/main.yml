@@ -80,13 +80,17 @@ main:
         ref: "due_diligence/alternatives_to_main_stream_media"
       - name: Macrofinance Movie List
         ref: "due_diligence/macrofinance_movie_list"
-      - name: GME
-        ref: "/due_diligence/GME"
-        sub:
-          - name: Reddit Subs
-            ref: "/due_diligence/GME/reddit_subs"
-          - name: wikAPEdia
-            ref: "/due_diligence/GME/wikapedia"
+      - name: Website Proxy
+        ref: "/due_diligence/website_proxy"
+  - name: GME
+    ref: "/GME"
+    sub:
+      - name: GameStop Official
+        ref: "/GME/gamestop_official"
+      - name: Reddit Subs
+        ref: "/GME/reddit_subs"
+      - name: wikAPEdia
+        ref: "/GME/wikapedia"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
