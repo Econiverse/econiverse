@@ -86,7 +86,11 @@ main:
       - name: GameStop Official
         ref: "/GME/gamestop_official"
       - name: Reddit Subs
-        ref: "/GME/reddit_subs"
+        sub:
+          - name: Main Stream Subs
+            ref: "/GME/reddit_subs/main_stream_subs"
+          - name: Alternate Subs
+            ref: "/GME/reddit_subs/alternate_subs"
       - name: wikAPEdia
         ref: "/GME/wikapedia"
   - name: Privacy And Security
