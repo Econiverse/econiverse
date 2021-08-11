@@ -17,9 +17,10 @@ Here's some market data sources!
 ## Ownership Data
 | Source | Description
 :---|---
+| [Fintel](https://fintel.io/) | Institutional Ownership, SEC Filings, Insier Trading
+| [Open Insider](http://openinsider.com/) | Insider Trading Info
 | [ETF.com](https://www.etf.com/etfanalytics/etf-stock-finder) | Stock Ownership by ETF
 | [Holdings Channel](https://www.holdingschannel.com/bystock/) | Hedge Fund Holdings
-| [Fintel](https://fintel.io/) | Institutional Ownership, SEC Filings, Insier Trading
 | [US Senate Stock Watcher](https://senatestockwatcher.com/) | US Senate Ownership Data
 | [US House of Representatives Stock Watcher](https://housestockwatcher.com/) | US House of Representatives Ownership Data
 
@@ -27,12 +28,13 @@ Here's some market data sources!
 | Source | Description
 :---|---
 | [SEC FTD Data](https://www.sec.gov/data/foiadocsfailsdatahtm) | Failure to Deliver Data From The SEC
-| [Trading Halts](https://nasdaqtrader.com/trader.aspx?id=TradeHalts) | Current and Past Trading Haults
+| [Trading Halts](https://nasdaqtrader.com/trader.aspx?id=TradeHalts) | Current and Past Trading Halts
 | [Market Holidays](https://www.nyse.com/markets/hours-calendars) | NYSE Market Holidays
 | [Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker) | When Triggered, Restricts Short Selling
 | [DTCC - SEC Rule Filings](https://www.dtcc.com/legal/sec-rule-filings) | Regulatory Rule Filings
 
-## Social Data
+## Other Data
 | Source | Description
 :---|---
 | [Reddit Search](https://camas.github.io/reddit-search/) | Search Reddit by Author, Subreddit, Comments/Posts, Date, Search Terms
+| [Open Secrets](https://www.opensecrets.org/) | Political Contributions, Dark Money
