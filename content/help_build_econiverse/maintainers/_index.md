@@ -4,4 +4,4 @@ This site is currently maintained by:
 
 [dangerous_dylan](https://www.reddit.com/user/dangerous_dylan/)
 
-[Minstrelwater](https://www.reddit.com/user/minstrelwater)
+[Minstrelwater](https://www.reddit.com/user/minstrelwater) - Loves Tuesdays
