@@ -21,6 +21,8 @@ main:
             ref:  "/fundamentals/options/what_are_options"
           - name: Greeks
             ref: "/fundamentals/options/greeks"
+      - name: ETFs
+        ref: "/fundamentals/etf"
       - name: Forex
         ref: "/fundamentals/forex"
       - name: Futures
