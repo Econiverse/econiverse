@@ -1,4 +1,4 @@
-Here is a list of subs that are good resources for information about the situation surrounding GME.
+Here is a list of smaller subs that are generally good places for discussion regarding the larger puzzle pieces surrounding GME.
 
 
 {{< toc >}}
@@ -21,11 +21,6 @@ A community for GameStop stock owners, who enjoy learning about the larger pictu
 
 All is flair in profits & losses. Success investing starts with self investing. Grow your portfolio. Increase your knowledge. Make some history in the process surrounded by those just like you. We all /RatioAt something..what do you?
 
-## GME
-
-[GME](https://www.reddit.com/r/GME/)
-
-Gamestop ($GME) Stock: 🚀 Get Ready For The Biggest Short Squeeze Of Our Lifetime 🚀
 
 ## GME2
 

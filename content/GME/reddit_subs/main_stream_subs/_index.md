@@ -1,3 +1,7 @@
+Here are the main stream subs related to GameStop and naked shorts:
+
+{{< toc >}}
+
 ## Superstonk
 
 [Superstonk](https://www.reddit.com/r/Superstonk/)
@@ -27,4 +31,3 @@ Official Discord: https://discord.gg/DeepFuckingValue _________________________ 
 [GMEJungle](https://www.reddit.com/r/GMEJungle/)
 
 A safe place for apes who like the stock $GME. Naked shorts never closed, but they must.
-
