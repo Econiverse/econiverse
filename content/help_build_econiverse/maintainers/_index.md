@@ -4,4 +4,4 @@ This site is currently maintained by:
 
 [dangerous_dylan](https://www.reddit.com/user/dangerous_dylan/)
 
-[disoriented_llama](https://www.reddit.com/user/disoriented_llama/)
+[Minstrelwater](https://www.reddit.com/user/minstrelwater)
