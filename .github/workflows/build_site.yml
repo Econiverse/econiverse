@@ -1,4 +1,4 @@
-name: CI
+name: Build Site
 on: push
 jobs:
   deploy:
@@ -29,5 +29,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: Econiverse
+          user_email: lunarnautics@protonmail.com
           publish_branch: main
         #   cname: example.com
