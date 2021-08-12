@@ -21,18 +21,17 @@ A community for GameStop stock owners, who enjoy learning about the larger pictu
 
 All is flair in profits & losses. Success investing starts with self investing. Grow your portfolio. Increase your knowledge. Make some history in the process surrounded by those just like you. We all /RatioAt something..what do you?
 
-
-## GME2
-
-[GME2](https://www.reddit.com/r/GME2/)
-
-Seems like /r/GME was taken over by bots. On to the next one folks!
-
 ## tradespotting
 
 [tradespotting](https://www.reddit.com/r/tradespotting/)
 
 The tradespotting subreddit
+
+## WallstreetBreakers
+
+[WallstreetBreakers](https://www.reddit.com/r/WallstreetBreakers/)
+
+Down with the corrupt, one sided manipulation of the financial markets! We are here for one reason... to see you on the moon!! Nothing posted is intended as financial advice. All investments are made at your own risk, and this SUB and its mods are not responsible for any financial detriment you may incurr through investing or trading.
 
 ## MoonBets
 
@@ -45,3 +44,9 @@ The tradespotting subreddit
 [MOASS](https://www.reddit.com/r/MOASS/)
 
 This is an Ape Fallout Shelter. See below for where to travel from here. Profit to the People. Power to the Players. 💎✊
+
+## GME2
+
+[GME2](https://www.reddit.com/r/GME2/)
+
+Seems like /r/GME was taken over by bots. On to the next one folks!
