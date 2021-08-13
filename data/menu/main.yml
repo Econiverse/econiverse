@@ -46,6 +46,8 @@ main:
         ref:  "/fundamentals/psychology"
       - name: Further Education
         ref: "/fundamentals/further_education"
+      - name: Resources
+        ref: "/fundamentals/resources"
   - name: Technical Analysis
     ref: "/technical_analysis"
     sub:
