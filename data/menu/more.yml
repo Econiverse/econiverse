@@ -4,7 +4,7 @@ more:
     ref: "https://github.com/Econiverse/econiverse"
     external: true
     icon: "gdoc_github"
-  - name: "AGPL-3.0 License"
+  - name: "License"
     ref: "https://github.com/Econiverse/econiverse/blob/main/LICENSE"
     external: true
     icon: "scales-of-justice"
