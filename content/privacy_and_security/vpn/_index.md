@@ -24,4 +24,4 @@ somehow.
 1. Use a VPN - Pay for it
 2. Do not use a VPN based in a country who is part of [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
 3. Use a provider who runs RAM-Only servers
-4. Change your DNS service provider to a secure one like Cloudflare
+4. Change your DNS service provider to a secure one like [Cloudflare](https://www.cloudflare.com/dns/). You can test for DNS leaks [here](https://www.dnsleaktest.com/).
