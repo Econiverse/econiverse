@@ -20,6 +20,13 @@ the way Signal works. Learn more about Signal from their website [here](https://
 
 {{< img name="signal" lazy=true size=medium >}}
 
+## Receive Anonymous SMS Online
+These are services that allow you to use free phone numbers to receive text messages online:
+
+1. https://receivesms.cc/
+2. https://www.receivesms.org/
+3. https://oksms.org/
+
 ## App Permissions
 
 From time to time, it is recommended to review the app permissions you have granted
