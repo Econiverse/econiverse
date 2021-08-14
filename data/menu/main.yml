@@ -97,6 +97,8 @@ main:
             ref: "/GME/reddit_subs/alternate_subs"
       - name: wikAPEdia
         ref: "/GME/wikapedia"
+      - name: Additional Resources
+        ref: "/GME/additional_resources"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
