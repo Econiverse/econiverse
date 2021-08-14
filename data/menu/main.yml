@@ -99,9 +99,9 @@ main:
         ref: "/GME/wikapedia"
       - name: Twitter Feeds
         sub:
-          - name: GameStop and NFTSpike
-            ref: "/GME/twitter_feed/gamestop_nftspike"
-          - name: RC and DFV
+          - name: GameStop
+            ref: "/GME/twitter_feed/gamestop"
+          - name: RyanCohen and TheRoaringKitty
             ref: "/GME/twitter_feed/rc_dfv"
   - name: Privacy And Security
     ref: "privacy_and_security"
