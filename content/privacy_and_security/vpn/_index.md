@@ -1,3 +1,5 @@
+To start, check [here](https://browserleaks.com/ip) to see what you look like to everyone else on the internet and run a DNS leak test [here](https://www.dnsleaktest.com/) to see who you are trusting with your private data.
+
 An IP address is a unique digital location that is used to route data back and forth
 between your device and the source of the data. This location is represented in
 the form of numbers, such as [65.156.112.48]. Since this is a unique location, it can
@@ -24,4 +26,4 @@ somehow.
 1. Use a VPN - Pay for it
 2. Do not use a VPN based in a country who is part of [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
 3. Use a provider who runs RAM-Only servers
-4. Change your DNS service provider to a secure one like [Cloudflare](https://www.cloudflare.com/dns/). You can test for DNS leaks [here](https://www.dnsleaktest.com/).
+4. Change your DNS service provider to a secure one like [Cloudflare](https://www.cloudflare.com/dns/).
