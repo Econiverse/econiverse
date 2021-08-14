@@ -1,5 +1,5 @@
 ---
-title: Free and Open Source Software (FOSS)
+title: Free Open Source Software (FOSS)
 resources:
   - name: linux_timeline
     src: "linux_timeline.png"

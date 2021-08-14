@@ -97,8 +97,12 @@ main:
             ref: "/GME/reddit_subs/alternate_subs"
       - name: wikAPEdia
         ref: "/GME/wikapedia"
-      - name: Additional Resources
-        ref: "/GME/additional_resources"
+      - name: Twitter Feeds
+        sub:
+          - name: GameStop and NFTSpike
+            ref: "/GME/twitter_feed/gamestop_nftspike"
+          - name: RC and DFV
+            ref: "/GME/twitter_feed/rc_dfv"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
