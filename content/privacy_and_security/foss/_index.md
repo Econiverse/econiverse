@@ -1,5 +1,5 @@
 ---
-title: Remember to FOSS
+title: Free and Open Source Software (FOSS)
 resources:
   - name: linux_timeline
     src: "linux_timeline.png"
@@ -35,3 +35,6 @@ relevantly easy and a guide on how to install Ubuntu along side Windows can
 LibreOffice is a FOSS office suite that includes a word processor, spreadsheet,
 presentation, database, and more. It is included in the recommended software
 that is optional while installing Ubuntu and can also be found [here](https://www.libreoffice.org/download/download/).
+
+## 7-Zip
+[7-Zip](https://7-zip.org/) is a file archiver with a high compression ratio.
