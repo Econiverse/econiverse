@@ -1,5 +1,5 @@
 ---
-title: Twitter Feed of GameStop
+title: Twitter Feed of GameStop and GameStopEsports
 ---
 
 
