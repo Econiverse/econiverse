@@ -89,14 +89,14 @@ main:
     sub:
       - name: GameStop Official
         ref: "/GME/gamestop_official"
+      - name: wikAPEdia
+        ref: "/GME/wikapedia"
       - name: Reddit Subs
         sub:
           - name: Main Stream Subs
             ref: "/GME/reddit_subs/main_stream_subs"
           - name: Alternate Subs
             ref: "/GME/reddit_subs/alternate_subs"
-      - name: wikAPEdia
-        ref: "/GME/wikapedia"
       - name: Twitter Feeds
         sub:
           - name: GameStop
