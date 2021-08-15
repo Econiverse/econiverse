@@ -108,10 +108,10 @@ main:
     sub:
       - name: Browsers and Search Engines
         ref: "privacy_and_security/browsers_and_search_engines"
-      - name: Cell Phone
-        ref: "privacy_and_security/cell_phone"
       - name: VPN
         ref: "privacy_and_security/vpn"
+      - name: Cell Phone
+        ref: "privacy_and_security/cell_phone"
       - name: Website Proxy
         ref: "privacy_and_security/website_proxy"
       - name: Free Open Source Software (FOSS)
