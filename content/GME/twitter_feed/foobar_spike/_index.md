@@ -3,5 +3,4 @@
 
 ---
 
-hi
 {{< foobar_spike >}}
