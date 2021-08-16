@@ -3,5 +3,4 @@
 
 ---
 
-hi
 {{< finestone_holberg >}}
