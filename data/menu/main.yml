@@ -103,6 +103,10 @@ main:
             ref: "/GME/twitter_feed/gamestop"
           - name: RyanCohen and TheRoaringKitty
             ref: "/GME/twitter_feed/rc_dfv"
+          - name: Foobar and Spike
+            ref: "/GME/twitter_feed/foobar_spike"
+          - name: Matt Finestone and Jordan Holberg
+            ref: "/GME/twitter_feed/finestone_holberg"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
