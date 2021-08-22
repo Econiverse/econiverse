@@ -84,8 +84,8 @@ main:
         ref: "due_diligence/alternatives_to_main_stream_media"
       - name: Macrofinance Movie List
         ref: "due_diligence/macrofinance_movie_list"
-      - name: Stocksera
-        ref: "due_diligence/stocksera"
+#      - name: Stocksera
+#        ref: "due_diligence/stocksera"
   - name: GME
     ref: "/GME"
     sub:
