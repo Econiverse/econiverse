@@ -8,14 +8,12 @@ main:
       - name: Order Types
         ref: "/fundamentals/order_types"
       - name: Account Types
-        ref:  "/fundamentals/account_types"
         sub:
           - name: Cash vs. Margin
             ref: "/fundamentals/account_types/cash_vs_margin"
           - name: Tax Advantaged Accounts
             ref: "/fundamentals/account_types/tax_advantaged_accounts"
       - name: Options
-        ref: "/fundamentals/options"
         sub:
           - name: What Are Options
             ref:  "/fundamentals/options/what_are_options"
@@ -28,7 +26,6 @@ main:
       - name: Futures
         ref: "/fundamentals/futures"
       - name: Cryptocurrency
-        ref: "/fundamentals/cryptocurrency"
         sub:
           - name: Blockchain Overview
             ref: "/fundamentals/cryptocurrency/blockchain_overview"
