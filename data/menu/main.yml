@@ -64,7 +64,6 @@ main:
       - name: Trading Styles
         ref: "/strategies/trading_styles"
       - name: Options
-        ref: "/strategies/options"
         sub:
           - name: Basic
             ref:  "/strategies/options/basic"
