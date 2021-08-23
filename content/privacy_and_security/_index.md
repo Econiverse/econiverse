@@ -1,5 +1,5 @@
 ---
-title: Privacy
+
 geekdocCollapseSection: true
 ---
 
