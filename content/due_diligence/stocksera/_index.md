@@ -2,4 +2,4 @@
 
 ---
 
-{{< siteinsite "http://18.220.73.40:8000/" >}}
+{{< siteinsite "https://stocksera.pythonanywhere.com/" >}}
