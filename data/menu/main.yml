@@ -76,12 +76,12 @@ main:
         ref: "due_diligence/market_data"
       - name: Stocksera
         ref: "due_diligence/stocksera"
-      - name: Internet Archives
-        ref: "due_diligence/internet_archives"
       - name: Alternatives to Main Stream Media
         ref: "due_diligence/alternatives_to_main_stream_media"
       - name: Macrofinance Movie List
         ref: "due_diligence/macrofinance_movie_list"
+      - name: Internet Archives
+        ref: "due_diligence/internet_archives"
   - name: GME
     ref: "/GME"
     sub:
