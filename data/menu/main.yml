@@ -89,6 +89,8 @@ main:
         ref: "/GME/gamestop_official"
       - name: wikAPEdia
         ref: "/GME/wikapedia"
+      - name: SuperStonk Library
+        ref: "/GME/superstonk_library"
       - name: Reddit Subs
         sub:
           - name: Main Stream Subs
