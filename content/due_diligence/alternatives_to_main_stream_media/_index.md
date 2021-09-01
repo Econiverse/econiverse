@@ -20,6 +20,7 @@ Here are some alternatives!
 | [Bitcoin.com](https://news.bitcoin.com/) | Whether it’s your paycheck, pension, or piggybank savings, money matters to us all. The ability to freely acquire and use personal resources is a vital component of human dignity and a fundamental human right. That’s why we stand for sound money without limits.
 | [Unlimited Hangout](https://unlimitedhangout.com/) | Uncensored Investigative Journalism
 | [The Komisar Scoop](https://www.thekomisarscoop.com/) | Lucy Komisar’s beat is the secret underbelly of the global financial system — offshore bank and corporate secrecy — and its links to corporate crime; tax evasion by the corporations and the very rich; empowerment of dictators and oligarchs; bribery and corruption; drug and arms trafficking; and terrorism.
+| [Stop Naked Short Selling](https://stopnakedshortselling.org/) | Foreign Collusion, Naked Shorting (Counterfeiting) & Money Laundering — All Illicit Wealth
 
 ## YouTube Videos
 | Resource | Description

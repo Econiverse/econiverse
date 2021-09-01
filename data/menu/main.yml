@@ -58,17 +58,17 @@ main:
         ref: "/technical_analysis/support_and_resistance"
       - name: Advanced Techniques
         ref: "/technical_analysis/advanced_techniques"
-  - name: Strategies
-    ref: "/strategies"
-    sub:
-      - name: Trading Styles
-        ref: "/strategies/trading_styles"
-      - name: Options
-        sub:
-          - name: Basic
-            ref:  "/strategies/options/basic"
-          - name: Advanced
-            ref:  "/strategies/options/advanced"
+#  - name: Strategies
+#    ref: "/strategies"
+#    sub:
+#      - name: Trading Styles
+#        ref: "/strategies/trading_styles"
+#      - name: Options
+#        sub:
+#          - name: Basic
+#            ref:  "/strategies/options/basic"
+#          - name: Advanced
+#            ref:  "/strategies/options/advanced"
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
