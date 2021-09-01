@@ -111,6 +111,8 @@ main:
             ref: "/GME/twitter_feed/foobar_spike"
           - name: Matt Finestone and Jordan Holberg
             ref: "/GME/twitter_feed/finestone_holberg"
+      - name: Additional Resources
+        ref: "/GME/additional_resources"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
