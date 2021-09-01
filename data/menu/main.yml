@@ -76,6 +76,8 @@ main:
         ref: "due_diligence/market_data"
       - name: Stocksera
         ref: "due_diligence/stocksera"
+      - name: Wikipedia Trends
+        ref: "due_diligence/quiver_quantitative_wikipedia"
       - name: Alternatives to Main Stream Media
         ref: "due_diligence/alternatives_to_main_stream_media"
       - name: Macrofinance Movie List
@@ -87,6 +89,8 @@ main:
     sub:
       - name: GameStop Official
         ref: "/GME/gamestop_official"
+      - name: Quiver Quant Dashboard
+        ref: "/GME/quiver_quantitative_dashboard"
       - name: wikAPEdia
         ref: "/GME/wikapedia"
       - name: SuperStonk Library
