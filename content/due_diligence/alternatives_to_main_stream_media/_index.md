@@ -21,6 +21,7 @@ Here are some alternatives!
 | [Unlimited Hangout](https://unlimitedhangout.com/) | Uncensored Investigative Journalism
 | [The Komisar Scoop](https://www.thekomisarscoop.com/) | Lucy Komisar’s beat is the secret underbelly of the global financial system — offshore bank and corporate secrecy — and its links to corporate crime; tax evasion by the corporations and the very rich; empowerment of dictators and oligarchs; bribery and corruption; drug and arms trafficking; and terrorism.
 | [Stop Naked Short Selling](https://stopnakedshortselling.org/) | Foreign Collusion, Naked Shorting (Counterfeiting) & Money Laundering — All Illicit Wealth
+| [DeepCapture](https://www.deepcapture.com/2021/08/two-cheers-for-federal-employees/) | The Deep Capture website was created to bypass the “captured” institutions that mediate our nation’s discourse. It was initially funded by Patrick Byrne, CEO of Overstock.com, but it is not part of Overstock. It functions as a separate, limited liability media company.
 
 ## YouTube Videos
 | Resource | Description
