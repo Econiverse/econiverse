@@ -95,6 +95,8 @@ main:
         ref: "/GME/wikapedia"
       - name: SuperStonk Library
         ref: "/GME/superstonk_library"
+      - name: GME Word Cloud
+        ref: "/GME/GME_word_cloud"
       - name: Reddit Subs
         sub:
           - name: Main Stream Subs
