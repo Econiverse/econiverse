@@ -26,6 +26,5 @@ Here are some alternatives!
 ## YouTube Videos
 | Resource | Description
 |---|---
-| [Charlies Vids](https://www.youtube.com/channel/UCIDaSv47u-Y8uXfbkmEGaxw) | This channel covers the events that have unfolded beneath the surface since January of 2021 related to the United States Financial Industry, Banking, SEC Enforcement, and specifically the two stocks that have brought hedgefunds to their knees.
 | [Rocky Outcrop](https://www.youtube.com/rockyoutcrop) | Pro trader streaming live at market open every weekday. Get the day started right with easily digestible news, education, and FOMO free technical analysis sure to enhance your trading across stocks, crypto, commodities and forex.
 | [tradespotting](https://www.youtube.com/tradespotting) | Choose your future. Choose life. Choose #GME. Stick around will see interesting videos on the counter intuitive aspects of trading, the psychology of large accounts and the way to make bank in trading. Fundamental & Technical analysis on stocks, crypto, forex and my portfolio. Follow along but make your own finacial decisions. Check out my early videos to understand the TA  on the charts.
