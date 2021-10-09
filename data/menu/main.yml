@@ -84,6 +84,8 @@ main:
         ref: "due_diligence/macrofinance_movie_list"
       - name: Internet Archives
         ref: "due_diligence/internet_archives"
+      - name: Resources
+        ref: "due_diligence/resources"
   - name: GME
     ref: "/GME"
     sub:
