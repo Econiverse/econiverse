@@ -25,10 +25,6 @@ All is flair in profits & losses. Success investing starts with self investing. 
 
 The tradespotting subreddit
 
-## [WallstreetBreakers](https://www.reddit.com/r/WallstreetBreakers/)
-
-Down with the corrupt, one sided manipulation of the financial markets! We are here for one reason... to see you on the moon!! Nothing posted is intended as financial advice. All investments are made at your own risk, and this SUB and its mods are not responsible for any financial detriment you may incurr through investing or trading.
-
 ## [MoonBets](https://www.reddit.com/r/MoonBets/)
 
 💎WE ARE NOT SELLING 💎 Fueled by Stocks & Crypto 🚀
