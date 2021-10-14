@@ -72,8 +72,8 @@ main:
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
-      - name: Market Data
-        ref: "due_diligence/market_data"
+      - name: Data
+        ref: "due_diligence/data"
       - name: Stocksera
         ref: "due_diligence/stocksera"
       - name: Wikipedia Trends

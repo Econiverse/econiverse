@@ -39,3 +39,4 @@ Here's some market data sources!
 | [Reddit Search](https://camas.github.io/reddit-search/) | Search Reddit by Author, Subreddit, Comments/Posts, Date, Search Terms
 | [Reddit Search.io](https://redditsearch.io/) | Search Reddit by Search Term, Statistics
 | [Open Secrets](https://www.opensecrets.org/) | Political Contributions, Dark Money
+| [US Inflation Rate](https://www.usinflationcalculator.com/inflation/current-inflation-rates/) | This site was created as a resource for inflation and inflation related news. But most importantly, to provide a simple and always updated US Inflation Calculator!
