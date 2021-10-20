@@ -37,6 +37,10 @@ This is an Ape Fallout Shelter. See below for where to travel from here. Profit 
 
 Seems like /r/GME was taken over by bots. On to the next one folks!
 
+## [GMECanada](https://www.reddit.com/r/GMECanada/]
+
+A place for Canadian investors in GME to discuss uniquely-Canadian issues surrounding taxes, registered holdings (RRSPs, TFSAs), how to effectively perform DRS (Direct Registration of Shares) with Computershare US from Canada, and general Gamestop Canada topics. See the Lounge posting for collected links to FAQs about Canadian brokerages, tax info, DRS instructions. Note DRS discussions may be useful for other international Apes.
+
 ## [ApesMonkeyAround](https://www.reddit.com/r/ApesMonkeyAround/)
 
 A place for apes 🦍 to just be apes. Post what you want talk to other apes get to know each other. This is a place where everyone has a voice even with little karma. Newer apes need to have the chance to be able to ask questions and older apes can drop some knowledge. Only real rule here is Ape no fight Ape.
