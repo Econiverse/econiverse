@@ -37,7 +37,7 @@ This is an Ape Fallout Shelter. See below for where to travel from here. Profit 
 
 Seems like /r/GME was taken over by bots. On to the next one folks!
 
-## [GMECanada](https://www.reddit.com/r/GMECanada/]
+## [GMECanada](https://www.reddit.com/r/GMECanada/)
 
 A place for Canadian investors in GME to discuss uniquely-Canadian issues surrounding taxes, registered holdings (RRSPs, TFSAs), how to effectively perform DRS (Direct Registration of Shares) with Computershare US from Canada, and general Gamestop Canada topics. See the Lounge posting for collected links to FAQs about Canadian brokerages, tax info, DRS instructions. Note DRS discussions may be useful for other international Apes.
 
