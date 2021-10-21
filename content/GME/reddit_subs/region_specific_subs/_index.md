@@ -10,3 +10,7 @@ A place for Canadian investors in GME to discuss uniquely-Canadian issues surrou
 ## [Spielstopp](https://www.reddit.com/r/Spielstopp/)
 
 Kann nicht stoppen, wird nicht stoppen, SpielStopp 🎮
+
+## [superstonkuk](https://www.reddit.com/r/superstonkuk/)
+
+A place for UK Apes to discuss international stocks - such as Laws, Taxes, Brokers & Voting Rights. No comments by anybody on this subreddit are intended to be financial advice.
