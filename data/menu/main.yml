@@ -25,20 +25,20 @@ main:
         ref: "/fundamentals/forex"
       - name: Futures
         ref: "/fundamentals/futures"
-      - name: Cryptocurrency
+      - name: Blockchain
         sub:
           - name: Blockchain Overview
-            ref: "/fundamentals/cryptocurrency/blockchain_overview"
+            ref: "/fundamentals/blockchain/blockchain_overview"
           - name: How to Exchange
-            ref: "/fundamentals/cryptocurrency/how_to_exchange"
+            ref: "/fundamentals/blockchain/how_to_exchange"
           - name: Automated Trading
-            ref: "/fundamentals/cryptocurrency/automated_trading"
+            ref: "/fundamentals/blockchain/automated_trading"
           - name: Decentralized Finance
-            ref: "/fundamentals/cryptocurrency/decentralized_finance"
+            ref: "/fundamentals/blockchain/decentralized_finance"
           - name: Decentralized Services
-            ref: "/fundamentals/cryptocurrency/decentralized_services"
+            ref: "/fundamentals/blockchain/decentralized_services"
           - name: Other Resources
-            ref: "/fundamentals/cryptocurrency/other_resources"
+            ref: "/fundamentals/blockchain/other_resources"
       - name: Psychology
         ref:  "/fundamentals/psychology"
       - name: Further Education
