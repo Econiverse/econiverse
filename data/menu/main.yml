@@ -105,6 +105,8 @@ main:
             ref: "/GME/reddit_subs/main_stream_subs"
           - name: Alternate Subs
             ref: "/GME/reddit_subs/alternate_subs"
+          - name: Region Specific Subs
+            ref: "/GME/reddit_subs/region_specific_subs"
       - name: Twitter Feeds
         sub:
           - name: GameStop
