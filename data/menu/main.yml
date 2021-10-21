@@ -72,8 +72,8 @@ main:
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
-      - name: Data
-        ref: "due_diligence/data"
+      - name: Data and Resources
+        ref: "due_diligence/data_and_resources"
       - name: Stocksera
         ref: "due_diligence/stocksera"
 #      - name: Wikipedia Trends
@@ -84,8 +84,6 @@ main:
         ref: "due_diligence/macrofinance_movie_list"
       - name: Internet Archives
         ref: "due_diligence/internet_archives"
-      - name: Resources
-        ref: "due_diligence/resources"
   - name: GME
     ref: "/GME"
     sub:

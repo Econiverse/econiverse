@@ -40,3 +40,9 @@ Here's some market data sources!
 | [Reddit Search.io](https://redditsearch.io/) | Search Reddit by Search Term, Statistics
 | [Open Secrets](https://www.opensecrets.org/) | Political Contributions, Dark Money
 | [US Inflation Rate](https://www.usinflationcalculator.com/inflation/current-inflation-rates/) | This site was created as a resource for inflation and inflation related news. But most importantly, to provide a simple and always updated US Inflation Calculator!
+| [Quiver Quantitative](https://www.quiverquant.com/) | Free, cutting-edge alternative data platform - Wikipedia trends, Corporate Flights, Corporate Lobbying, Government Contracts, Work Visas |
+
+## Resources
+| Source | Description
+:---|---
+| [12ft](https://12ft.io/) | Bypass any paywall, https://12ft.io/<URL>
