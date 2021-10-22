@@ -26,4 +26,4 @@ somehow.
 1. Use a VPN - Pay for it
 2. Do not use a VPN based in a country who is part of [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
 3. Use a provider who runs RAM-Only servers
-4. Change your DNS service provider to a secure one like [1.1.1.1 by Cloudflare](https://1.1.1.1/dns/) (a reputable security software/service provider, who [promise to be transparent & to not sell your personal data](https://www.cloudflare.com/privacypolicy/)).
+4. Change your DNS service provider to a secure one like [1.1.1.1 by Cloudflare](https://1.1.1.1/dns/) (a reputable security software/service provider, who [promise to be transparent & to not sell your personal data](https://www.cloudflare.com/privacypolicy/)). They also offer [Warp, a free & simple VPN](https://1.1.1.1/), which they [claim to never sell your data](https://blog.cloudflare.com/1111-warp-better-vpn/#what-s-the-catch).
