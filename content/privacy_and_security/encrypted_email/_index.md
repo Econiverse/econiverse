@@ -16,3 +16,5 @@ and hackers are unable to view the contents of your emails.
 end-to-end encryption.
 
 {{< img name="proton_mail" lazy=true size=medium >}}
+
+[TutaNota](https://tutanota.com/) is also a free email service that provides end-to-end encryption.
