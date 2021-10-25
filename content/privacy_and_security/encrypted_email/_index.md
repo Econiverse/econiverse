@@ -12,9 +12,11 @@ End-to-end encryption keeps your communication encrypted until is arrives at
 the recipient and is then decrypted. This means that governments, service providers,
 and hackers are unable to view the contents of your emails.
 
-[ProtonMail](https://protonmail.com/) is a free email service that provides
+{{< toc >}}
+
+## [ProtonMail](https://protonmail.com/) is a free email service that provides
 end-to-end encryption.
 
 {{< img name="proton_mail" lazy=true size=medium >}}
 
-[TutaNota](https://tutanota.com/) is also a free email service that provides end-to-end encryption.
+## [TutaNota](https://tutanota.com/) is also a free email service that provides end-to-end encryption.
