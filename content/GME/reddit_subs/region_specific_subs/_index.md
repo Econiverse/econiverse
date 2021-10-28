@@ -14,3 +14,7 @@ Kann nicht stoppen, wird nicht stoppen, SpielStopp 🎮
 ## [superstonkuk](https://www.reddit.com/r/superstonkuk/)
 
 A place for UK Apes to discuss international stocks - such as Laws, Taxes, Brokers & Voting Rights. No comments by anybody on this subreddit are intended to be financial advice.
+
+## [Sluttspill](https://www.reddit.com/r/Sluttspill/)
+
+GME for Norden
