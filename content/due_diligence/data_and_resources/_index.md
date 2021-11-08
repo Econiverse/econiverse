@@ -8,7 +8,7 @@ Here's some market data sources!
 | [Trading View](https://www.tradingview.com/) | Market Price/Volume |
 | [Coin Market Cap](https://coinmarketcap.com/) | Crypto Price/Volume |
 | [Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/default.jsp) | Market Data From Finra
-| [ChartExchange](https://chartexchange.com) | Daily Volume by Exchange (Under Stats)
+| [Chart Exchange](https://chartexchange.com) | Daily Volume by Exchange (Under Stats)
 | [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) | Open Source Bloomberg Terminal
 | [Finviz Map](https://finviz.com/map.ashx) | Visual Gains and Losses for Stocks and ETFs
 | [Max Pain (Option Data)](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
