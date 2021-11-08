@@ -5,6 +5,8 @@ Here's some market data sources!
 ## Price and Volume Data
 | Source | Description
 :---|---
+| [Trading View](https://www.tradingview.com/) | Market Price/Volume |
+| [Coin Market Cap](https://coinmarketcap.com/) | Crypto Price/Volume |
 | [Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/default.jsp) | Market Data From Finra
 | [ChartExchange](https://chartexchange.com) | Daily Volume by Exchange (Under Stats)
 | [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) | Open Source Bloomberg Terminal
