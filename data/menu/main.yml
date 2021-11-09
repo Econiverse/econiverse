@@ -138,7 +138,7 @@ main:
         ref: "privacy_and_security/additional_resources"
   - name: Taxes and Wealth Management
     ref: "/taxes_and_wealth_management"
-  - name: Help Build The Econiverse
+  - name: Help Build Econiverse
     ref: "/help_build_econiverse"
     sub:
       - name: Edit With Web Browser
