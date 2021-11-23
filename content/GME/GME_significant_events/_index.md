@@ -6,7 +6,7 @@ Title: GME Significant Events
 This page still needs to be built! You can help by [contributing](/help_build_econiverse/) knowledge!
 
 
-stock manipulated and dropped every good earnings, turned off buying rights, proof of shills bots and forum sliding, 226% shorted according to class action filings, covered not closed, shareholder vote a whopping 97% (we own float), perjury, SEC report saying january wasnt from shorts closing, OBV showing nobody is selling, etc. Also how citadel is corrupt and way too huge, inflation 5%(20%), reverse repo, interconnectedness, etc.
+turned off buying rights,  226% shorted according to class action filings, c shareholder vote a whopping 97% (we own float), perjury, OBV showing nobody is selling inflation 5%(20%), reverse repo, interconnectedness, etc.
 
 [2020, April 2nd](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) - Michael Burry buys 5.3% of GME (3,400,000 shares) [[b]](https://archive.ph/2sJQb)
 
