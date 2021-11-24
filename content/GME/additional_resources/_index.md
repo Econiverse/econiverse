@@ -13,3 +13,4 @@
 | [A Library by u/Toxsic99](https://www.dropbox.com/sh/3rklqc7890zhwsp/AADtBzM_3LfIDkwvIH8L7mg8a?dl=0) | A growing collection of information in the pursuit of learning about globally systemic important banks and their origin
 | [Live Level 2 Stock Data](https://www.youtube.com/watch?v=fm2Cnxx2Ejg) | The Orderbooks are from Webull and IBKR
 | [#KENGRIFFINLIES](https://www.kengriffinlies.com/) | Ken Griffin. Hypocrite, thief, and liar
+| [sirlondon.com](https://sirlondon.com/) | A GME trading game |
