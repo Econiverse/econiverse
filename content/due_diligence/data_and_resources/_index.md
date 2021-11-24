@@ -38,13 +38,18 @@ Here's some market data sources!
 ## Other Data
 | Source | Description
 :---|---
+| [Earnings Whispers](https://www.earningswhispers.com/) | Earnings dates, discussions, expectations |
 | [Reddit Search](https://camas.github.io/reddit-search/) | Search Reddit by Author, Subreddit, Comments/Posts, Date, Search Terms
 | [Reddit Search.io](https://redditsearch.io/) | Search Reddit by Search Term, Statistics
 | [Open Secrets](https://www.opensecrets.org/) | Political Contributions, Dark Money
 | [US Inflation Rate](https://www.usinflationcalculator.com/inflation/current-inflation-rates/) | This site was created as a resource for inflation and inflation related news. But most importantly, to provide a simple and always updated US Inflation Calculator!
 | [Quiver Quantitative](https://www.quiverquant.com/) | Free, cutting-edge alternative data platform - Wikipedia trends, Corporate Flights, Corporate Lobbying, Government Contracts, Work Visas |
+| [dayminer.herokuapp](https://dayminer.herokuapp.com/) | Live feed of stock discussion from Reddit |
+
+
 
 ## Resources
 | Source | Description
 :---|---
+| [printfriendly](https://www.printfriendly.com/) | Make any page print friendly. Removes paywall and ads.
 | [12ft](https://12ft.io/) | Bypass any paywall, https://12ft.io/<URL>
