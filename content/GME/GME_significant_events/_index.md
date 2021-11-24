@@ -3,10 +3,9 @@ Title: GME Significant Events
 ---
 
 
-This page still needs to be built! You can help by [contributing](/help_build_econiverse/) knowledge!
+The idea of this page is to consolidate the most impactful events leading up to the current situation surrounding GameStop.
 
-
-turned off buying rights,  226% shorted according to class action filings, c shareholder vote a whopping 97% (we own float), perjury, OBV showing nobody is selling inflation 5%(20%), reverse repo, interconnectedness, etc.
+This page is under construction! Instructions to help build it can be found [here](/help_build_econiverse/).
 
 [2020, April 2nd](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) - Michael Burry buys 5.3% of GME (3,400,000 shares) [[b]](https://archive.ph/2sJQb)
 
@@ -24,5 +23,8 @@ turned off buying rights,  226% shorted according to class action filings, c sha
 
 [2021, June 9th] - Annual meeting of stockholders
 
-
 [2021, October 14th](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf) - Staff Report on Equity and options Market Structure Conditions in Early 2021 (aka the SEC GameStop report) shows shorts did not close [[b]](https://archive.ph/PyMfa)
+
+
+
+Other things to add: turned off buying rights,  226% shorted according to class action filings, shareholder vote a whopping 97% (we own float), perjury/gamestop hearing

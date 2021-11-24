@@ -91,6 +91,8 @@ main:
         ref: "/GME/gamestop_official"
   #    - name: Quiver Quant Dashboard
   #      ref: "/GME/quiver_quantitative_dashboard"
+      - name: GME Significant Events
+        ref: "/GME/GME_significant_events"
       - name: wikAPEdia
         ref: "/GME/wikapedia"
       - name: SuperStonk Library
