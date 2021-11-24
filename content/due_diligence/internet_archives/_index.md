@@ -6,9 +6,6 @@ resources:
   - name: wayback_machine
     src: "wayback_machine.png"
     title: Wayback Machine
-  - name: removeddit
-    src: "removeddit.png"
-    title: Removeddit
 ---
 
 There are many ways to access information on the internet when the original is
@@ -43,9 +40,7 @@ It is possible for website owners to request content to be removed from Wayback
 Machine.
 {{< /hint >}}
 
-## Removeddit
+## Reveddit
 To recover information that has been removed from Reddit, replace "reddit" in the
-URL with "removeddit". [Removeddit](https://removeddit.com/) actively monitors
+URL with "reveddit". [Reveddit](https://www.reveddit.com/about/) actively monitors
 reddit and archives posts and comments that are removed.
-
-{{< img name="removeddit" lazy=false size=medium >}}
