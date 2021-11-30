@@ -7,6 +7,7 @@ The idea of this page is to consolidate the most impactful events leading up to 
 
 This page is under construction! Instructions to help build it can be found [here](/help_build_econiverse/).
 
+
 [2020, April 2nd](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) - Michael Burry buys 5.3% of GME (3,400,000 shares) [[b]](https://archive.ph/2sJQb)
 
 [2020, May](https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf) - Hestia/Permit Restore GameStop Presentation, Calls out 101% short interest, poor leadership, poorly constructed executive compensation [[b]](https://web.archive.org/web/20210122185425/https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf)

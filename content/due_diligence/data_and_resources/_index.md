@@ -15,6 +15,7 @@ Here's some market data sources!
 | [Dark Pool Data](https://www.stockgrid.io/darkpools) | Dark Pool Data
 | [stocksera](https://stocksera.pythonanywhere.com/) | Open Source Analysis, Financials, Option Data, Short Volume, and Failure to Deliver
 | [Federal Reserve Bank of New York](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) | Repo and Reverse Repo Operations Data
+| [Shortable Stocks](https://shortablestocks.com/) | Data on availability of shortable shares and the cost to borrow those shares
 
 ## Ownership Data
 | Source | Description
