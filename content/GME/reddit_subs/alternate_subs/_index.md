@@ -25,7 +25,6 @@ All is flair in profits & losses. Success investing starts with self investing. 
 
 The tradespotting subreddit
 
+## [dillionairs](https://www.reddit.com/r/dillionaires/)
 
-## [GME2](https://www.reddit.com/r/GME2/)
-
-Seems like /r/GME was taken over by bots. On to the next one folks!
+Tired of Gherkin it alone? Then boy do I have a subreddit for you
