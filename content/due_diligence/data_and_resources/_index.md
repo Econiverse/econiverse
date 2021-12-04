@@ -16,6 +16,7 @@ Here's some market data sources!
 | [stocksera](https://stocksera.pythonanywhere.com/) | Open Source Analysis, Financials, Option Data, Short Volume, and Failure to Deliver
 | [Federal Reserve Bank of New York](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) | Repo and Reverse Repo Operations Data
 | [Shortable Stocks](https://shortablestocks.com/) | Data on availability of shortable shares and the cost to borrow those shares
+| [Crypto Liquidation Data](https://www.coinglass.com/LiquidationData) | Historical exchange liquidations
 
 ## Ownership Data
 | Source | Description
