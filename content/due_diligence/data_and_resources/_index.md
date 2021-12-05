@@ -36,6 +36,8 @@ Here's some market data sources!
 | [Market Holidays](https://www.nyse.com/markets/hours-calendars) | NYSE Market Holidays
 | [Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker) | When Triggered, Restricts Short Selling
 | [DTCC - SEC Rule Filings](https://www.dtcc.com/legal/sec-rule-filings) | Regulatory Rule Filings
+| [CBOE Options Calendar](https://cdn.cboe.com/resources/options/Cboe2021OPTIONSCalendar.pdf) | 2021 Options Expiration Calendar
+| [CME Equity Index Roll Dates](https://www.cmegroup.com/trading/equity-index/rolldates.html) | Roll Dates for Upcoming Equity Index Quarterly Futures
 
 ## Other Data
 | Source | Description
