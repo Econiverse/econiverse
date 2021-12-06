@@ -18,3 +18,7 @@ A place for UK Apes to discuss international stocks - such as Laws, Taxes, Broke
 ## [Sluttspill](https://www.reddit.com/r/Sluttspill/)
 
 GME for Norden
+
+## [GME_Mexico](https://www.reddit.com/r/GME_Mexico/)
+
+Subreddit de accionistas de GameStop en México para responder dudas, compartir opiniones, investigaciones personas. Memes son bienvenidos. Nada del contenido es ningún tipo de consejo financiero.
