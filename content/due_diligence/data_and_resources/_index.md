@@ -49,6 +49,7 @@ Here's some market data sources!
 | [US Inflation Rate](https://www.usinflationcalculator.com/inflation/current-inflation-rates/) | This site was created as a resource for inflation and inflation related news. But most importantly, to provide a simple and always updated US Inflation Calculator!
 | [Quiver Quantitative](https://www.quiverquant.com/) | Free, cutting-edge alternative data platform - Wikipedia trends, Corporate Flights, Corporate Lobbying, Government Contracts, Work Visas |
 | [dayminer.herokuapp](https://dayminer.herokuapp.com/) | Live feed of stock discussion from Reddit |
+| [Shadow Government Statistics](http://www.shadowstats.com/alternate_data) | Inflation, Money Supply, GDP, Unemployment and the Dollar - Alternate Data Series |
 
 
 
