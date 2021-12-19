@@ -52,12 +52,12 @@ main:
         ref: "/technical_analysis/chart_patterns"
       - name: Moving Averages
         ref: "/technical_analysis/moving_averages"
-      - name: Indicators and Oscillators
-        ref: "/technical_analysis/indicators_and_oscillators"
-      - name: Support and Resistance
-        ref: "/technical_analysis/support_and_resistance"
-      - name: Advanced Techniques
-        ref: "/technical_analysis/advanced_techniques"
+#      - name: Indicators and Oscillators
+#        ref: "/technical_analysis/indicators_and_oscillators"
+#      - name: Support and Resistance
+#        ref: "/technical_analysis/support_and_resistance"
+#      - name: Advanced Techniques
+#        ref: "/technical_analysis/advanced_techniques"
 #  - name: Strategies
 #    ref: "/strategies"
 #    sub:
