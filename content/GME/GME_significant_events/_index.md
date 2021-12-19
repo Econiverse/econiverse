@@ -21,4 +21,4 @@ This page is under construction! Instructions to help build it can be found [her
 
 
 
-Other things to add: turned off buying rights,  226% shorted according to class action filings, shareholder vote a whopping 97% (we own float), perjury/gamestop hearing
+Other things to add: RC buying shares, turned off buying rights,  226% shorted according to class action filings, shareholder vote a whopping 97% (we own float), perjury/gamestop hearing
