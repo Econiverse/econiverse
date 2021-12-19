@@ -13,6 +13,8 @@ main:
             ref: "/fundamentals/account_types/cash_vs_margin"
           - name: Tax Advantaged Accounts
             ref: "/fundamentals/account_types/tax_advantaged_accounts"
+      - name: DRS
+        ref: "/fundamentals/drs"
       - name: Options
         sub:
           - name: What Are Options
