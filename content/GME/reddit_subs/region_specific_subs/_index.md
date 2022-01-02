@@ -11,6 +11,10 @@ A place for Canadian investors in GME to discuss uniquely-Canadian issues surrou
 
 Kann nicht stoppen, wird nicht stoppen, SpielStopp 🎮
 
+## [Spelstop](https://www.reddit.com/r/Spelstop/)
+
+Welkom bij de Nederlandstalige subreddit voor Gamestop en GME! Stuur de mods een berichtje om bevoegd te worden om zelf een post aan te maken.
+
 ## [superstonkuk](https://www.reddit.com/r/superstonkuk/)
 
 A place for UK Apes to discuss international stocks - such as Laws, Taxes, Brokers & Voting Rights. No comments by anybody on this subreddit are intended to be financial advice.

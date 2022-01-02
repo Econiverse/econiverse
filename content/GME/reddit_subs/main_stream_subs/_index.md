@@ -8,6 +8,8 @@ A place for theoretical discussions about business and stocks - specifically Gam
 
 ## [GME](https://www.reddit.com/r/GME/)
 
+[PDF Backup of Posts](https://github.com/lunarnautics/saved-reddit-posts/tree/master/GME)
+
 Gamestop ($GME) Stock: 🚀 Get Ready For The Biggest Short Squeeze Of Our Lifetime 🚀
 
 ## [DDintoGME](https://www.reddit.com/r/DDintoGME/)
