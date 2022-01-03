@@ -101,6 +101,10 @@ main:
         ref: "/GME/superstonk_library"
       - name: GME Word Cloud
         ref: "/GME/GME_word_cloud"
+      - name: GME Related Websites
+        ref: "/GME/GME_related_websites"
+      - name: Additional Resources
+        ref: "/GME/additional_resources"
       - name: Reddit Subs
         sub:
           - name: Main Stream Subs
@@ -119,8 +123,6 @@ main:
 #            ref: "/GME/twitter_feed/spike"
 #          - name: Matt Finestone and Jordan Holberg
 #            ref: "/GME/twitter_feed/finestone_holberg"
-      - name: Additional Resources
-        ref: "/GME/additional_resources"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
