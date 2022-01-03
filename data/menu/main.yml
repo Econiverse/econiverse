@@ -91,18 +91,17 @@ main:
     sub:
       - name: GameStop Official
         ref: "/GME/gamestop_official"
-  #    - name: Quiver Quant Dashboard
-  #      ref: "/GME/quiver_quantitative_dashboard"
       - name: GME Significant Events
         ref: "/GME/GME_significant_events"
-      - name: wikAPEdia
-        ref: "/GME/wikapedia"
-      - name: SuperStonk Library
-        ref: "/GME/superstonk_library"
-      - name: GME Word Cloud
-        ref: "/GME/GME_word_cloud"
       - name: GME Related Websites
         ref: "/GME/GME_related_websites"
+        sub:
+          - name: wikAPEdia
+            ref: "/GME/GME_related_websites/wikapedia"
+          - name: SuperStonk Library
+            ref: "/GME/GME_related_websites/superstonk_library"
+          - name: GME Word Cloud
+            ref: "/GME/GME_related_websites/GME_word_cloud"
       - name: Additional Resources
         ref: "/GME/additional_resources"
       - name: Reddit Subs
