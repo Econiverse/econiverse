@@ -8,11 +8,13 @@ Here's some market data sources!
 | [Trading View](https://www.tradingview.com/) | Market Price/Volume |
 | [Coin Market Cap](https://coinmarketcap.com/) | Crypto Price/Volume |
 | [Finra Market Data](http://finra-markets.morningstar.com/MarketData/EquityOptions/default.jsp) | Market Data From Finra
-| [Chart Exchange](https://chartexchange.com) | Daily Volume by Exchange (Under Stats)
+| [FINRA OTC Transparancy Data](https://otctransparency.finra.org/otctransparency/AtsIssueData) | The Alternative Trading System (ATS) Transparency Data is aggregated trade data reported by ATSs to the FINRA equity trade reporting facilities
 | [Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal) | Open Source Bloomberg Terminal
 | [Finviz Map](https://finviz.com/map.ashx) | Visual Gains and Losses for Stocks and ETFs
-| [Max Pain (Option Data)](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
+| [Max Pain](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
+| [Swaggy Stocks](https://swaggystocks.com/dashboard/options-max-pain/SPY) | Max Pain Calculator
 | [Dark Pool Data](https://www.stockgrid.io/darkpools) | Dark Pool Data
+| [Chart Exchange](https://chartexchange.com) | Daily Volume by Exchange and Dark Pools(Under Stats)
 | [stocksera](https://stocksera.pythonanywhere.com/) | Open Source Analysis, Financials, Option Data, Short Volume, and Failure to Deliver
 | [Federal Reserve Bank of New York](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) | Repo and Reverse Repo Operations Data
 | [Shortable Stocks](https://shortablestocks.com/) | Data on availability of shortable shares and the cost to borrow those shares
@@ -25,6 +27,7 @@ Here's some market data sources!
 | [Open Insider](http://openinsider.com/) | Insider Trading Info
 | [ETF.com](https://www.etf.com/etfanalytics/etf-stock-finder) | Stock Ownership by ETF
 | [Holdings Channel](https://www.holdingschannel.com/bystock/) | Hedge Fund Holdings
+| [Hedge Follow](https://hedgefollow.com/) | Follow Hedge Funds and Billionaires as they adjust their stock holdings
 | [US Senate Stock Watcher](https://senatestockwatcher.com/) | US Senate Ownership Data
 | [US House of Representatives Stock Watcher](https://housestockwatcher.com/) | US House of Representatives Ownership Data
 
