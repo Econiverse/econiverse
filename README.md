@@ -3,4 +3,4 @@ Econiverse is a free and open source website that was created as a complication 
 
 The website can be found here: https://econiverse.github.io/
 
-While Econiverse was inspired from the misinformation and widespread financial fraud that has been exposed in 2021 due to GameStop stock, it is not restricted to it! If you can contribute directly, please do! Or, if you have any ideas or notice anything that needs correcting, please submit a issue or start a discussion.
+While Econiverse was inspired from the misinformation and widespread financial fraud that began to be exposed in 2021 due to GameStop stock, it is not restricted to it! If you can contribute directly, please do! Or, if you have any ideas or notice anything that needs correcting, please submit a issue or start a discussion.
