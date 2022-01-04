@@ -2,8 +2,6 @@
 title: GME Related Websites
 ---
 
-This list is mostly sourced from the awesome work of u/jkhanlar in [this post](https://www.reddit.com/r/Superstonk/comments/psra2d/list_of_gmerelated_websitesresources_made_by_apes/).
-
 None of the information on these sites should be taken at face value. Check the sources yourself and think critically.
 
 | Source | Description
@@ -34,3 +32,5 @@ None of the information on these sites should be taken at face value. Check the 
 | [Tax My Tendies](https://taxmytendies.com/)| TaxMyTendies is meant to be used as an educational tool, but it's no TurboTax or any other tax preparation software. I have no connections to any financial or business industry. I just like stocks and as a Web Developer I saw it as another fun project. All of the tax brackets and other tax data were gathered from official government websites, but I cannot assure their accuracy. So please see my disclaimer and privacy policy before submitting complaints.|
 | [Where Are The Shares](https://wherearetheshares.com/)| A chart and further information about GME FTD's |
 | [We Want Fair Markets](https://wewantfairmarkets.org/) | Our goal is to expose the truth surrounding the events of January 28th, 2021, and to make sure that retail is never taken advantage of  or cheated again.
+
+This list is mostly sourced from the awesome work of u/jkhanlar in [this post](https://www.reddit.com/r/Superstonk/comments/psra2d/list_of_gmerelated_websitesresources_made_by_apes/).
