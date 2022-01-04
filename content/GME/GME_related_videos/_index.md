@@ -1,0 +1,33 @@
+---
+title: GME Related Videos
+---
+
+
+| Date | Description | Link
+|:---|---|---|
+| 2006 | Jim Cramer, 2006 discussion about tricks to manipulate the market ("What's important when you're in that hedge fund mode, is to not do anything remotely truthful. Because the truth is so against your view, that it's important to develop a new truth, to develop a fiction") | [link](https://youtu.be/jIfixbq_u0Q)
+| 2006 | Dark Side of the Looking Glass | [link](https://www.youtube.com/watch?v=nLnw2_q5iMk)
+| 2007 | Naked Short Selling and Regulatory Capture Explained | [link](https://www.youtube.com/watch?v=IZbLv_S_fYg)
+| 2009 | Jon Stewart Calls Out Jim Cramer in 2009 | [link](https://old.reddit.com/r/Superstonk/comments/ni1gcw/jon_stewart_absolutely_destroyed_jim_cramercnbc/)
+| 2012 | Cramer: Citadel's Getting a Free Pass | [link](https://youtu.be/OFaRrvTqjbw)
+| 2012 | Patrick Byrne: What is Naked Shorting? | [link](https://youtu.be/BdBe5_8z53A)
+| 2012 | The Wall Street Conspiracy | [link](https://archive.org/details/videoplayback_20210423)
+| May 2013 | Ken Griffin Speech - Economic Club of Chicago (ECC) | [link](https://youtu.be/9cwf-JrrE9g)
+| 2013 | The Wall Street Code | [link](https://youtu.be/kFQJNeQDDHA)
+| February 4th, 2019 | Slowing Down A Stock Exchange With 38 Miles Of Cable | [link](https://youtu.be/d8BcCLLX4N4)
+| October 21st, 2019 | Deep Capture the Movie | [link](https://youtu.be/7honct6tV_I)
+| August 21st, 2020 | Roaring Kitty - The Big Short SQUEEZE from $5 to $50? Could GameStop stock (GME) explode higher?? Value investing! | [link](https://youtu.be/alntJzg0Um4)
+| January 28th, 2021 | Peterffy: No One Has Pressured Firm To Curb Trading | [link](https://youtu.be/J5_YjUaSuZI)
+| January 29th, 2021 | Jim Cramer tells investors to take home run and sell GameStop: 'You've won' | [link](https://youtu.be/jRHlprpFVPc)
+| February 17th, 2021 | Interactive Brokers’ Thomas Peterffy on GameStop hearing | [link](https://cnbc.com/video/2021/02/17/interactive-brokers-thomas-peterffy-on-gamestop-hearing.html)
+| February 18th, 2021 | Peterffy: Markets Were 'Frighteningly Close' to Collapse Amid GameStop Turmoil | [link](https://youtu.be/Yq4jdShG_PU)
+| February 18th, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide | [link](https://youtu.be/RfEuNHVPc_k)
+| March 9th, 2021 | The Senate Banking Committee holds a hearing on Gamestop, Robinhood, and the state of retail investing | [link](https://www.youtube.com/watch?v=fYxKSMlzMlw)
+| March 9th, 2021 | Interactive Brokers founder Thomas Peterffy on retail trading frenzy | [link](https://youtu.be/WQPquBVtwMM)
+| March 17th, 2021 | Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide, Part II | [link](https://www.youtube.com/watch?v=imRzHXRq80I)
+| March 17th, 2021 | Missing CNBC footage of Game Stop Congressional Hearing cut dynamically from live stream | [link](https://youtu.be/GNhhfTUrU88)
+| April 6th, 2021 | Chatter #134 - Houston Wade On How GameStop Happened, Naked Shorts, and FTDs | [link](https://youtu.be/B7bBJlXPy9A)
+| April 19th, 2021 | Dark Pools And Share Recalls: What Is Happening With GameStop? | [link](https://youtu.be/UHmw6MM_EyE)
+| May 6th, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide, Part III | [link](https://youtu.be/vX2X8xxHEns)
+| August 26th, 2021 | Chatter #182 - Jamie Curran (AKA Tradespotting) On GameStop, The Apes, And Financial Revolution | [link](https://youtu.be/4ll4CY0AWgY)
+| October 5th, 2021 | Oversight of the U.S. Securities and Exchange Commission: Wall Street’s Cop is Finally Back on the Beat | [link](https://youtu.be/9CL5WfevHjI)
