@@ -28,5 +28,4 @@ Here are some alternatives!
 |---|---
 | [Rocky Outcrop](https://www.youtube.com/rockyoutcrop) | Pro trader streaming live at market open every weekday. Get the day started right with easily digestible news, education, and FOMO free technical analysis sure to enhance your trading across stocks, crypto, commodities and forex.
 | [tradespotting](https://www.youtube.com/tradespotting) | Choose your future. Choose life. Choose #GME. Stick around will see interesting videos on the counter intuitive aspects of trading, the psychology of large accounts and the way to make bank in trading. Fundamental & Technical analysis on stocks, crypto, forex and my portfolio. Follow along but make your own finacial decisions. Check out my early videos to understand the TA  on the charts.
-| [Pi-Fi](https://www.youtube.com/c/PickleFinancial) | Crayons, Charts, Rockets, and Juicy Pickles
-Come have fun learning about how the markets work, why they don't, and how that affects you!
+| [Pi-Fi](https://www.youtube.com/c/PickleFinancial) | Crayons, Charts, Rockets, and Juicy Pickles. Come have fun learning about how the markets work, why they don't, and how that affects you!
