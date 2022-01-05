@@ -31,3 +31,5 @@ title: GME Related Videos
 | May 6th, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide, Part III | [link](https://youtu.be/vX2X8xxHEns)
 | August 26th, 2021 | Chatter #182 - Jamie Curran (AKA Tradespotting) On GameStop, The Apes, And Financial Revolution | [link](https://youtu.be/4ll4CY0AWgY)
 | October 5th, 2021 | Oversight of the U.S. Securities and Exchange Commission: Wall Street’s Cop is Finally Back on the Beat | [link](https://youtu.be/9CL5WfevHjI)
+
+Shout out to u/jkhanlar for his post [here](https://www.reddit.com/r/Superstonk/comments/rc9pho/yalol_ftddddd_yet_another_list_of_links_for_the/) that helped build this page!
