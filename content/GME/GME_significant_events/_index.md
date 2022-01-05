@@ -16,7 +16,7 @@ This page is under construction! Instructions to help build it can be found [her
 | January 26th, 2021 | Elon Musk Tweets "Gamestonk!!" | [link](https://twitter.com/elonmusk/status/1354174279894642703) [[b]](https://archive.ph/s9fQd)
 | January 30th, 2021 | GameStop SEC Annual Report mentioning Short Squeeze | [link](https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm#i3ad65c8584a445ee94e4314f67ce616c_16)
 | February 2nd, 2021 | Mark Cuban AMA | [link](https://www.reddit.com/r/wallstreetbets/comments/lawubt/hey_everyone_its_mark_cuban_jumping_on_to_do_an/) [[b]](https://archive.ph/KNY0F)
-| February 18th, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide | [link](https://youtu.be/RfEuNHVPc_k)
+| February 18th, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide [Keith Gill Transcript](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf) | [link](https://youtu.be/RfEuNHVPc_k) 
 | March 9th, 2021 | The Senate Banking Committee holds a hearing on Gamestop, Robinhood, and the state of retail investing | [link](https://www.youtube.com/watch?v=fYxKSMlzMlw)
 | March 17th, 2021 | Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide, Part II | [link](https://www.youtube.com/watch?v=imRzHXRq80I)
 | April 15th, 2021 | Record date for voting at the annual meeting of stockholders.
