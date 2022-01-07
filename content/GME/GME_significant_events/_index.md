@@ -5,7 +5,7 @@ Title: GME Significant Events
 
 The idea of this page is to consolidate the most impactful events leading up to the current situation surrounding GameStop.
 
-This page is under construction! Instructions to help build it can be found [here](/help_build_econiverse/).
+
 
 | Date | Description | Link [Backup]
 :---|---|---
@@ -27,6 +27,6 @@ This page is under construction! Instructions to help build it can be found [her
 | October 5, 2021 | Oversight of the U.S. Securities and Exchange Commission: Wall Street’s Cop is Finally Back on the Beat | [link](https://youtu.be/9CL5WfevHjI) [[b]](https://web.archive.org/web/20211004083845/https://www.youtube.com/watch?v=9CL5WfevHjI)
 | October 14, 2021 | Staff Report on Equity and options Market Structure Conditions in Early 2021 (aka the SEC GameStop report) shows shorts did not close | [link](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf) [[b]](https://archive.ph/PyMfa)
 
-
+This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
 
 Other things to add: RC buying shares, turned off buying rights,  226% shorted according to class action filings, shareholder vote a whopping 97% (we own float), perjury/gamestop hearing
