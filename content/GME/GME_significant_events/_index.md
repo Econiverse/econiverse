@@ -7,7 +7,7 @@ The idea of this page is to consolidate the most impactful events leading up to 
 
 
 
-| Date | Description | Link [Backup]
+| Date | Description | Link [backup]
 :---|---|---
 | April 2, 2020 | Michael Burry buys 5.3% of GME (3,400,000 shares) | [link](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) [[b]](https://archive.ph/2sJQb)
 | May 2020 | Hestia/Permit Restore GameStop Presentation, Calls out 101% short interest, poor leadership, poorly constructed executive compensation | [link](https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf) [[b]](https://web.archive.org/web/20210122185425/https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf)
