@@ -19,6 +19,7 @@ This is a list of videos that are either directly related to GME or those that h
 | 2012 | Patrick Byrne: What is Naked Shorting? | [link](https://youtu.be/BdBe5_8z53A)
 | 2012 | The Wall Street Conspiracy | [link](https://archive.org/details/videoplayback_20210423)
 | May 2013 | Ken Griffin Speech - Economic Club of Chicago (ECC) | [link](https://youtu.be/9cwf-JrrE9g)
+| 2013 | Ghost Exchange | [link](https://putlockers.fm/watch/vaE4g1kv-ghost-exchange/mixdrop.html)
 | 2013 | The Wall Street Code | [link](https://youtu.be/kFQJNeQDDHA)
 | 2014 | The Internet's Own Boy: The Story of Aaron Swartz | [link](https://www.youtube.com/watch?v=9vz06QO3UkQ) [[b]](https://web.archive.org/web/20140731202418/https://www.youtube.com/watch?v=9vz06QO3UkQ)
 | 2014 | Before The Mets, Steve Cohen Was The Hedge-Fund King - FRONTLINE (full documentary) | [link](https://www.youtube.com/watch?v=1szayJV505M)
