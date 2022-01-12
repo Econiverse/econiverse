@@ -49,10 +49,8 @@ main:
             ref: "/fundamentals/blockchain/other_resources"
       - name: Psychology
         ref:  "/fundamentals/psychology"
-      - name: Further Education
-        ref: "/fundamentals/further_education"
-      - name: Resources
-        ref: "/fundamentals/resources"
+      - name: Further Education and Resources
+        ref: "/fundamentals/further_education_and_resources"
   - name: Technical Analysis
     ref: "/technical_analysis"
     sub:
@@ -130,6 +128,8 @@ main:
 #            ref: "/GME/twitter_feed/spike"
 #          - name: Matt Finestone and Jordan Holberg
 #            ref: "/GME/twitter_feed/finestone_holberg"
+  - name: How To Lead Change
+    ref: "how_to_lead_change"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
