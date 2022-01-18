@@ -23,6 +23,7 @@ None of the information on these sites should be taken at face value. Check the 
 |[Moon O Meter](https://www.moonometer.com/gme) | A silly website to show the price of GME using a rocket |
 | [Moon Timers](https://www.moontimers.com/home/all) | Timers counting down or up from or to events related to GameStop |
 | [Naked Shorts](https://nakedshorts.net/) | This forum is ape-owned. A place to store and document DD, data, projects, backups, links and content outside of Reddit for the protection of $GME DD. |
+| [Naked Truth](https://nakedtruth.info/) | Our mission at Naked Truth, Inc. is to increase transparency in the free-market system as it exists today. As we move through this mission, we will be shining the light on illegalities such as naked shorting, synthetic shares, and dark pool trading techniques with the intent of targeting and enforcing accountability.
 | [Shares Outstanding History](https://sharesoutstandinghistory.com/gme/) | Our website aims to empower investors by enabling them to research the shares outstanding history for any stock in our coverage universe. |
 | [sirlondon.com](https://sirlondon.com/) | A GME trading game |
 | [ssusers.eu](https://ssusers.eu/d/rSlVq7eGk/home?orgId=1&refresh=15m&var-subreddit=All&var-ival=1h) | A tool to actively monitor active and subscribed Reddit user counts |
