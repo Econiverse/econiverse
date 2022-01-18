@@ -13,11 +13,14 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | May 2020 | Hestia/Permit Restore GameStop Presentation, Calls out 101% short interest, poor leadership, poorly constructed executive compensation | [link](https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf) [[b]](https://web.archive.org/web/20210122185425/https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf)
 | June 3, 2020 | Scion Asset Management Voted in Support of GameStop’s Board and Management | [link](https://www.businesswire.com/ne9ws/home/20200603005929/en/Scion-Asset-Management-Voted-Support-GameStop%E2%80%99s-Board) [[b]](https://archive.ph/qfpeT)
 | July 27, 2020 | Roaring Kitty first GME video. 100%+ short interest in GameStop stock (GME) – fundamental & technical deep value analysis | [link](https://www.youtube.com/watch?v=GZTr1-Gp74U)
+| December 17, 2020 | Ryan Cohen purchases 9,001,000 shares of GME | [link](https://www.sec.gov/Archives/edgar/data/1326380/000119380520001571/e620151_sc13da-gamestop.htm) [[b]](https://archive.ph/72tNL)
 | January 26, 2021 | Elon Musk Tweets "Gamestonk!!" | [link](https://twitter.com/elonmusk/status/1354174279894642703) [[b]](https://archive.ph/s9fQd)
-| January 30, 2021 | GameStop SEC Annual Report mentioning Short Squeeze | [link](https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm#i3ad65c8584a445ee94e4314f67ce616c_16) [[b]](https://archive.ph/F7f8S)
+| January 28, 2021 | Apex, Barclays, and IKBR clearing houses financially pressure brokers to restrict buying of certain securities | [link](https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/) [[b]](https://archive.ph/Ztpvi)
+| January 30, 2021 | GameStop SEC Annual Report mentioning Short Squeeze for the first time | [link](https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm#i3ad65c8584a445ee94e4314f67ce616c_16) [[b]](https://archive.ph/F7f8S)
 | February 2, 2021 | Mark Cuban AMA | [link](https://www.reddit.com/r/wallstreetbets/comments/lawubt/hey_everyone_its_mark_cuban_jumping_on_to_do_an/) [[b]](https://archive.ph/KNY0F)
 | February 18, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide [Keith Gill Transcript](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf) | [link](https://youtu.be/RfEuNHVPc_k)
 | February 18, 2021 | Bill Gates compares GameStop frenzy to gambling | [link](https://www.youtube.com/watch?v=PVBdyYynDNE)
+| March 3, 2021 | Citadel raises $600M through bond notes | [link](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441) [[b]](https://archive.ph/M2jGR)
 | March 9, 2021 | The Senate Banking Committee holds a hearing on Gamestop, Robinhood, and the state of retail investing | [link](https://www.youtube.com/watch?v=fYxKSMlzMlw)
 | March 17, 2021 | Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide, Part II | [link](https://www.youtube.com/watch?v=imRzHXRq80I) [[b]](https://web.archive.org/web/20220106031752/https://www.youtube.com/watch?v=imRzHXRq80I)
 | April 5, 2021 | Heath Tarbert steps down as chairman of the Commodity Futures Trading Commission (CFCT) to be chief legal officer at Citadel | [link](https://www.complianceweek.com/grc-appointments/ex-cftc-chair-heath-tarbert-joins-citadel-as-chief-legal-officer/30222.article) [[b]](https://archive.ph/TqJjm)
@@ -26,7 +29,6 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | June 9, 2021 | Annual meeting of stockholders
 | October 5, 2021 | Oversight of the U.S. Securities and Exchange Commission: Wall Street’s Cop is Finally Back on the Beat | [link](https://youtu.be/9CL5WfevHjI) [[b]](https://web.archive.org/web/20211004083845/https://www.youtube.com/watch?v=9CL5WfevHjI)
 | October 14, 2021 | Staff Report on Equity and options Market Structure Conditions in Early 2021 (aka the SEC GameStop report) shows shorts did not close | [link](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf) [[b]](https://archive.ph/PyMfa)
+| January 11, 2021 | Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm | [link](https://www.citadelsecurities.com/news/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/) [[b]](https://archive.ph/XpUIM)
 
 This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
-
-Other things to add: RC buying shares, turned off buying rights,  226% shorted according to class action filings, shareholder vote a whopping 97% (we own float), perjury/gamestop hearing
