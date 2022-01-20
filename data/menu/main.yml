@@ -137,8 +137,8 @@ main:
         ref: "privacy_and_security/browsers_and_search_engines"
       - name: VPN and DNS
         ref: "privacy_and_security/vpn_and_dns"
-      - name: Cell Phone
-        ref: "privacy_and_security/cell_phone"
+      - name: Mobile Devices
+        ref: "privacy_and_security/mobile_devices"
       - name: Website Proxy
         ref: "privacy_and_security/website_proxy"
       - name: Free Open Source Software (FOSS)

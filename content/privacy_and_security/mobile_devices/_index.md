@@ -5,7 +5,7 @@ resources:
     title: Signal
 ---
 
-Since you probably use your cell phone daily for a variety of things, it is
+Since you probably use a mobile device daily for a variety of things, it is
 it is important to keep security and privacy in mind. Here are some tools and
 resources to help you do that!
 
