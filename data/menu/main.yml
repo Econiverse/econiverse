@@ -135,8 +135,8 @@ main:
     sub:
       - name: Browsers and Search Engines
         ref: "privacy_and_security/browsers_and_search_engines"
-      - name: VPN
-        ref: "privacy_and_security/vpn"
+      - name: VPN and DNS
+        ref: "privacy_and_security/vpn_and_dns"
       - name: Cell Phone
         ref: "privacy_and_security/cell_phone"
       - name: Website Proxy
