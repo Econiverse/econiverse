@@ -28,9 +28,10 @@ somehow.
 {{< /hint >}}
 
 **General Recommendations**
-1. Use a VPN and pay for it
-2. Do not use a VPN based in a country who is part of [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
-3. Consider using a provider who runs RAM-Only servers
+1. Use a VPN and pay for it - a list of recommended VPNs can be found [here](https://www.reddit.com/r/VPNTorrents/comments/rikthc/list_of_recommended_vpns_2022/)
+2. Look for evidence of a no logging privacy and consider using a VPN that is based outside of [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
+3. Consider using a provider who uses RAM-Only servers that they own
+4. Consider a provider who provides an anonymous subscription
 
 
 ## DNS
