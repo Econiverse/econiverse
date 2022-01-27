@@ -24,6 +24,7 @@ This is a list of videos that are either directly related to GME or those that h
 | 2014 | The Internet's Own Boy: The Story of Aaron Swartz | [link](https://www.youtube.com/watch?v=9vz06QO3UkQ) [[b]](https://web.archive.org/web/20140731202418/https://www.youtube.com/watch?v=9vz06QO3UkQ)
 | 2014 | Before The Mets, Steve Cohen Was The Hedge-Fund King - FRONTLINE (full documentary) | [link](https://www.youtube.com/watch?v=1szayJV505M)
 | January 7, 2014 | To Catch a Trader - Steve Cohen [PBS Frontline Documentary] | [link](https://www.youtube.com/watch?v=x9MgrWQhgwM) [[b]](https://web.archive.org/web/20211114004501/https://www.youtube.com/watch?v=x9MgrWQhgwM)
+| 2017 | Patrick Byrne explains how additional shares are created using a borrow locate loophole | [link](https://www.reddit.com/r/Superstonk/comments/s9hqqv/must_watch_how_short_lending_makes_up_75_of/)
 | March 31, 2018 | Sinclair's script for stations | [link](https://youtu.be/hWLjYJ4BzvI) [[b]](https://web.archive.org/web/20180402011457/https://www.youtube.com/watch?v=hWLjYJ4BzvI&feature=youtu.be)
 | April 10, 2018 | Pulling strings: Sinclair Broadcast's 'fake news' scandal - The Listening Post | [link](https://youtu.be/tN9KAFn1hy8) [[b]](https://web.archive.org/web/20201205212156/https://www.youtube.com/watch?feature=youtu.be&v=tN9KAFn1hy8&app=desktop)
 | February 4, 2019 | Slowing Down A Stock Exchange With 38 Miles Of Cable | [link](https://youtu.be/d8BcCLLX4N4)
