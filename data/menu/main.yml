@@ -47,8 +47,8 @@ main:
             ref: "/fundamentals/blockchain/decentralized_services"
           - name: Other Resources
             ref: "/fundamentals/blockchain/other_resources"
-      - name: Psychology
-        ref:  "/fundamentals/psychology"
+#      - name: Psychology
+#        ref:  "/fundamentals/psychology"
       - name: Further Education and Resources
         ref: "/fundamentals/further_education_and_resources"
   - name: Technical Analysis
