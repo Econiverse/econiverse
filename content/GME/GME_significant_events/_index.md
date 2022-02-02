@@ -30,6 +30,6 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | June 9, 2021 | Annual meeting of stockholders
 | October 5, 2021 | Oversight of the U.S. Securities and Exchange Commission: Wall Street’s Cop is Finally Back on the Beat | [link](https://youtu.be/9CL5WfevHjI) [[b]](https://web.archive.org/web/20211004083845/https://www.youtube.com/watch?v=9CL5WfevHjI)
 | October 14, 2021 | Staff Report on Equity and options Market Structure Conditions in Early 2021 (aka the SEC GameStop report) shows shorts did not close | [link](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf) [[b]](https://archive.ph/PyMfa)
-| January 11, 2021 | Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm | [link](https://www.citadelsecurities.com/news/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/) [[b]](https://archive.ph/XpUIM)
+| January 11, 2022 | Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm | [link](https://www.citadelsecurities.com/news/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/) [[b]](https://archive.ph/XpUIM)
 
 This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
