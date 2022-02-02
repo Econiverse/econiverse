@@ -23,9 +23,16 @@ Tired of Gherkin it alone? Then boy do I have a subreddit for you
 
 The tradespotting subreddit
 
+## [FWFBThinkTank](https://www.reddit.com/r/FWFBThinkTank/)
+
+A community of wrinkle brain apes trying to piece together the greatest financial puzzle in history.
 
 ## [RatioAtBlessons](https://www.reddit.com/r/ratioatblessons/)
 
 [PDF Backup of Posts](https://github.com/lunarnautics/saved-reddit-posts/tree/master/RatioAtBlessons)
 
 All is flair in profits & losses. Success investing starts with self investing. Grow your portfolio. Increase your knowledge. Make some history in the process surrounded by those just like you. We all /RatioAt something..what do you?
+
+## [GMEdd.com](https://www.reddit.com/r/GMEDD/)
+
+The GMEdd.com subreddit fosters productive discussion, analysis, and speculation amongst all GameStop investors.
