@@ -23,7 +23,7 @@ Tracking information starts with a ? and contains everything that follows
 {{< toc >}}
 
 ## archive.today
-One way to do this is by using [archive.today](https://archive.ph/).
+One way to do this is by using [archive.today](https://archive.ph/)[.onion](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/).
 They also provide an extension that works with Brave browser and it allows you
 to easily archive pages with the click of a button.
 
@@ -39,6 +39,9 @@ Another source for archived websites is [Wayback Machine](https://web.archive.or
 It is possible for website owners to request content to be removed from Wayback
 Machine.
 {{< /hint >}}
+
+## Ghostarchive
+[Ghostarchive](https://ghostarchive.org/) is a web archiving website and platform. It is designed to be fast, versatile, and easy to use. A open source release is planned soon.
 
 ## Reveddit
 To recover information that has been removed from Reddit, replace "reddit" in the
