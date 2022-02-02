@@ -23,7 +23,7 @@ Tracking information starts with a ? and contains everything that follows
 {{< toc >}}
 
 ## archive.today
-One way to do this is by using [archive.today](https://archive.ph/)[.onion](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/).
+One way to do this is by using [archive.today](https://archive.ph/) [(.onion)](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/).
 They also provide an extension that works with Brave browser and it allows you
 to easily archive pages with the click of a button.
 
