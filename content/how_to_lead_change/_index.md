@@ -88,9 +88,7 @@ If you have submitted any whistler blower complaints to either the SEC or CFTC, 
 
 https://tips.fbi.gov/
 
-Internet Crime Division: This is the site to report securities fraud as per u/noUserNamesLeft5me
-
-https://www.ic3.gov/Home/ComplaintChoice
+Internet Crime Division: https://www.ic3.gov/Home/ComplaintChoice
 
 ### United States Department of Justice (DOJ)
 https://www.justice.gov/doj/webform/your-message-department-justice
