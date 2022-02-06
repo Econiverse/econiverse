@@ -102,6 +102,8 @@ main:
       - name: GME Related Websites
         ref: "/GME/GME_related_websites"
         sub:
+          - name: TLDR;
+            ref: "/GME/GME_related_websites/tldr"
           - name: wikAPEdia
             ref: "/GME/GME_related_websites/wikapedia"
           - name: SuperStonk Library
