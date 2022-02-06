@@ -1,5 +1,5 @@
 ---
-Title: GME Additional_Resources
+Title: GME Additional Resources
 ---
 
 
