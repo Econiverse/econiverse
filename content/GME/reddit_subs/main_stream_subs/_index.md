@@ -14,6 +14,8 @@ Gamestop ($GME) Stock: 🚀 Get Ready For The Biggest Short Squeeze Of Our Lifet
 
 ## [DDintoGME](https://www.reddit.com/r/DDintoGME/)
 
+[PDF Backup of Posts](https://github.com/lunarnautics/saved-reddit-posts/tree/master/DDintoGME)
+
 Deep Dive into GME is dedicated to the provision & discussion of truthful information related to GameStop stock ($GME)
 
 ## [DeepFuckingValue](https://www.reddit.com/r/DeepFuckingValue/)
