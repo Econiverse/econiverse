@@ -6,6 +6,7 @@ None of the information on these sites should be taken at face value. Check the 
 
 | Source | Description
 :---|---|
+|[apehistorian.com](https://www.apehistorian.com/)| I am Ape historian, aka /u/elegant-remote6667. In case of outage, or difficulty in accessing the DD (due diligence) of GME (gamestop) and the discussions about direct registration, the history of the stock ,the subs and everything else, it will all be here. |
 |[Apes Army](https://www.apes.army/)| Apes Army is an attempt to sift through the chaff and bring the most important information into once place, saving you the need to trawl through Reddit, Twitter and all the other places where apes meet. |
 |[Apes Together Strong Documentary](https://www.apestogetherstrongdoc.com/)| A documentary by apes for apes|
 |[GameStop Direct-Registered Float Calculator](https://www.computershared.net/)| Tool to calculate percent of the float locked by retail. Also search records by reddit username. |
@@ -31,6 +32,7 @@ None of the information on these sites should be taken at face value. Check the 
 | [Stonking](https://www.stonking.info/) | The path to becoming a serious investment trader is a rocky one, and good information is the torchlight that will show you the path in front of you on a dark shitty red-day. This page is here to serve as a source of credible information to help you make better-informed decisions while understanding the risks you take with each play.
 |[Stonk-O-Tracker](https://gme.crazyawesomecompany.com/)| Stonk-O-Tracker is a website tracking public data and publish this. There is no connection with any business in the Stock industry. I just like the stock. |
 | [Tax My Tendies](https://taxmytendies.com/)| TaxMyTendies is meant to be used as an educational tool, but it's no TurboTax or any other tax preparation software. I have no connections to any financial or business industry. I just like stocks and as a Web Developer I saw it as another fun project. All of the tax brackets and other tax data were gathered from official government websites, but I cannot assure their accuracy. So please see my disclaimer and privacy policy before submitting complaints.|
+| [TLDR;](https://tldrd.com/) | Hello world! I'm Nathan, AKA OP of the tldr; Here's what happened today... posts over on Reddit. I've built this website to archive my 'Daily Digest' posts in hopes of providing another historical resource for the Apes. |
 | [Where Are The Shares](https://wherearetheshares.com/)| A chart and further information about GME FTD's |
 | [We Want Fair Markets](https://wewantfairmarkets.org/) | Our goal is to expose the truth surrounding the events of January 28th, 2021, and to make sure that retail is never taken advantage of  or cheated again.
 
