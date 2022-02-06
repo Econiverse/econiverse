@@ -13,14 +13,15 @@ main:
             ref: "/fundamentals/account_types/cash_vs_margin"
           - name: Tax Advantaged Accounts
             ref: "/fundamentals/account_types/tax_advantaged_accounts"
-      - name: Direct Registration System (DRS)
-        sub:
-          - name: DTC System
-            ref: "/fundamentals/drs/dtc_system"
-          - name: Company Share Structure
-            ref: "/fundamentals/drs/company_share_structure"
-          - name: DRS vs Street
-            ref: "/fundamentals/drs/drsvsstreet"
+          - name: Direct Registration System (DRS)
+            ref: "/fundamentals/account_types/drs"
+            sub:
+              - name: DTC System
+                ref: "/fundamentals/account_types/drs/dtc_system"
+              - name: Company Share Structure
+                ref: "/fundamentals/account_types/drs/company_share_structure"
+              - name: DRS vs Street
+                ref: "/fundamentals/account_types/drs/drsvsstreet"
       - name: Options
         sub:
           - name: What Are Options
