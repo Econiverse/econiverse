@@ -30,8 +30,6 @@ Common violations that may lead to SEC investigation include:
 
 https://www.sec.gov/tcr
 
-NOTICE: We strongly encourage the public (whistleblowers and non-whistleblowers) to submit any tips, complaints, and referrals (TCRs) using the SEC's online TCR system and complaint form. If you submit your TCR using the online TCR system, you will receive a notice confirming that your submission has been received successfully and providing the submission number for your records.
-
 https://www.sec.gov/oiea/Complaint.html
 
 https://www.sec.gov/whistleblower/submit-a-tip
@@ -47,9 +45,7 @@ https://www.finra.org/investors/need-help/file-a-complaint
 
 https://www.finra.org/contact-finra/file-tip
 
-FINRA Official Complaint brochure:
-
-https://www.finra.org/sites/default/files/InvestorDocument/p011944.pdf
+FINRA Official Complaint brochure: https://www.finra.org/sites/default/files/InvestorDocument/p011944.pdf
 
 FINRA social media accounts for Twitter, LinkedIn, Facebook and email: https://www.finra.org/rules-guidance/key-topics/social-media
 
