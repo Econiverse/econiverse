@@ -74,7 +74,7 @@ https://www.cftc.gov/complaint
 
 https://www.whistleblower.gov/overview/submitatip
 
-### NFA
+### National Futures Association (NFA)
 NFA is the industrywide, self-regulatory organization for the U.S. derivatives industry. Designated by the CFTC as a registered futures association, NFA strives every day to safeguard the integrity of the derivatives markets, protect investors and ensure Members meet their regulatory responsibilities. Investor confidence is crucial to the success of the derivatives markets, and the best way to ensure investor confidence is to demand the highest levels of integrity of all market participants and intermediaries.
 
 https://www.nfa.futures.org/complaintnet/complaint.aspx
@@ -137,8 +137,6 @@ https://www.esma.europa.eu/investor-corner/file-complaint
 The FCA is the conduct regulator for around 51,000 financial services firms and financial markets in the UK. Financial markets need to be honest, fair and effective so consumers get a fair deal. The FCA aims to address harm and add public value through the use of statutory powers to investigate and, where appropriate, take civil, criminal and/or disciplinary action where there has been a contravention. Preventing, detecting and punishing market abuse is a high priority for them.
 
 The FCA works closely with the financial services industry, law enforcement agencies and other regulators to combat market abuse and other related financial crime. They also aim to educate market participants.
-
-EU Market Abuse Regulation
 
 https://www.fca.org.uk/markets/market-abuse/how-report-suspected-market-abuse-individual
 
