@@ -8,6 +8,7 @@ None of the information on these sites should be taken at face value. Check the 
 :---|---|
 |[apehistorian.com](https://www.apehistorian.com/)| I am Ape historian, aka /u/elegant-remote6667. In case of outage, or difficulty in accessing the DD (due diligence) of GME (gamestop) and the discussions about direct registration, the history of the stock ,the subs and everything else, it will all be here. |
 |[Apes Army](https://www.apes.army/)| Apes Army is an attempt to sift through the chaff and bring the most important information into once place, saving you the need to trawl through Reddit, Twitter and all the other places where apes meet. |
+|[Apes Today](https://www.apestoday.com/)| BadassTrader here and welcome to the APES TODAY blog! |
 |[Apes Together Strong Documentary](https://www.apestogetherstrongdoc.com/)| A documentary by apes for apes|
 |[GameStop Direct-Registered Float Calculator](https://www.computershared.net/)| Tool to calculate percent of the float locked by retail. Also search records by reddit username. |
 |[GMEdd.com](https://gmedd.com/)| The loose collective of retail investors with a distinguished fascination for GameStop tracing back to 2017 founded GMEdd.com to immortalize the research and high-quality due diligence that the community put into the investment thesis — to prevent it from being drowned out by any attempts to mislead or confuse public discourse on the company’s value. |
