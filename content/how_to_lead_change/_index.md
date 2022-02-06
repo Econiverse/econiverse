@@ -6,6 +6,17 @@ A resource of links to file complaints for the misconduct and fraud uncovered wi
 
 {{< toc >}}
 
+### United States Senate
+All questions and comments regarding public policy issues, legislation, or requests for personal assistance should be directed to the senators from your state. Please be aware that as a matter of professional courtesy, many senators will acknowledge, but not respond to, a message from another senator's constituent.
+
+https://www.senate.gov/senators/senators-contact.htm
+
+https://financialservices.house.gov/forms/form/?ID=3107
+
+### United States House of Representatives
+Find Your Representative. Not sure of your congressional district or who your member is? This service will assist you by matching your ZIP code to your congressional district, with links to your member's website and contact page.
+
+https://www.house.gov/representatives/find-your-representative
 
 ### Securities Exchange Commission (SEC)
 The mission of the SEC is to protect investors; maintain fair, orderly, and efficient markets; and facilitate capital formation. The SEC strives to promote a market environment that is worthy of the public's trust. The SEC encourages reporting suspected securities fraud or wrongdoings.
@@ -51,7 +62,7 @@ https://www.consumerfinance.gov/complaint/
 
 https://complaint.consumerfinance.gov/submit-a-complaint/s/products
 
-### Federal Trade Commission
+### Federal Trade Commission (FTC)
 The FTC is the only federal agency with both consumer protection and competition jurisdiction in broad sectors of the economy. The FTC pursues vigorous and effective law enforcement; advances consumers’ interests by sharing its expertise with federal and state legislatures and U.S. and international government agencies. The FTC Mission: Protecting consumers and competition by preventing anticompetitive, deceptive, and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitimate business activity.
 
 https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc
@@ -103,18 +114,6 @@ The North American Securities Administrators Association (NASAA) represents stat
 NASAA members are the closest regulators to local communities, small businesses and the investing public throughout North America. Members of NASAA have a multifaceted mission of protecting investors from fraud and abuse, conducting investor education, providing guidance and assistance via the established regulatory framework, and ultimately helping power the North American economy by ensuring the integrity of the financial markets.
 
 https://www.nasaa.org/contact-your-regulator/
-
-### United States Senate
-All questions and comments regarding public policy issues, legislation, or requests for personal assistance should be directed to the senators from your state. Please be aware that as a matter of professional courtesy, many senators will acknowledge, but not respond to, a message from another senator's constituent.
-
-https://www.senate.gov/senators/senators-contact.htm
-
-https://financialservices.house.gov/forms/form/?ID=3107
-
-### United States House of Representatives
-Find Your Representative. Not sure of your congressional district or who your member is? This service will assist you by matching your ZIP code to your congressional district, with links to your member's website and contact page.
-
-https://www.house.gov/representatives/find-your-representative
 
 ### Financial Crimes Enforcement Network (FinCen)
 FinCEN is a bureau of the U.S. Department of the Treasury. FinCEN’s mission is to safeguard the financial system from illicit use and combat money laundering and promote national security through the strategic use of financial authorities and the collection, analysis, and dissemination of financial intelligence. [Primarily focus to combat money laundering and terrorism financing].
