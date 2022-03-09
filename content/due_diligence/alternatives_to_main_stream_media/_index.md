@@ -22,7 +22,8 @@ Here are some alternatives!
 | [The Komisar Scoop](https://www.thekomisarscoop.com/) | Lucy Komisar’s beat is the secret underbelly of the global financial system — offshore bank and corporate secrecy — and its links to corporate crime; tax evasion by the corporations and the very rich; empowerment of dictators and oligarchs; bribery and corruption; drug and arms trafficking; and terrorism.
 | [Stop Naked Short Selling](https://stopnakedshortselling.org/) | Foreign Collusion, Naked Shorting (Counterfeiting) & Money Laundering — All Illicit Wealth
 | [DeepCapture](https://www.deepcapture.com/2021/08/two-cheers-for-federal-employees/) | The Deep Capture website was created to bypass the “captured” institutions that mediate our nation’s discourse. It was initially funded by Patrick Byrne, CEO of Overstock.com, but it is not part of Overstock. It functions as a separate, limited liability media company.
-| [Upside Chronicles](https://upsidechronicles.com/) | Upside Chronicles is an independent media source comprised of writers, editors, web devs, historians, and designers from the media industry who wanted an outlet to create content about things that matter to them. 
+| [Upside Chronicles](https://upsidechronicles.com/) | Upside Chronicles is an independent media source comprised of writers, editors, web devs, historians, and designers from the media industry who wanted an outlet to create content about things that matter to them.
+| [Zero Theft Movement](https://zerotheft.net/) | Crony capitalists pay lobbyist to corrupt congress. Help expose the corruption in our system, so U.S. citizens can all benefit from an ethical economy.
 
 ## YouTube Videos
 | Resource | Description
