@@ -32,6 +32,6 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | October 14, 2021 | Staff Report on Equity and options Market Structure Conditions in Early 2021 (aka the SEC GameStop report) shows shorts did not close | [link](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf) [[b]](https://archive.ph/PyMfa)
 | January 11, 2022 | Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm | [link](https://www.citadelsecurities.com/news/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/) [[b]](https://archive.ph/XpUIM)
 | February 3, 2022 | GameStop forms partnership with Immutable X | [link](https://gamestop.gcs-web.com/node/19586/html) [[b]](https://archive.ph/u2KXz)
-
+| March 6, 2022 | Ryan Cohen announces a 9.8% stake in Bed Bath & Beyond | [link](https://www.wsj.com/articles/gamestop-chairman-ryan-cohen-takes-large-stake-in-bed-bath-beyond-pushes-for-changes-11646611200) [[b]](https://archive.ph/cnjkx)
 
 This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
