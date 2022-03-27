@@ -14,7 +14,7 @@ Here's some market data sources!
 | [Max Pain](https://maximum-pain.com) | Includes Max Pain, Greeks, IV Data
 | [Swaggy Stocks](https://swaggystocks.com/dashboard/options-max-pain/SPY) | Max Pain Calculator
 | [Dark Pool Data](https://www.stockgrid.io/darkpools) | Dark Pool Data
-| [Chart Exchange](https://chartexchange.com) | Daily Volume by Exchange and Dark Pools(Under Stats), Reddit sentiment and mention tracker (Under Trends)
+| [Chart Exchange](https://chartexchange.com) | Daily Volume by Exchange and Dark Pools(Under Stats), Reddit Sentiment and Mention Tracker (Under Trends)
 | [stocksera](https://stocksera.pythonanywhere.com/) | Open Source Analysis, Financials, Option Data, Short Volume, and Failure to Deliver
 | [Federal Reserve Bank of New York](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) | Repo and Reverse Repo Operations Data
 | [Shortable Stocks](https://shortablestocks.com/) | Data on availability of shortable shares and the cost to borrow those shares
