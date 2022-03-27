@@ -9,7 +9,7 @@ The idea of this page is to consolidate the most impactful events leading up to 
 
 | Date | Description | Link [backup]
 :---|---|---
-| December 13, 2019 | Ted Cohen, Ryan Cohen's father and mentor, passes away | [link](https://montrealgazette.remembering.ca/obituary/ted-cohen-1078009694) [b](https://archive.ph/RxUeR)
+| December 13, 2019 | Ted Cohen, Ryan Cohen's father and mentor, passes away | [link](https://montrealgazette.remembering.ca/obituary/ted-cohen-1078009694) [[b]](https://archive.ph/RxUeR)
 | April 2, 2020 | Michael Burry buys 5.3% of GME (3,400,000 shares) | [link](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) [[b]](https://archive.ph/2sJQb)
 | May 2020 | Hestia/Permit Restore GameStop Presentation, Calls out 101% short interest, poor leadership, poorly constructed executive compensation | [link](https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf) [[b]](https://web.archive.org/web/20210122185425/https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf)
 | June 3, 2020 | Scion Asset Management Voted in Support of GameStop’s Board and Management | [link](https://www.businesswire.com/ne9ws/home/20200603005929/en/Scion-Asset-Management-Voted-Support-GameStop%E2%80%99s-Board) [[b]](https://archive.ph/qfpeT)
