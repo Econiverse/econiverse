@@ -9,6 +9,7 @@ The idea of this page is to consolidate the most impactful events leading up to 
 
 | Date | Description | Link [backup]
 :---|---|---
+| December 13, 2019 | Ted Cohen, Ryan Cohen's father and mentor, passes away | [link](https://montrealgazette.remembering.ca/obituary/ted-cohen-1078009694) [b](https://archive.ph/RxUeR)
 | April 2, 2020 | Michael Burry buys 5.3% of GME (3,400,000 shares) | [link](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) [[b]](https://archive.ph/2sJQb)
 | May 2020 | Hestia/Permit Restore GameStop Presentation, Calls out 101% short interest, poor leadership, poorly constructed executive compensation | [link](https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf) [[b]](https://web.archive.org/web/20210122185425/https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf)
 | June 3, 2020 | Scion Asset Management Voted in Support of GameStop’s Board and Management | [link](https://www.businesswire.com/ne9ws/home/20200603005929/en/Scion-Asset-Management-Voted-Support-GameStop%E2%80%99s-Board) [[b]](https://archive.ph/qfpeT)
@@ -33,5 +34,8 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | January 11, 2022 | Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm | [link](https://www.citadelsecurities.com/news/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/) [[b]](https://archive.ph/XpUIM)
 | February 3, 2022 | GameStop forms partnership with Immutable X | [link](https://gamestop.gcs-web.com/node/19586/html) [[b]](https://archive.ph/u2KXz)
 | March 6, 2022 | Ryan Cohen announces a 9.8% stake in Bed Bath & Beyond | [link](https://www.wsj.com/articles/gamestop-chairman-ryan-cohen-takes-large-stake-in-bed-bath-beyond-pushes-for-changes-11646611200) [[b]](https://archive.ph/cnjkx)
+| March 21, 2022 | Board Member Larry Cheng purchased 4000 GME shares | [link](https://investor.gamestop.com/static-files/273f37df-4c5f-4ae1-ba9e-88abd0fe7297)
+| March 22, 2022 | Ryan Cohen buys an additional 100k shares of GME | [link](https://investor.gamestop.com/static-files/c3f5ebc9-8b32-4209-8e34-5e5f1d2a7795)
+| March 24, 2022 | Board Member Alain Attal buys an additional 1500 shares of GME | [link](https://investor.gamestop.com/static-files/c6b4c9dd-2f51-4eea-97c9-30448b88a531)
 
 This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
