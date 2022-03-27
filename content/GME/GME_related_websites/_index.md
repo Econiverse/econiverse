@@ -10,6 +10,7 @@ None of the information on these sites should be taken at face value. Check the 
 |[Apes Army](https://www.apes.army/)| Apes Army is an attempt to sift through the chaff and bring the most important information into once place, saving you the need to trawl through Reddit, Twitter and all the other places where apes meet. |
 |[Apes Today](https://www.apestoday.com/)| BadassTrader here and welcome to the APES TODAY blog! |
 |[Apes Together Strong Documentary](https://www.apestogetherstrongdoc.com/)| A documentary by apes for apes|
+|[DRSGME](https://www.drsgme.org/)| EXPOSE CORRUPTION OF WALL STREET - Direct register your shares and make sure that they're really yours |
 |[GameStop Direct-Registered Float Calculator](https://www.computershared.net/)| Tool to calculate percent of the float locked by retail. Also search records by reddit username. |
 |[GMEdd.com](https://gmedd.com/)| The loose collective of retail investors with a distinguished fascination for GameStop tracing back to 2017 founded GMEdd.com to immortalize the research and high-quality due diligence that the community put into the investment thesis — to prevent it from being drowned out by any attempts to mislead or confuse public discourse on the company’s value. |
 |[GME Float](https://gmefloat.com/)| An estimate of Direct Registered Shares in GameStop (GME).|
