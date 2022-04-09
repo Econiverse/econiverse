@@ -39,4 +39,4 @@ None of the information on these sites should be taken at face value. Check the 
 | [Where Are The Shares](https://wherearetheshares.com/)| A chart and further information about GME FTD's |
 | [We Want Fair Markets](https://wewantfairmarkets.org/) | Our goal is to expose the truth surrounding the events of January 28th, 2021, and to make sure that retail is never taken advantage of  or cheated again.
 
-This list is mostly sourced from the awesome work of u/jkhanlar in [this post](https://www.reddit.com/r/Superstonk/comments/psra2d/list_of_gmerelated_websitesresources_made_by_apes/).
+This list is mostly sourced from the awesome work of u/jkhanlar in [this post](https://www.reddit.com/r/Superstonk/comments/psra2d/list_of_gmerelated_websitesresources_made_by_apes/). Instructions to add to it can be found [here](/help_build_econiverse/).

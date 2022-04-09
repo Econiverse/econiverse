@@ -1,6 +1,6 @@
 ---
 geekdocCollapseSection: true
-Title: GME
+Title: GameStop
 ---
 
 {{< toc-tree >}}

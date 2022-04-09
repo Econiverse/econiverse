@@ -42,4 +42,4 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | March 28, 2022 | Tesla announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/Archives/edgar/data/1318605/000156459022011875/tsla-8k_20220328.htm) [[b]](https://archive.ph/vrzYJ)
 | March 31, 2022 | GameStop announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326380/000132638022000038/gme-20220331.htm) [[b]](https://archive.ph/YeETg)
 
-This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
+This page will always be a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
