@@ -10,6 +10,7 @@ resources:
     title: More Basic Patterns
     params:
       credits: https://pbs.twimg.com/media/B_YvrR8UgAAmfod.jpg
+weight: 10
 ---
 
 {{< img name="epicresearchchart" lazy=false >}}

@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 Main stream media has drawbacks, as illustrated in the video below [(source)](https://deadspin.com/how-i-made-a-dumb-video-making-fun-of-sinclair-broadcas-1825106452).
 
 {{< addmp4vid news_propaganda.mp4 >}}

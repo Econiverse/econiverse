@@ -1,5 +1,6 @@
 ---
 Title: Wikipedia Trends From Quiver Quantitative
+weight: 10
 ---
 
 {{< siteinsite "https://www.quiverquant.com/sources/wikipedia" >}}

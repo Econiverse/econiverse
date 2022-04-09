@@ -6,6 +6,7 @@ resources:
   - name: wayback_machine
     src: "wayback_machine.png"
     title: Wayback Machine
+weight: 40
 ---
 
 There are many ways to access information on the internet when the original is

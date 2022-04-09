@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 Here's some market data sources!
 
 {{< toc >}}

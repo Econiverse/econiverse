@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 This is a compilation of documentaries, movies, and video clips, across multiple
 platforms, that provide insight into how macrofinance functions.
 
