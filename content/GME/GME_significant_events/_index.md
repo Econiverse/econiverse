@@ -28,14 +28,17 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | April 5, 2021 | Heath Tarbert steps down as chairman of the Commodity Futures Trading Commission (CFCT) to be chief legal officer at Citadel | [link](https://www.complianceweek.com/grc-appointments/ex-cftc-chair-heath-tarbert-joins-citadel-as-chief-legal-officer/30222.article) [[b]](https://archive.ph/TqJjm)
 | April 15, 2021 | Record date for voting at the annual meeting of stockholders.
 | May 6, 2021 | Hearing: Game Stopped? Who Wins and Loses When Short Sellers, Social Media, and Retail Investors Collide, Part III | [link](https://youtu.be/vX2X8xxHEns)
-| June 9, 2021 | Annual meeting of stockholders
+| June 9, 2021 | GameStop annual meeting of stockholders
 | October 5, 2021 | Oversight of the U.S. Securities and Exchange Commission: Wall Street’s Cop is Finally Back on the Beat | [link](https://youtu.be/9CL5WfevHjI) [[b]](https://web.archive.org/web/20211004083845/https://www.youtube.com/watch?v=9CL5WfevHjI)
 | October 14, 2021 | Staff Report on Equity and options Market Structure Conditions in Early 2021 (aka the SEC GameStop report) shows shorts did not close | [link](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf) [[b]](https://archive.ph/PyMfa)
 | January 11, 2022 | Citadel Securities Announces $1.15 Billion Investment from Sequoia and Paradigm | [link](https://www.citadelsecurities.com/news/citadel-securities-announces-1-15-billion-investment-from-sequoia-and-paradigm/) [[b]](https://archive.ph/XpUIM)
 | February 3, 2022 | GameStop forms partnership with Immutable X | [link](https://gamestop.gcs-web.com/node/19586/html) [[b]](https://archive.ph/u2KXz)
 | March 6, 2022 | Ryan Cohen announces a 9.8% stake in Bed Bath & Beyond | [link](https://www.wsj.com/articles/gamestop-chairman-ryan-cohen-takes-large-stake-in-bed-bath-beyond-pushes-for-changes-11646611200) [[b]](https://archive.ph/cnjkx)
+| March 12, 2022 | Steve Cohen's Point72 Asset Management announced it is pulling $750 million it invested in Melvin Capital Management | [link](https://www.bloomberg.com/news/articles/2022-03-12/cohen-s-point72-to-redeem-750-million-from-hedge-fund-melvin?sref=V7uxlNge) [[b]](https://archive.ph/nVH8o)
 | March 21, 2022 | Board Member Larry Cheng purchased 4000 GME shares | [link](https://investor.gamestop.com/static-files/273f37df-4c5f-4ae1-ba9e-88abd0fe7297)
 | March 22, 2022 | Ryan Cohen buys an additional 100k shares of GME | [link](https://investor.gamestop.com/static-files/c3f5ebc9-8b32-4209-8e34-5e5f1d2a7795)
 | March 24, 2022 | Board Member Alain Attal buys an additional 1500 shares of GME | [link](https://investor.gamestop.com/static-files/c6b4c9dd-2f51-4eea-97c9-30448b88a531)
+| March 28, 2022 | Tesla announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/Archives/edgar/data/1318605/000156459022011875/tsla-8k_20220328.htm) [[b]](https://archive.ph/vrzYJ)
+| March 31, 2022 | GameStop announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326380/000132638022000038/gme-20220331.htm) [[b]](https://archive.ph/YeETg)
 
 This page is still a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
