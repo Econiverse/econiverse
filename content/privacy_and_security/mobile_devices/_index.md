@@ -3,6 +3,7 @@ resources:
   - name: signal
     src: "signal.png"
     title: Signal
+weight: 30
 ---
 
 Since you probably use a mobile device daily for a variety of things, it is

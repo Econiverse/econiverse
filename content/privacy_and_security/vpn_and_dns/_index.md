@@ -1,3 +1,8 @@
+---
+title: VPN and DNS
+weight: 20
+---
+
 To start, check [here](https://browserleaks.com/ip) to see what you look like to everyone else on the internet and run a DNS leak test [here](https://www.dnsleaktest.com/) and/or [here](https://dnscheck.tools/#basic) to see who you are trusting with your private data.
 
 

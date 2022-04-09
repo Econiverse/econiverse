@@ -1,3 +1,7 @@
+---
+weight: 70
+---
+
 Some cloud storage providers provide zero-knowledge end-to-end encryption. This
 means that the only one who can access your data is you. The cloud company does
 not have access to your encryption key, so they cannot see your data. Here are

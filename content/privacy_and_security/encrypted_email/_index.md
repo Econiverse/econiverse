@@ -6,6 +6,7 @@ resources:
   - name: tutanota
     src: "tutanota.png"
     title: Tutanota
+weight: 60
 ---
 
 Most companies, such as Gmail, only encrypt communications when they are

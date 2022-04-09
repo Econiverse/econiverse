@@ -1,5 +1,6 @@
 ---
 title: Browsers and Search Engines
+weight: 10
 ---
 
 Since web browsers and search engines can see everything that you visit or search, it is important that that focus on privacy. Here are a few that do.

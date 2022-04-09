@@ -4,6 +4,7 @@ resources:
   - name: linux_timeline
     src: "linux_timeline.png"
     title: Linux Distributions Timeline
+weight: 50
 ---
 
 Free open source software is intended to guarantee your freedom to
