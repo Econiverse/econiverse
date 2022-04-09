@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 Here is a list of smaller subs that are generally good places for discussion regarding the larger puzzle pieces surrounding GME.
 
 

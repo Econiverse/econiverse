@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 Here is a list of subs for GameStop stock owners in specific regions.
 
 

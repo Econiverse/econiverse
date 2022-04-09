@@ -1,5 +1,6 @@
 ---
 title: GameStop Official
+weight: 10
 ---
 
 Here is a list of official GameStop presence on the web!

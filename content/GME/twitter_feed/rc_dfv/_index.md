@@ -1,6 +1,8 @@
 ---
-title: Twitter Feeds of Ryan Cohen and TheRoaringKitty
+title: Ryan Cohen and TheRoaringKitty
+weight: 20
 ---
-This list exclude replies and retweets.
+
+This is the Twitter feeds of Ryan Cohen and TheRoaringKitty. This list exclude replies and retweets.
 
 {{< rc_dfv_twitter >}}

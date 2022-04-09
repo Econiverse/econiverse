@@ -1,5 +1,6 @@
 ---
-Title: GME Word Cloud
+title: GME Word Cloud
+weight: 40
 ---
 
 

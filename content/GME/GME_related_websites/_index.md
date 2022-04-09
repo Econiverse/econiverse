@@ -1,5 +1,6 @@
 ---
-title: GME Related Websites
+title: Related Websites
+weight: 40
 ---
 
 None of the information on these sites should be taken at face value. Check the sources yourself and think critically.

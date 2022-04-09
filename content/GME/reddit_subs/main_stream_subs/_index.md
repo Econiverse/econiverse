@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 Here are the main stream subs related to GameStop and naked shorts:
 
 {{< toc >}}

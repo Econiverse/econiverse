@@ -1,5 +1,6 @@
 ---
-Title: GME Additional Resources
+title: Additional Resources
+weight: 50
 ---
 
 

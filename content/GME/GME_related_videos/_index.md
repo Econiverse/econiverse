@@ -1,5 +1,6 @@
 ---
-title: GME Related Videos
+title: Related Videos
+weight: 30
 ---
 
 This is a list of videos that are either directly related to GME or those that have helped others understand the full picture.

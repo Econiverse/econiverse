@@ -1,5 +1,6 @@
 ---
-Title: GME Significant Events
+title: Significant Events
+weight: 20
 ---
 
 

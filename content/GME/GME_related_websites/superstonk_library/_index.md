@@ -1,5 +1,6 @@
 ---
-Title: SuperStonk Library
+title: SuperStonk Library
+weight: 30
 ---
 
 

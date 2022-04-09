@@ -91,16 +91,16 @@ main:
         ref: "due_diligence/macrofinance_movie_list"
       - name: Internet Archives
         ref: "due_diligence/internet_archives"
-  - name: GME
+  - name: GameStop
     ref: "/GME"
     sub:
       - name: GameStop Official
         ref: "/GME/gamestop_official"
-      - name: GME Significant Events
+      - name: Significant Events
         ref: "/GME/GME_significant_events"
-      - name: GME Related Videos
+      - name: Related Videos
         ref: "/GME/GME_related_videos"
-      - name: GME Related Websites
+      - name: Related Websites
         ref: "/GME/GME_related_websites"
         sub:
           - name: TLDR;
@@ -125,7 +125,7 @@ main:
         sub:
           - name: GameStop
             ref: "/GME/twitter_feed/gamestop"
-          - name: RyanCohen and TheRoaringKitty
+          - name: Ryan Cohen and TheRoaringKitty
             ref: "/GME/twitter_feed/rc_dfv"
 #          - name: Spike
 #            ref: "/GME/twitter_feed/spike"
