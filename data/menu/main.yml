@@ -140,6 +140,8 @@ main:
         ref: "privacy_and_security/browsers_and_search_engines"
       - name: VPN and DNS
         ref: "privacy_and_security/vpn_and_dns"
+      - name: 2FA
+        ref: "privacy_and_security/2fa"
       - name: Mobile Devices
         ref: "privacy_and_security/mobile_devices"
       - name: Website Proxy
