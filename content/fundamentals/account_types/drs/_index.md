@@ -1,5 +1,6 @@
 ---
-Title: Direct Registration System (DRS)
+title: Direct Registration System (DRS)
+weight: 30
 ---
 
 

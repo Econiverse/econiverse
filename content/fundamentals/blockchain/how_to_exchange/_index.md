@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 There are a few ways to obtain cryptocurrency. The most popular method is to exchange
 a fiat currency for it, such as the United States Dollar, or to exchange other
 cryptocurrencies for it, such as Bitcoin. This exchange of one store of value for another is done on an - exchange. There are two types of exchanges, centralized and

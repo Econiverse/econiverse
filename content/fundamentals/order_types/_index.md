@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 | Order Type | Description
 |:---:|:---
 | Market | A market order is an order to buy or sell a security immediately. This type of order guarantees that the order will be executed, but does not guarantee the execution price. A market order generally will execute at or near the current bid (for a sell order) or ask (for a buy order) price. However, it is important for investors to remember that the last-traded price is not necessarily the price at which a market order will be executed.

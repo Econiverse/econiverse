@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 ## Cash Account
 
 ### Buying with Cash Account:

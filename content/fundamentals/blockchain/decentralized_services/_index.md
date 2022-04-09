@@ -5,6 +5,7 @@ resources:
     title: Decentralized Blockchain Services
     params:
       credits: "[Blockgeeks](https://blockgeeks.com/wp-content/uploads/2019/05/web3.0blockchainbusiness.jpg)"
+weight: 50
 ---
 
 DeFi is just one example of peer to peer services that are possible with blockchain.

@@ -6,7 +6,7 @@ resources:
     title: Company Share Structure
     params:
       credits: "[Coputershare](https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies)"
-
+weight: 20
 ---
 
 Here is a breakdown of all authorized stock from a company:

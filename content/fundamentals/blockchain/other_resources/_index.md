@@ -1,5 +1,5 @@
 ---
-
+weight: 60
 ---
 
 Here is a list of further cryptocurrency resources:

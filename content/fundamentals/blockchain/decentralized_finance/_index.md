@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 Decentralized finance (DeFi) is a group of financial applications that are hosted
 on public blockchains that offer peer to peer services which traditionally have
 only been available through banks. This includes borrowing, lending, and trading
