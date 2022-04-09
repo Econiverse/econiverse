@@ -12,6 +12,7 @@ resources:
   - name: edit_this_file
     src: "edit_this_file.png"
     title: Edit Button
+weight: 10
 ---
 
 To edit a page thorough a web browser, first navigate to the page that you would like to edit and

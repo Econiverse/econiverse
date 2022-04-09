@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 To make major edits to the website, such as adding pages or reorganizing the menu
 it is highly recommended to edit the site locally, preview the edits, and then
 merge it into the main branch with GitHub. Here are the steps to do that!
