@@ -9,9 +9,8 @@ Here is a list of official GameStop presence on the web!
 |---|---
 | Website | http://www.gamestop.com/
 | Careers | https://careers.gamestop.com/
-| NFT | https://nft.gamestop.com/
+| NFT Marketplace | https://nft.gamestop.com/
 | NFT ETH Address | https://cn.etherscan.com/address/0x13374200c29C757FDCc72F15Da98fb94f286d71e
-| Beta NFT Marketplace | https://beta.nft.gamestop.com/
 | Investor Relations | https://investor.gamestop.com/
 | |
 | **Social Media**
