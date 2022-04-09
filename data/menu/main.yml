@@ -131,8 +131,8 @@ main:
 #            ref: "/GME/twitter_feed/spike"
 #          - name: Matt Finestone and Jordan Holberg
 #            ref: "/GME/twitter_feed/finestone_holberg"
-  - name: How To Lead Change
-    ref: "how_to_lead_change"
+  - name: Who You Can Contact
+    ref: "who_you_can_contact"
   - name: Privacy And Security
     ref: "privacy_and_security"
     sub:
@@ -152,8 +152,8 @@ main:
         ref: "privacy_and_security/encrypted_cloud_data_storage"
       - name: Additional Resources
         ref: "privacy_and_security/additional_resources"
-  - name: Taxes and Wealth Management
-    ref: "/taxes_and_wealth_management"
+#  - name: Taxes and Wealth Management
+#    ref: "/taxes_and_wealth_management"
   - name: Help Build Econiverse
     ref: "/help_build_econiverse"
     sub:
