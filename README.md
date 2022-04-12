@@ -1,5 +1,5 @@
 # Econiverse
-Econiverse is a free, non-monetized, community sourced, open source website that was created as a collection of knowledge, educational sources, and resources for those who want to learn more about finance. The pages are intended to provide detailed information that is easily to understand. Financial knowledge should be accessible to everyone and this resource provides a stepping stone towards that!
+Econiverse is a free, non-monetized, community sourced, open source website that was created as a collection of knowledge, educational sources, and resources for those who want to learn more about finance. The pages are intended to provide detailed information that is easy to understand. Financial knowledge should be accessible to everyone and this resource provides a stepping stone towards that!
 
 The website can be found here: https://econiverse.github.io/
 
