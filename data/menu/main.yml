@@ -104,12 +104,12 @@ main:
         sub:
           - name: Ape Historian Dashboard
             ref: "/GME/GME_related_websites/ape_historian_dashboard"
+          - name: SuperStonk Library
+            ref: "/GME/GME_related_websites/superstonk_library"
           - name: TLDR;
             ref: "/GME/GME_related_websites/tldr"
           - name: wikAPEdia
             ref: "/GME/GME_related_websites/wikapedia"
-          - name: SuperStonk Library
-            ref: "/GME/GME_related_websites/superstonk_library"
           - name: GME Word Cloud
             ref: "/GME/GME_related_websites/GME_word_cloud"
       - name: Additional Resources
