@@ -53,4 +53,4 @@ Here is a list of official GameStop presence on the web!
 | Twitter | https://twitter.com/GameStopIE |
 
 
-Shout out to u/Rabus for their awesome list in [this](https://www.reddit.com/r/Superstonk/comments/oc40cc/like_the_new_changes_in_gamestop_social_medias/) post.
+Shout out to u/Rabus for their awesome list in [this](https://www.reddit.com/r/Superstonk/comments/oc40cc/like_the_new_changes_in_gamestop_social_medias/) [[b]](https://archive.ph/lNRy4) post.
