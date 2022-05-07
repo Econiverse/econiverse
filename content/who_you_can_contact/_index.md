@@ -2,7 +2,7 @@
 
 ---
 
-A resource of links to file complaints for the misconduct and fraud uncovered within our markets:
+A list of links for those seeking help or resources regarding financial misconduct, fraud, or manipulation.
 
 {{< toc >}}
 
