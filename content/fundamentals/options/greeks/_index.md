@@ -1,11 +1,13 @@
 ---
 resources:
   - name: greeks
-    src: "greeks.jpg"
+    src: "greeks.jpeg"
     title: Greeks
     params:
-      credits: "[Source](https://i.pinimg.com/originals/de/c5/0d/dec50d4a21bb637e73e7d59b7a3e12b1.jpg)"
+      credits: "[Source](https://www.pinterest.com/pin/811492426586111460/)"
 weight: 20
 ---
 
-{{< img name="greeks" lazy=false >}}
+[Further Reading](https://www.businessinsider.com/personal-finance/option-greeks?op=1) [[b]](https://archive.ph/iOHSt)
+
+{{< img name="greeks" lazy=false size=small >}}
