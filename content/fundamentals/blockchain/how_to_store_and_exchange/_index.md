@@ -67,4 +67,4 @@ While software wallets are convenient to use and easily integrate with websites 
 
 ### Paper Wallets
 
-For people with large holdings or those who want a different medium to store their digital currency, paper wallets offer a more traditional solution. They are just that - the unique code that allows you to move cryptocurrency from that wallet is printed out on paper. When you want to make a transaction, the QR code must be scanned. More reading on paper wallets can be found [here](https://privacypros.io/wallets/paper/).
+For people with large holdings or those who want a different medium to store their digital currency, paper wallets offer a more traditional solution. They are just that - the unique code that allows you to move cryptocurrency from that wallet is printed out on paper. When you want to make a transaction, the QR code must be scanned. More reading on paper wallets can be found [here](https://privacypros.io/wallets/paper/) [[b]](https://archive.ph/muetr).
