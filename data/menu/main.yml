@@ -102,6 +102,8 @@ main:
       - name: Related Websites
         ref: "/GME/GME_related_websites"
         sub:
+          - name: Ape Historian Dashboard
+            ref: "/GME/GME_related_websites/ape_historian_dashboard"
           - name: TLDR;
             ref: "/GME/GME_related_websites/tldr"
           - name: wikAPEdia
