@@ -49,7 +49,6 @@ Some popular decentralized exchanges are:
 
 ## Wallets
 
-1. Coin Specific Wallets
-2. Ether Wallets
-    1. MetaMask
-    2. My Ether Wallet
+Each blockchain offers a way to hold the asset that is specific to that chain. These are commonly called wallets and may be offered by the same team that has built the chain or by a 3rd party. For example, a list of Bitcoin wallets can be found [here](https://bitcoin.org/en/choose-your-wallet).
+
+Some cryptocurrency is built on top of another blockchain and uses the same wallet of the inherent blockchain. For example, [Dai](https://makerdao.com/en/) is a stable coin built on Ethereum and can be held in any [ETH Wallet](https://ethereum.org/en/wallets/find-wallet/).
