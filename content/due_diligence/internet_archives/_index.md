@@ -44,7 +44,12 @@ Machine.
 ## Ghostarchive
 [Ghostarchive](https://ghostarchive.org/) is a web archiving website and platform. It is designed to be fast, versatile, and easy to use. A open source release is planned soon.
 
-## Reveddit
+## Reddit
+
+### Reveddit
 To recover information that has been removed from Reddit, replace "reddit" in the
 URL with "reveddit". [Reveddit](https://www.reveddit.com/about/) actively monitors
 reddit and archives posts and comments that are removed.
+
+### Unddit
+[Unddit](https://www.unddit.com/) displays removed (by mods) and deleted (by users) comments and posts from Reddit.
