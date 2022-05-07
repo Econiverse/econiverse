@@ -35,17 +35,16 @@ main:
       - name: Futures
         ref: "/fundamentals/futures"
       - name: Blockchain
+        ref: "/fundamentals/blockchain"
         sub:
           - name: Blockchain Overview
             ref: "/fundamentals/blockchain/blockchain_overview"
-          - name: How to Exchange
-            ref: "/fundamentals/blockchain/how_to_exchange"
+          - name: How to Store and Exchange
+            ref: "/fundamentals/blockchain/how_to_store_and_exchange"
           - name: Automated Trading
             ref: "/fundamentals/blockchain/automated_trading"
           - name: Decentralized Finance
             ref: "/fundamentals/blockchain/decentralized_finance"
-          - name: Decentralized Services
-            ref: "/fundamentals/blockchain/decentralized_services"
           - name: Other Resources
             ref: "/fundamentals/blockchain/other_resources"
 #      - name: Psychology
