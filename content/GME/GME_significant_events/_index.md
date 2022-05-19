@@ -41,5 +41,6 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | March 24, 2022 | Board Member Alain Attal buys an additional 1500 shares of GME | [link](https://investor.gamestop.com/static-files/c6b4c9dd-2f51-4eea-97c9-30448b88a531)
 | March 28, 2022 | Tesla announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/Archives/edgar/data/1318605/000156459022011875/tsla-8k_20220328.htm) [[b]](https://archive.ph/vrzYJ)
 | March 31, 2022 | GameStop announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326380/000132638022000038/gme-20220331.htm) [[b]](https://archive.ph/YeETg)
+| May 18, 2022 | Gabe Plotkin's Melvin Capital Management announced in a letter to clients that it is shutting down | [link](https://www.bloomberg.com/news/articles/2022-05-18/gabe-plotkin-s-melvin-capital-to-wind-down-funds-after-losses) [[b]](https://archive.ph/ObFBn)
 
 This page will always be a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
