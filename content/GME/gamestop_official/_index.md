@@ -17,6 +17,7 @@ Here is a list of official GameStop presence on the web!
 | **Social Media**
 | Facebook | https://www.facebook.com/GameStop
 | Twitter | https://twitter.com/gamestop
+| Twitter - NFT | https://twitter.com/GameStopNFT
 | Twitter - Esports | https://twitter.com/gamestopesports
 | YouTube | https://www.youtube.com/channel/UCX1aoT25QZzgGQJo4uCtRxw
 | Instagram | https://www.instagram.com/gamestop/?hl=en
