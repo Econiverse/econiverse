@@ -11,6 +11,7 @@ Here is a list of official GameStop presence on the web!
 | Careers | https://careers.gamestop.com/
 | NFT Marketplace | https://nft.gamestop.com/
 | GameStop Wallet | https://wallet.gamestop.com/
+| IMX Grant Program | https://imxgrant.nft.gamestop.com/
 | NFT ETH Address | https://cn.etherscan.com/address/0x13374200c29C757FDCc72F15Da98fb94f286d71e
 | Investor Relations | https://investor.gamestop.com/
 | |
