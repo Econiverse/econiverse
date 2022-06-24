@@ -12,6 +12,7 @@ This is a list of videos that are either directly related to GME or those that h
 | 2006 | Dark Side of the Looking Glass | [link](https://www.youtube.com/watch?v=nLnw2_q5iMk) [[b]](https://web.archive.org/web/20210204183232/https://www.youtube.com/watch?v=nLnw2_q5iMk)
 | 2007 | Naked Short Selling and Regulatory Capture Explained | [link](https://www.youtube.com/watch?v=IZbLv_S_fYg) [[b]](https://web.archive.org/web/20210201151230/https://www.youtube.com/watch?v=IZbLv_S_fYg)
 | 2009 | Jon Stewart Calls Out Jim Cramer in 2009 | [link](https://old.reddit.com/r/Superstonk/comments/ni1gcw/jon_stewart_absolutely_destroyed_jim_cramercnbc/) [[b]](https://web.archive.org/web/20210521230240/https://old.reddit.com/r/Superstonk/comments/ni1gcw/jon_stewart_absolutely_destroyed_jim_cramercnbc/)
+| July 21, 2009 | Alan Grayson: "Which Foreigners Got the Fed's $500,000,000,000?" Bernanke: "I Don't Know." | [link](https://www.youtube.com/watch?v=n0NYBTkE1yQ)
 | October 11, 2010 | George Soros Lecture Series: Financial Markets | [link](https://youtu.be/RHSEEJDKJho)
 | 2011 | 60 Minutes: Pelosi Insider Trading | [link](https://www.youtube.com/watch?v=ReZ7DdT5ZoI) [[b]](https://www.youtube.com/watch?v=ReZ7DdT5ZoI)
 | January 12, 2011 | The American Dream - Understanding Money and the Banking System | [link](https://www.youtube.com/watch?v=k6zpfE7WjHI)
