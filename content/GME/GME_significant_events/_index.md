@@ -43,6 +43,6 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | March 31, 2022 | GameStop announced plans to request stockholder approval for an increase in the number of authorized shares in order to implement a stock split in the form of a stock dividend | [link](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326380/000132638022000038/gme-20220331.htm) [[b]](https://archive.ph/YeETg)
 | May 18, 2022 | Gabe Plotkin's Melvin Capital Management announced in a letter to clients that it is shutting down | [link](https://www.bloomberg.com/news/articles/2022-05-18/gabe-plotkin-s-melvin-capital-to-wind-down-funds-after-losses) [[b]](https://archive.ph/ObFBn)
 | May 31, 2022 | The SEC releases their Investomania series of YouTube videos | [link](https://www.investor.gov/additional-resources/spotlight/investomania#) [[b]](https://archive.ph/hqgjx)
-
+| June 24, 2022 | The U.S. House Committee on Financial Services Report - Game Stopped: How The “Meme Stock” Market Event Exposed Troubling Business Practices, Inadequate Risk Management, and The Need for Legislative and Regulatory Reform | [link](https://financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf) [[b]](https://web.archive.org/web/20220624182822/https://financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf)
 
 This page will always be a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
