@@ -97,8 +97,8 @@ main:
         ref: "/GME/gamestop_official"
       - name: Significant Events
         ref: "/GME/GME_significant_events"
-      - name: Related Videos
-        ref: "/GME/GME_related_videos"
+      - name: Related Media
+        ref: "/GME/GME_related_media"
       - name: Related Websites
         ref: "/GME/GME_related_websites"
         sub:

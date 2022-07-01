@@ -1,10 +1,19 @@
 ---
-title: Related Videos
+title: Related Media
 weight: 30
 ---
 
-This is a list of videos that are either directly related to GME or those that have helped others understand the full picture.
+This is a list of streams and videos that are either directly related to GME or those that have helped others understand the full picture.
 
+
+## Streams
+| Resource | Description
+|---|---
+| [Pi-Fi](https://www.youtube.com/c/PickleFinancial) | Crayons, Charts, Rockets, and Juicy Pickles. Come have fun learning about how the markets work, why they don't, and how that affects you!
+| [Rocky Outcrop](https://www.youtube.com/rockyoutcrop) | Pro trader streaming live at market open every weekday. Get the day started right with easily digestible news, education, and FOMO free technical analysis sure to enhance your trading across stocks, crypto, commodities and forex.
+| [tradespotting](https://www.youtube.com/tradespotting) | Choose your future. Choose life. Choose #GME. Stick around will see interesting videos on the counter intuitive aspects of trading, the psychology of large accounts and the way to make bank in trading. Fundamental & Technical analysis on stocks, crypto, forex and my portfolio. Follow along but make your own finacial decisions. Check out my early videos to understand the TA  on the charts.
+
+## Videos
 | Date | Description | Link [backup]
 |:---|---|---|
 | September 3, 1997 | Everything You Need to Know About Investing By Peter Lynch | [link](https://www.youtube.com/watch?v=E4zwqu3ybUU) [[b]](https://web.archive.org/web/20211209075418/https://www.youtube.com/watch?v=E4zwqu3ybUU)
