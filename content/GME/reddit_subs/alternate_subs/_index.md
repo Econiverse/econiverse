@@ -23,10 +23,6 @@ A community for GameStop stock owners, who enjoy learning about the larger pictu
 
 A place to focus on learning and discussing the stock market (as well as some quality shit-posting and meme'ing opportunities). Centered on the community around Gherkinit / Pickle Financial's Youtube channel and financial due diligence but open to all looking to learn. While much of the focus is on GameStop ($GME) currently, conversations about macroeconomic situations (minus the team-based political aspects) and due diligence for other stock tickers are also welcome.
 
-## [dillionairs](https://www.reddit.com/r/dillionaires/)
-
-Tired of Gherkin it alone? Then boy do I have a subreddit for you
-
 ## [tradespotting](https://www.reddit.com/r/tradespotting/)
 
 The tradespotting subreddit
