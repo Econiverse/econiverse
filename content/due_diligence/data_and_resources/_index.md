@@ -39,6 +39,7 @@ Here's some market data sources!
 | Source | Description
 :---|---
 | [SEC FTD Data](https://www.sec.gov/data/foiadocsfailsdatahtm) | Failure to Deliver Data From The SEC
+| [SEC FTD Chart](https://sec.report/fails.php) |  Graphs of the date and total number of fails-to-delivers recorded in the National Securities Clearing Corporation's ("NSCC") Continuous Net Settlement system aggregated over all NSCC members
 | [Trading Halts](https://nasdaqtrader.com/trader.aspx?id=TradeHalts) | Current and Past Trading Halts
 | [Market Holidays](https://www.nyse.com/markets/hours-calendars) | NYSE Market Holidays
 | [Short Sale Circuit Breaker](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker) | When Triggered, Restricts Short Selling
