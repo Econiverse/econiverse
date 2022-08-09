@@ -10,6 +10,7 @@ The idea of this page is to consolidate the most impactful events leading up to 
 
 | Date | Description | Link [backup]
 :---|---|---
+| 1983 - 2004 | GameStop company history | [link](https://www.company-histories.com/GameStop-Corp-Company-History.html) [[b]](https://archive.ph/9XYy0)
 | December 13, 2019 | Ted Cohen, Ryan Cohen's father and mentor, passes away | [link](https://montrealgazette.remembering.ca/obituary/ted-cohen-1078009694) [[b]](https://archive.ph/RxUeR)
 | April 2, 2020 | Michael Burry buys 5.3% of GME (3,400,000 shares) | [link](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) [[b]](https://archive.ph/2sJQb)
 | May 2020 | Hestia/Permit Restore GameStop Presentation, Calls out 101% short interest, poor leadership, poorly constructed executive compensation | [link](https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf) [[b]](https://web.archive.org/web/20210122185425/https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf)
@@ -46,5 +47,8 @@ The idea of this page is to consolidate the most impactful events leading up to 
 | June 24, 2022 | The U.S. House Committee on Financial Services Report - Game Stopped: How The “Meme Stock” Market Event Exposed Troubling Business Practices, Inadequate Risk Management, and The Need for Legislative and Regulatory Reform | [link](https://financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf) [[b]](https://web.archive.org/web/20220624182822/https://financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf)
 | July 6, 2022 | GameStop announced a four-for-one stock split in the form of a stock dividend. Each Company stockholder of record at the close of business on July 18, 2022 will receive three additional shares of the Company’s Class A common stock for each then-held share of Class A common stock, to be distributed after the close of trading on July 21, 2022. | [link](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326380/000132638022000100/gme-20220706.htm) [[b]](https://archive.ph/7XOsc)
 | July 11, 2022 | GameStop launches the Beta GameStop NFT website | [link](https://nft.gamestop.com/)
+| August 5, 2022 | GameStop issues guidance for international stockholders with split-related questions | [link](https://news.gamestop.com/stock-split/?n) [[b]](https://archive.ph/k6ZrC)
+| August 8, 2022 | Version 0.6.9 of the GameStop Wallet is released, bringing Immutable X Layer 2 native support | [link](https://mobile.twitter.com/GameStopNFT/status/1556766458276974592) [[b]](https://archive.ph/oqgLQ)
+
 
 This page will always be a work in progress! Instructions to help build it can be found [here](/help_build_econiverse/).
