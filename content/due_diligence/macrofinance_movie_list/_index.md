@@ -109,6 +109,12 @@ All episodes are highly recommended, and below are two notable examples.
 {{< tab "Keywords" >}} Capitalism, Corporate Power, Economic Inequality, Reform, Robert Reich, United States, Wealth Distribution. {{< /tab >}}
 {{< /tabs >}}
 
+## The China Hustle
+{{< tabs "the_china_hustle" >}}
+{{< tab "Description" >}} This documentary reveals a massive fraud where Chinese companies are profiting from U.S. investors with the help of Wall Street banks. It unveils the story of high-return "Chinese" firms listed on the American stock exchange that are too good to be true. {{< /tab >}}
+{{< tab "Keywords" >}} Stock market, China, Wall Street, Financial fraud. {{< /tab >}}
+{{< /tabs >}}
+
 ## The Big Flaw
 {{< tabs "the_big_flaw" >}}
 {{< tab "Description" >}} This film focuses on the inherent flaws of the modern financial system, investigating the root causes of financial instability, from debt accumulation to systemic risk. {{< /tab >}}
@@ -119,6 +125,12 @@ All episodes are highly recommended, and below are two notable examples.
 {{< tabs "the_big_short" >}}
 {{< tab "Description" >}} Based on Michael Lewis's book, The Big Short is a dramatization of the build-up to the 2008 financial crisis. It follows several key figures who predicted and profited from the collapse of the housing market. {{< /tab >}}
 {{< tab "Keywords" >}} 2008 Financial Crisis, Collateralized Debt Obligations, Financial Markets, Housing Market, Subprime Mortgage Crisis, Wall Street. {{< /tab >}}
+{{< /tabs >}}
+
+## The Inventor: Out for Blood in Silicon Valley
+{{< tabs "the_inventor" >}}
+{{< tab "Description" >}} This film paints a deep and detailed portrait of Elizabeth Holmes and her biotech startup, Theranos. The company and its groundbreaking 'Edison' machine were set to revolutionize the medical industry. However, when things didn't go as planned, the most significant corporate fraud since Enron was exposed. {{< /tab >}}
+{{< tab "Keywords" >}} Startup, Biotech, Silicon Valley, Corporate fraud. {{< /tab >}}
 {{< /tabs >}}
 
 ## The Price We Pay
