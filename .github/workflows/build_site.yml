@@ -22,7 +22,7 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.Econiverse_Secret }}
           external_repository: Econiverse/Econiverse.github.io
