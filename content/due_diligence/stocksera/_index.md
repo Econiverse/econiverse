@@ -4,6 +4,6 @@ weight: 10
 
 {{< siteinsite "https://stocksera.pythonanywhere.com/" >}}
 
-Source: https://stocksera.pythonanywhere.com/
+Source: [Stocksera](https://stocksera.pythonanywhere.com/)
 
-GitHub: https://github.com/spartan737/Stocksera
+GitHub: [Stocksera on GitHub](https://github.com/spartan737/Stocksera)

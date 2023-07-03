@@ -9,6 +9,6 @@ resources:
 weight: 10
 ---
 
-Here is a diagram showing how a publicly traded stock is issued, held, and traded in the DTC system. Also shown on the diagram is how shares are held when directly registered.
+Here is a diagram illustrating the process of issuing, holding, and trading a publicly traded stock within the DTC system. Additionally, the diagram highlights how shares are held through direct registration.
 
 {{< img name="directregistrationsystem" lazy=true size=medium >}}

@@ -15,24 +15,23 @@ resources:
 weight: 10
 ---
 
-To edit a page thorough a web browser, first navigate to the page that you would like to edit and
-then click the "Edit this page" button at the top right of the page.
+To edit a page through a web browser, follow these steps:
 
-{{< img name="edit_button" lazy=false >}}
+1. Navigate to the page you would like to edit.
+2. Click the "Edit this page" button at the top right of the page. 
 
-This will then bring you to the GitHub repo and you will be shown the file that contains the page
-you wish to edit. To edit the page, click the "Edit this file" button in the top right. If you do not have a GitHub account, create one at the log in prompt.
+   ![Edit Button](edit_button.png)
 
-{{< img name="edit_this_file" lazy=false >}}
+   This will take you to the GitHub repository, where you will see the file that contains the page you wish to edit. To make changes, click the "Edit this file" button in the top right corner. If you don't have a GitHub account, you can create one at the login prompt.
 
-Place your edits in the file as shown below. A guide for how to include pictures, equations, code blocks,
-columns, hints, etc. can be found at the [Geekdocs Demo Site](https://geekdocs.de/usage/getting-started/).
+   ![Edit This File](edit_this_file.png)
 
-{{< img name="edits" lazy=false >}}
+3. Make your edits in the file as shown below. Refer to the [Geekdocs Demo Site](https://geekdocs.de/usage/getting-started/) for guidance on including pictures, equations, code blocks, columns, hints, and more.
 
-Once you have completed editing the file, click the "Commit" button at the bottom of the page.
+   ![Example of Editing a File](edits.png)
 
-{{< img name="commit_button" lazy=false >}}
+4. Once you have finished editing the file, scroll down and click the "Commit" button at the bottom of the page.
 
-That's it! The maintainers will review the contribution and it will go live as
-soon as approved.
+   ![Commit Button](commit_button.png)
+
+That's it! The maintainers will review your contribution, and once approved, it will go live.

@@ -2,14 +2,14 @@
 weight: 90
 ---
 
-| Source | Description
-:---|---
-| [Privacy Tools](https://privacytools.io/) | You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.
-| [Spread Privacy](https://spreadprivacy.com/) | The Official DuckDuckGo Blog
-| [Surveillance Self-Defense](https://ssd.eff.org/) | We’re the Electronic Frontier Foundation, an independent non-profit working to protect online privacy for nearly thirty years. This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.
-| [The Ultimate Online Privacy Guide](https://proprivacy.com/guides/the-ultimate-privacy-guide) | ProPrivacy Ultimate Online Privacy Guide
-| [The Ultimate Online Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) | Online privacy tests help you find out what kind of information your browser (or other programs) reveal. The information itself is useful, but you can also act upon it, for instance by disabling certain features in the program you are using if you don't require them.
-| [Prism Break](https://prism-break.org/en/) | Help make mass surveillance of entire populations uneconomical! We all have a right to privacy, which you can exercise today by encrypting your communications and ending your reliance on proprietary services.
-| [Kali Linux Tutorial](https://www.guru99.com/kali-linux-tutorial.html) | Kali Linux for beginners
-| [Kali Training](https://kali.training/) | Whether you're new to Information Security, or a seasoned security veteran, the Kali Linux Revealed Book and our online training exercises have something to teach you. The saying "You can't build a great building on a weak foundation" rings true in the information security field as well, and if you use (or want to learn to use) Kali Linux in a professional capacity, you should familiarize yourself as best as you can with the internals of the penetration testing distribution. That is what this Kali Linux Revealed book is all about – turning you into a Kali Linux professional user.
-| [Tails](https://tails.boum.org/) | Tails is a portable operating system that protects against surveillance and censorship.
+| Source | Description |
+| --- | --- |
+| [Kali Linux Tutorial](https://www.guru99.com/kali-linux-tutorial.html) | A comprehensive tutorial for beginners to learn Kali Linux, a powerful operating system for penetration testing and ethical hacking. |
+| [Kali Training](https://kali.training/) | Access Kali Linux Revealed Book and online training exercises to enhance your skills in information security and penetration testing. Learn to use Kali Linux professionally and strengthen your foundation in the field. |
+| [Prism Break](https://prism-break.org/en/) | Join the mission to make mass surveillance of entire populations uneconomical. Discover tools and services that prioritize your right to privacy, allowing you to encrypt communications and reduce reliance on proprietary services. |
+| [Privacy Tools](https://privacytools.io/) | Protect yourself from global mass surveillance. PrivacyTools offers services, tools, and knowledge to safeguard your online activities from private and state-sponsored monitoring and recording. |
+| [Spread Privacy](https://spreadprivacy.com/) | The official blog of DuckDuckGo, providing insights and resources to help you maintain your online privacy and take control of your personal data. |
+| [Surveillance Self-Defense](https://ssd.eff.org/) | An expert guide by the Electronic Frontier Foundation (EFF) to protect yourself and your friends from online spying. Learn about digital privacy tools and practices to defend against surveillance threats. |
+| [Tails](https://tails.boum.org/) | Tails is a portable operating system designed to protect your privacy and anonymity. It allows you to use the internet anonymously, bypass censorship, and leave no trace on the computer you use. |
+| [The Ultimate Online Privacy Guide](https://proprivacy.com/guides/the-ultimate-privacy-guide) | A comprehensive guide by ProPrivacy to help you understand and implement online privacy practices. Explore various topics, including secure communication, data protection, and privacy-enhancing tools. |
+| [The Ultimate Online Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/) | Discover online privacy tests that reveal information about your browser or other programs, enabling you to make informed decisions about privacy settings and selectively disable unnecessary features. |

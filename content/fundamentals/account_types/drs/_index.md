@@ -4,7 +4,7 @@ weight: 30
 ---
 
 
-The Direct Registration System allows stock owners to hold stock on the official company register in their own name. When shares are held in a broker, they are registered to the DTC (street name).
+The Direct Registration System (DRS) enables stock owners to have their shares held directly on the official company register in their own name. In contrast, when shares are held with a broker, they are registered under the DTC (street name).
 
 
 {{< toc-tree >}}

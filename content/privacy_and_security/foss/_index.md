@@ -1,5 +1,5 @@
 ---
-title: Free Open Source Software (FOSS)
+title: Free Open Source Software (FOSS) Showcase
 resources:
   - name: linux_timeline
     src: "linux_timeline.png"
@@ -7,31 +7,22 @@ resources:
 weight: 60
 ---
 
-Free open source software is intended to guarantee your freedom to share and change all versions of a program and to make sure it remains free software for all its users. This website is an example of FOSS! If you'd like to read the license it can be found [here](https://github.com/Econiverse/econiverse/blob/main/LICENSE).
+This page provides a showcase of Free Open Source Software (FOSS) – software that ensures everyone has the freedom to share, modify, and use all versions of a program. Notably, this very site is a product of FOSS! You can view our license [here](https://github.com/Econiverse/econiverse/blob/main/LICENSE). The transparency of FOSS often results in the most secure, high-quality software projects.
 
-One major benefit of FOSS is it's code is available for anyone to review. This results in the largest, trusted projects being some of the most secure software available.
+Explore the table below to discover some prime examples of FOSS:
 
+| Software | Description | 
+| --- | --- |
+| [7-Zip](https://7-zip.org/) | High-performance file archiver with a high compression ratio and diverse format support. |
+| [Audacity](https://www.audacityteam.org/) | Comprehensive audio software, ideal for musicians, podcasters, and audio enthusiasts, with a range of recording and editing features. |
+| [Blender](https://www.blender.org/) | A complete 3D creation suite with features for modeling, animation, rendering, video editing, and more. |
+| [Firefox](https://www.mozilla.org/firefox/) | User-centric web browser prioritizing privacy and security with regular updates, customizable features, and robust privacy settings. |
+| [GIMP](https://www.gimp.org/) | Powerful image editing software catering to both basic and advanced image manipulation tasks. |
+| [Inkscape](https://inkscape.org/) | Precision vector graphics editor, perfect for creating illustrations, logos, icons, and more. |
+| [KeePass](https://keepass.info/) | Reliable password manager ensuring secure storage and management of passwords with advanced encryption. |
+| [LibreOffice](https://www.libreoffice.org/download/download/) | Comprehensive office suite compatible with popular file formats, providing a free alternative to proprietary office suites. |
+| [Ubuntu](https://ubuntu.com/) | A well-established Linux distribution renowned for its emphasis on privacy, security, performance, and reliability. |
+| [Thunderbird](https://www.mozilla.org/thunderbird/) | Robust email client, secure and customizable, supporting multiple accounts, advanced filtering, encryption, and spam protection. |
+| [VLC Media Player](https://www.videolan.org/vlc/) | Highly versatile media player supporting an extensive range of audio and video formats, with added functionalities such as streaming and subtitle synchronization. |
 
-
-{{< toc >}}
-
-## Linux
-Linux is a FOSS operating system, similar to Windows, but considered superior in
-regards to privacy, security, performance, and reliability. Since the code is
-available with the freedom to modify, there have been many branches that have
-developed over time. Here is a non-extensive map as an example:
-
-{{< img name="linux_timeline" lazy=false size=medium >}}
-<!-- https://i.redd.it/aygzaivcbmd51.png -->
-
-Ubuntu is one of the leading flavors and provides long term support with five years of security patches and updates. Installation is relevantly easy and a guide on how to install Ubuntu along side Windows can be found [here](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/).
-
-For additional resources, [It's FOSS](https://itsfoss.com/) provides Linux and other open source articles, guides, and videos.
-
-## LibreOffice
-LibreOffice is a FOSS office suite that includes a word processor, spreadsheet,
-presentation, database, and more. It is included in the recommended software
-that is optional while installing Ubuntu and can also be found [here](https://www.libreoffice.org/download/download/).
-
-## 7-Zip
-[7-Zip](https://7-zip.org/) is a file archiver with a high compression ratio.
+Remember, this is just the tip of the iceberg when it comes to FOSS. The possibilities are vast and continually growing with the community's collaborative efforts.

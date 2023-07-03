@@ -2,92 +2,62 @@
 weight: 30
 ---
 
-This is a compilation of documentaries, movies, and video clips, across multiple
-platforms, that provide insight into how macrofinance functions.
+This is a carefully curated collection of documentaries, movies, and video clips spanning across multiple platforms that provide unique insights into the world of macrofinance.
 
 {{< toc >}}
 
 ## Ghost Exchange
 
 {{< tabs "ghost_exchange" >}}
-{{< tab "Description" >}} Explains the 17 second glitch that occurred when FB listed on the NASDAQ exchange and billions of dollars disappeared. States how glitches have continued/increased in frequency and are seen as features instead of bugs. These events resulted in loss of investor confidence in the markets.
-
-Discusses pros, cons, and inner workings of High Frequency Trading (HFT) on the exchanges and exchanges themselves. Expands on the impact of these events between the USA and other countries (global ties) impact. Greece, UK, etc.
-
-Dark Pools and how orders are routed. If retail submits an order and it isn't executed immediately, it will be clumped with other orders to try to execute. If it does not execute, then it will be sent to a dark pool. If there is still no execution, then it’s sent to another dark pool, rinse repeat. {{< /tab >}}
-{{< tab "Keywords" >}} glitch, FB, NASDAQ, 2012, IPO, collusion, JP Morgan, Jeremy Barnum, Morgan Stanley, Goldman Sachs, Jamie Dimon, underwriters, pump and dump, HFT, UK, London Whale, Dark Pools, order routing, Greece Collapse, algorithms, New Jersey. {{< /tab >}}
+{{< tab "Description" >}} The documentary explains the infamous 17-second glitch that occurred during Facebook's listing on the NASDAQ exchange, leading to a loss of billions of dollars. The glitches' frequent occurrences, the pros, cons, and mechanics of High Frequency Trading (HFT), as well as the workings of stock exchanges, are discussed in-depth. The documentary also explores the impact of these events on global economic ties, with specific examples from countries like Greece and the UK. {{< /tab >}}
+{{< tab "Keywords" >}} 2012, Algorithms, Collusion, Dark Pools, FB, Glitch, Greece Collapse, HFT, IPO, Jamie Dimon, Jeremy Barnum, JP Morgan, London Whale, NASDAQ, New Jersey, Order Routing, Pump And Dump, UK, Underwriters. {{< /tab >}}
 {{< /tabs >}}
 
 ## Hank: 5 Years From the Brink
 {{< tabs "uniqueid2" >}}
-{{< tab "Description" >}} Explains Henry ‘Hank’ Paulson Jr.’s perspective in the early stages of the 2008 Global Financial Crisis (GFC) and the steps taken as he was tasked to find ways to fix it. Hank was appointed by President George W. Bush (GWB) as the 74th Secretary of the US Treasury (July 2006 – January 2009). Prior to, Hank was Chairman and CEO of Goldman Sachs, not subject to capital gains tax when he sold his GS stock.
-
-Hank clearly states his concerns on what factors contributed to the GFC (18-minute mark): The Over The Counter (OTC) derivative markets and lack of transparency among them. Hedge funds and their power/size. He didn't talk about housing as his primary concern.
-
-Hank’s financial regulatory blueprint (latest rev is 70) titled "The Department of The Treasure Blueprint for A Modernized Financial Regulatory Structure" {{< /tab >}}
-{{< tab "Keywords" >}} leverage, Goldman Sachs 1974, GWB, housing, Lehman, mortgage, moody’s, standard & poors, ratings, bailout, too big to fail, derivatives, OTC, survive one weekend, TARP, Pentagon, airlines, see GS keywords. {{< /tab >}}
+{{< tab "Description" >}} The documentary offers a perspective into the early stages of the 2008 Global Financial Crisis (GFC) and how Henry 'Hank' Paulson Jr., then Secretary of the US Treasury, handled the crisis. Paulson's concerns about the Over The Counter (OTC) derivative markets, hedge funds, and other factors contributing to the GFC are thoroughly explained. {{< /tab >}}
+{{< tab "Keywords" >}} Airlines, Bailout, Derivatives, Goldman Sachs 1974, GWB, Housing, Lehman, Leverage, Moody’s, Mortgage, OTC, Ratings, Standard & Poors, Survive One Weekend, TARP, Too Big To Fail. {{< /tab >}}
 {{< /tabs >}}
 
 ## Dirty Money
 
-All episodes are recommended and below are two notable examples.
+All episodes are highly recommended, and below are two notable examples.
 
 ### Drug Short (Vyera & Valeant Pharmaceuticals)
 {{< tabs "drug_short" >}}
-{{< tab "Description" >}}
-Different perspective of Martin Shkreli and the pharmaceutical/finance industry intertwined with corporate fraud. Provides evidence that Shkreli was a pawn and utilized as a scapegoat. {{< /tab >}}
-{{< tab "Keywords" >}} short seller due diligence, corporate fraud, Mike Pearson, Valeant, Bausch Health Companies Inc., Fahmi Quadir (Safkhet Capital), Roddy Boyd, Andrew Left (Citron Research), John Hempton (Bronte Capital), Bill Ackman (Pershing Square Capital Management), Herbalife, MLM, ‘love the stock’ emotions, Carl Icahn (adversary), naked shorting, MSMB Capital Management, Merryl Lynch, Lehman, Retrophin Portfolio Co.
-{{< /tab >}}
+{{< tab "Description" >}} This episode provides a different perspective on Martin Shkreli and the intertwining of the pharmaceutical and finance industries, highlighting cases of corporate fraud. It suggests that Shkreli was used as a scapegoat in the wider issues plaguing the industry. {{< /tab >}}
+{{< tab "Keywords" >}} Andrew Left (Citron Research), Bausch Health Companies Inc., Bill Ackman (Pershing Square Capital Management), Carl Icahn (Adversary), Corporate Fraud, Fahmi Quadir (Safkhet Capital), Herbalife, John Hempton (Bronte Capital), Lehman, Love The Stock Emotions, Merryl Lynch, Mike Pearson, MLM, MSMB Capital Management, Naked Shorting, Retrophin Portfolio Co., Roddy Boyd, Short Seller Due Diligence, Valeant. {{< /tab >}}
 {{< /tabs >}}
 
 ### The Wagon Wheel (Wells Fargo)
 {{< tabs "the_wagon_wheel" >}}
-{{< tab "Description" >}}
-Fraudulent practices to boost the bank’s numbers and share price. Illegally opened lines of credit, bank accounts, charged ‘typical fees’, and encouraged cross-selling. Seen as the Golden Child in 2008 as they weren’t hit hard. {{< /tab >}}
-{{< tab "Keywords" >}} cross-selling, securitization, fake fees, plausible deniability, Wachovia, fraudulent checking and savings accounts opened, money movement between real & fake accounts, student loans, Apollo, Blackstone, Life Insurance Prudential, Auto Insurance, Dakota Access Pipeline, Navajo Nation, Timothy Sloan, John Stumpf, GWB, Jim Cramer, Warren Buffet.
-{{< /tab >}}
+{{< tab "Description" >}} This episode exposes the fraudulent practices adopted by Wells Fargo to boost their numbers and share price. This includes illegal activities like opening lines of credit, creating bank accounts, charging typical fees, and promoting cross-selling. {{< /tab >}}
+{{< tab "Keywords" >}} Apollo, Blackstone, Cross-Selling, Dakota Access Pipeline, Fake Fees, Fraudulent Checking And Savings Accounts Opened, GWB, Jim Cramer, John Stumpf, Life Insurance Prudential, Money Movement Between Real & Fake Accounts, Navajo Nation, Plausible Deniability, Securitization, Student Loans, Timothy Sloan, Wachovia, Warren Buffet.{{< /tab >}}
 {{< /tabs >}}
 
 ## Goldman Sachs: Master of The World?
 {{< tabs "goldman_sachs" >}}
-{{< tab "Description" >}}
-Discusses the use of insider information obtained by GS during the 2008 GFC. Goldman was aware of the impending crash since 2006 and began boosting its numbers to gain an edge during the collapse. {{< /tab >}}
-{{< tab "Keywords" >}} mortgage origination, global settlement, Barclays, Nomura Holdings, 3rd largest investment bank(behind Morgan Stanley and Merrill), bankruptcy, repurchase agreement accounting gimmick, AIG bailout $10M & the $12.9M GS received, market manipulation, naked short selling (Overstock.com), IPO price manipulation, Lehman Brothers, market maker, revolving door, ‘orphan month’ accounting practice, allowed to convert to holdings company (like Morgan Stanley), changes in accounting time frames (calendar years), employee bonus, CDS, collateral, Morgan Stanley Advisor, Cayman, offshore tax havens, Greece, Italy, Portugal, European sovereign debt crisis, Timothy Geithner’s Chief of Staff Mark Patterson, Lloyd Blankfein & White House, Stephen Friedman, insider trading, Berkshire Hathaway, synthetic CDO, ABACUS, commodity price manipulation, admitted '08 manipulation, etc.
-{{< /tab >}}
+{{< tab "Description" >}} This documentary dives into the use of insider information by Goldman Sachs during the 2008 GFC, alleging that they knew about the impending crash as early as 2006. It discusses the use of specific accounting practices and changes in financial figures by Goldman Sachs. {{< /tab >}}
+{{< tab "Keywords" >}} 3rd Largest Investment Bank(Behind Morgan Stanley And Merrill), AIG Bailout $10M & The $12.9M GS Received, Allowed To Convert To Holdings Company (Like Morgan Stanley), Barclays, Berkshire Hathaway, CDS, Cayman, Changes In Accounting Time Frames (Calendar Years), Collateral, Commodity Price Manipulation, Employee Bonus, European Sovereign Debt Crisis, Greece, Insider Trading, Italy, Lehman Brothers, Lloyd Blankfein & White House, Market Maker, Mark Patterson, Morgan Stanley Advisor, Mortgage Origination, Naked Short Selling (Overstock.Com), Nomura Holdings, Offshore Tax Havens, Orphan Month Accounting Practice, Portugal, Repurchase Agreement Accounting Gimmick, Revolving Door, Stephen Friedman, Synthetic CDO.{{< /tab >}}
 {{< /tabs >}}
 
-## More
+## Further Viewing
 
-Enron: Smartest Guys in the Room
+* ABACUS: Small Enough to Jail
+* Capitalism: A Love Story
+* Enron: Smartest Guys in the Room
+* Gold & Silver
+* Hot Money
+* Inside Job
+* Inside Lehman Brothers
+* Money Bots
+* Money for Nothing: Inside the Federal Reserve
+* Quants, The Alchemists of Wall Street
+* Saving Capitalism
+* The Big Flaw
+* The Big Short
+* The Price We Pay
+* The Wall Street Conspiracy
+* The Wall Street Code
+* Too Big to Fail
 
-Inside Job
-
-The Big Flaw
-
-Saving Capitalism
-
-Hot Money
-
-The Price We Pay
-
-Money Bots
-
-The Wall Street Conspiracy
-
-Money for Nothing: Inside the Federal Reserve
-
-Too Big to Fail
-
-ABACUS: Small Enough to Jail
-
-Inside Lehman Brothers
-
-Capitalism: A Love Story
-
-The Wall Street Code
-
-Quants, The Alchemists of Wall Street
-
-The Big Short
-
-Gold & Silver

@@ -71,6 +71,3 @@ This is a list of streams and videos that are either directly related to GME or 
 
 
 Is something missing from this list? Feel free to [add to it](/help_build_econiverse/)!
-
-
-Shout out to u/jkhanlar for his post [here](https://www.reddit.com/r/Superstonk/comments/rc9pho/yalol_ftddddd_yet_another_list_of_links_for_the/) and [here](https://www.reddit.com/r/Superstonk/comments/rv4j89/yalov_ftddddd_yet_another_list_of_videos_for_the/) that helped build this page!

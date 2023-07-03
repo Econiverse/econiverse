@@ -78,8 +78,8 @@ main:
   - name: Due Diligence
     ref: "/due_diligence"
     sub:
-      - name: Data and Resources
-        ref: "due_diligence/data_and_resources"
+      - name: Guide to Financial Market Data
+        ref: "due_diligence/guide_to_financial_market_data"
       - name: Stocksera
         ref: "due_diligence/stocksera"
 #      - name: Wikipedia Trends
@@ -106,12 +106,12 @@ main:
             ref: "/GME/GME_related_websites/ape_historian_dashboard"
           - name: SuperStonk Library
             ref: "/GME/GME_related_websites/superstonk_library"
-          - name: TLDR;
-            ref: "/GME/GME_related_websites/tldr"
+#          - name: TLDR;
+#            ref: "/GME/GME_related_websites/tldr"
           - name: wikAPEdia
             ref: "/GME/GME_related_websites/wikapedia"
-          - name: GME Word Cloud
-            ref: "/GME/GME_related_websites/GME_word_cloud"
+#          - name: GME Word Cloud
+#            ref: "/GME/GME_related_websites/GME_word_cloud"
       - name: Additional Resources
         ref: "/GME/additional_resources"
       - name: Reddit Subs
@@ -122,17 +122,17 @@ main:
             ref: "/GME/reddit_subs/alternate_subs"
           - name: Region Specific Subs
             ref: "/GME/reddit_subs/region_specific_subs"
-      - name: Twitter Feeds
-        sub:
-          - name: GameStop
-            ref: "/GME/twitter_feed/gamestop"
-          - name: Ryan Cohen and TheRoaringKitty
-            ref: "/GME/twitter_feed/rc_dfv"
+#      - name: Twitter Feeds
+#        sub:
+#          - name: GameStop
+#            ref: "/GME/twitter_feed/gamestop"
+#          - name: Ryan Cohen and TheRoaringKitty
+#            ref: "/GME/twitter_feed/rc_dfv"
 #          - name: Spike
 #            ref: "/GME/twitter_feed/spike"
 #          - name: Matt Finestone and Jordan Holberg
 #            ref: "/GME/twitter_feed/finestone_holberg"
-  - name: Who You Can Contact
+  - name: Financial Misconduct Help & Resources
     ref: "who_you_can_contact"
   - name: Privacy And Security
     ref: "privacy_and_security"
@@ -141,8 +141,8 @@ main:
         ref: "privacy_and_security/browsers_and_search_engines"
       - name: VPN and DNS
         ref: "privacy_and_security/vpn_and_dns"
-      - name: 2FA
-        ref: "privacy_and_security/2fa"
+      - name: Two-Factor Authentication
+        ref: "privacy_and_security/two_factor_authentication"
       - name: Mobile Devices
         ref: "privacy_and_security/mobile_devices"
       - name: Website Proxy
@@ -166,3 +166,5 @@ main:
         ref: "/help_build_econiverse/edit_locally"
       - name: Maintainers
         ref: "/help_build_econiverse/maintainers"
+      - name: Credits
+        ref: "/help_build_econiverse/credits"
