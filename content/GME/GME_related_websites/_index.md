@@ -1,6 +1,7 @@
 ---
 title: Websites Related to GameStop
 weight: 40
+geekdocCollapseSection: true
 ---
 
 The websites listed below are dedicated resources for retail investors interested in GameStop (GME). They offer a variety of tools, data, and analysis related to GME's stock performance, investment strategies, and the broader narrative surrounding the company. Always verify information from these sources independently and critically evaluate their claims.

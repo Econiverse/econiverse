@@ -1,6 +1,6 @@
 ---
 title: Guide to Browsers and Search Engines Focused on Privacy
-weight: 10
+weight: 32
 ---
 
 In the digital age, online privacy is critical. [Testing](https://coveryourtracks.eff.org/) a browser's defense against trackers offers a first step towards secure browsing. This guide presents a selection of privacy-focused web browsers and search engines to further strengthen online privacy.

@@ -1,132 +1,144 @@
 main:
-  - name: Stock Market Fundamentals
+  - name: Traditional Finance
     ref: "/fundamentals"
     sub:
-      - name: Understanding Stock Charts
+      - name: Stock Charts
         ref: "/fundamentals/what_is_a_stock_chart"
-      - name: Different Types of Orders
+      - name: Order Types
         ref: "/fundamentals/order_types"
-      - name: Understanding Account Types
+      - name: Account Types
+        ref: "/fundamentals/account_types"
         sub:
-          - name: Cash vs. Margin Accounts
+          - name: Cash vs. Margin
             ref: "/fundamentals/account_types/cash_vs_margin"
-          - name: Benefits of Tax Advantaged Accounts
+          - name: Tax Advantaged Benefits
             ref: "/fundamentals/account_types/tax_advantaged_accounts"
-          - name: Guide to Direct Registration System (DRS)
-            ref: "/fundamentals/account_types/drs"
+      - name: DRS Guide
+        ref: "/fundamentals/drs"
+        sub:
+          - name: DTC System
+            ref: "/fundamentals/drs/dtc_system"
+          - name: Share Structure
+            ref: "/fundamentals/drs/company_share_structure"
+          - name: DRS vs. Street
+            ref: "/fundamentals/drs/drsvsstreet"
+      - name: Intro to Different Financial Instruments
+        ref: "/fundamentals/different_financial_instruments"
+        sub:
+          - name: Options Trading Intro
+            ref: "/fundamentals/different_financial_instruments/options_overview"
             sub:
-              - name: Understanding the DTC System
-                ref: "/fundamentals/account_types/drs/dtc_system"
-              - name: Understanding Company Share Structure
-                ref: "/fundamentals/account_types/drs/company_share_structure"
-              - name: Comparing DRS and Street
-                ref: "/fundamentals/account_types/drs/drsvsstreet"
-      - name: Intro to Options Trading
-        sub:
-          - name: Understanding Options
-            ref:  "/fundamentals/options/what_are_options"
-          - name: Understanding Greeks in Options
-            ref: "/fundamentals/options/greeks"
-      - name: Intro to Exchange Traded Funds (ETFs)
-        ref: "/fundamentals/etf"
-      - name: Understanding Forex Market
-        ref: "/fundamentals/forex"
-      - name: Overview of Futures Trading
-        ref: "/fundamentals/futures"
-      - name: Guide to Blockchain
-        ref: "/fundamentals/blockchain"
-        sub:
-          - name: Understanding Blockchain
-            ref: "/fundamentals/blockchain/blockchain_overview"
-          - name: Guide to Storing and Exchanging Cryptocurrencies
-            ref: "/fundamentals/blockchain/how_to_store_and_exchange"
-          - name: Automated Cryptocurrency Trading
-            ref: "/fundamentals/blockchain/automated_trading"
-          - name: Introduction to Decentralized Finance (DeFi)
-            ref: "/fundamentals/blockchain/decentralized_finance"
-          - name: Other Blockchain Resources
-            ref: "/fundamentals/blockchain/other_resources"
-      - name: Further Education and Resources for the Stock Market
+              - name: Options Overview
+                ref:  "/fundamentals/different_financial_instruments/options_overview/what_are_options"
+              - name: Options Greeks
+                ref: "/fundamentals/different_financial_instruments/options_overview/greeks"
+          - name: ETFs Intro
+            ref: "/fundamentals/different_financial_instruments/etf"
+          - name: Futures Overview
+            ref: "/fundamentals/different_financial_instruments/futures"
+          - name: Forex Basics
+            ref: "/fundamentals/different_financial_instruments/forex"
+      - name: Stock Market Further Resources
         ref: "/fundamentals/further_education_and_resources"
+  - name: Decentralized Finance (DeFi)
+    ref: "/defi"
+    sub:
+      - name: Intro to Blockchain & Crypto
+        ref: "/defi/intro"
+        sub:
+          - name: Blockchain Overview
+            ref: "/defi/intro/blockchain_overview"
+          - name: Cryptocurrency Storage & Exchange
+            ref: "/defi/intro/how_to_store_and_exchange"
+      - name: Advanced Blockchain & Crypto
+        ref: "/defi/advanced"
+        sub:
+          - name: Automated Crypto Trading
+            ref: "/defi/advanced/automated_trading"
+          - name: Decentralized Finance (DeFi) Projects
+            ref: "/defi/advanced/decentralized_finance"
+      - name: Other Blockchain Resources
+        ref: "/defi/other_resources"
   - name: Intro to Technical Analysis
     ref: "/technical_analysis"
     sub:
-      - name: Understanding Chart Patterns
+      - name: Chart Patterns
         ref: "/technical_analysis/chart_patterns"
-      - name: Guide to Moving Averages
+      - name: Moving Averages
         ref: "/technical_analysis/moving_averages"
   - name: Due Diligence Guide
     ref: "/due_diligence"
     sub:
-      - name: Understanding Financial Market Data
+      - name: Financial Market Data
         ref: "due_diligence/guide_to_financial_market_data"
-      - name: Stocksera
-        ref: "due_diligence/stocksera"
-      - name: Alternatives to Main Stream Media for Financial News
+      - name: Alt Finance News
         ref: "due_diligence/alternatives_to_main_stream_media"
-      - name: Macrofinance Movie List for Enthusiasts
+      - name: Macrofinance Movies
         ref: "due_diligence/macrofinance_movie_list"
       - name: Internet Archives
         ref: "due_diligence/internet_archives"
-  - name: Deep Dive into GameStop
+      - name: Stocksera
+        ref: "due_diligence/stocksera"
+  - name: Deep Dive into GameStop (GME)
     ref: "/GME"
     sub:
-      - name: Official GameStop Resources
+      - name: Official Resources
         ref: "/GME/gamestop_official"
-      - name: Significant Events in GameStop's History
+      - name: History Highlights
         ref: "/GME/GME_significant_events"
-      - name: Media Related to GameStop
+      - name: GME Media
         ref: "/GME/GME_related_media"
-      - name: Websites Related to GameStop
+      - name: GME Related Websites
         ref: "/GME/GME_related_websites"
         sub:
-          - name: Ape Historian Dashboard
+          - name: Ape Historian
             ref: "/GME/GME_related_websites/ape_historian_dashboard"
-          - name: SuperStonk Library - A Repository of GameStop Information
+          - name: SuperStonk Library
             ref: "/GME/GME_related_websites/superstonk_library"
-          - name: wikAPEdia - An Encyclopedia for GameStop Enthusiasts
+          - name: wikAPEdia
             ref: "/GME/GME_related_websites/wikapedia"
-      - name: Additional Resources on GameStop
+      - name: Additional Resources
         ref: "/GME/additional_resources"
-      - name: Reddit Subreddits on GameStop
+      - name: Reddit Subreddits
+        ref: "GME/reddit_subs"
         sub:
-          - name: Main Stream Subreddits
+          - name: Mainstream Subreddits
             ref: "/GME/reddit_subs/main_stream_subs"
           - name: Alternate Subreddits
             ref: "/GME/reddit_subs/alternate_subs"
-          - name: Region Specific Subreddits
+          - name: Regional Subreddits
             ref: "/GME/reddit_subs/region_specific_subs"
   - name: Financial Misconduct Help & Resources
     ref: "who_you_can_contact"
-  - name: Online Security & Privacy
+  - name: Guide to Online Privacy and Security
     ref: "privacy_and_security"
     sub:
-      - name: Guide to Browsers and Search Engines Focused on Privacy
-        ref: "privacy_and_security/browsers_and_search_engines"
-      - name: Understanding VPN and DNS for Security
+      - name: VPNs & DNS Security
         ref: "privacy_and_security/vpn_and_dns"
-      - name: Guide to Two-Factor Authentication
+      - name: Two-Factor Authentication
         ref: "privacy_and_security/two_factor_authentication"
-      - name: Securing Mobile Devices
+      - name: Privacy-Focused Browsers & Search Engines
+        ref: "privacy_and_security/browsers_and_search_engines"
+      - name: Mobile Device Security
         ref: "privacy_and_security/mobile_devices"
+      - name: Free Open Source Software
+        ref: "privacy_and_security/foss"
+      - name: Encrypted Email
+        ref: "privacy_and_security/encrypted_email"
+      - name: Encrypted Cloud Storage
+        ref: "privacy_and_security/encrypted_cloud_data_storage"
       - name: Website Proxy
         ref: "privacy_and_security/website_proxy"
-      - name: Introduction to Free Open Source Software (FOSS)
-        ref: "privacy_and_security/foss"
-      - name: Guide to Encrypted Email
-        ref: "privacy_and_security/encrypted_email"
-      - name: Understanding Encrypted Cloud Data Storage
-        ref: "privacy_and_security/encrypted_cloud_data_storage"
-      - name: Additional Resources on Online Security & Privacy
+      - name: More Resources
         ref: "privacy_and_security/additional_resources"
   - name: Contributing to Econiverse
     ref: "/help_build_econiverse"
     sub:
-      - name: How to Edit with a Web Browser
+      - name: How to Edit with a Browser
         ref: "/help_build_econiverse/edit_with_web_browser"
       - name: How to Edit Locally
         ref: "/help_build_econiverse/edit_locally"
       - name: Meet the Maintainers
         ref: "/help_build_econiverse/maintainers"
-      - name: Credits for Econiverse
+      - name: Credits
         ref: "/help_build_econiverse/credits"

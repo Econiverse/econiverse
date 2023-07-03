@@ -5,7 +5,7 @@ resources:
     title: What Is A Stock Chart
     params:
       credits: "[Stockstotrade.com](https://stockstotrade.com/what-is-a-stock-chart-infographic/)"
-weight: 10
+weight: 1
 title: Understanding Stock Charts
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Credits for Econiverse
+weight: 90
 ---
 
 Welcome to the Credits page of Econiverse. This section is dedicated to acknowledging the significant contributions and invaluable resources shared by various individuals and entities. Their generosity has made it possible for us to assemble this comprehensive compilation of resources and thought-provoking content. We extend our sincerest gratitude to the following sources:
