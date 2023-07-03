@@ -1,5 +1,5 @@
 ---
-title: Browsers and Search Engines Focused on Privacy
+title: Guide to Browsers and Search Engines Focused on Privacy
 weight: 10
 ---
 

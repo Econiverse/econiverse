@@ -1,5 +1,5 @@
 ---
-Title: Holding Stock Through DRS vs Street Name
+Title: Comparing DRS and Street
 resources:
   - name: brokersvstransferagents
     src: "brokersvstransferagents.png"

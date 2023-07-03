@@ -1,5 +1,6 @@
 ---
 weight: 90
+title: Further Education and Resources for the Stock Market
 ---
 
 

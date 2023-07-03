@@ -1,5 +1,5 @@
 ---
-title: wikAPEdia
+title: wikAPEdia - An Encyclopedia for GameStop Enthusiasts
 weight: 40
 ---
 

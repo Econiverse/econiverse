@@ -1,5 +1,6 @@
 ---
 weight: 20
+title: Guide to Moving Averages
 ---
 
 

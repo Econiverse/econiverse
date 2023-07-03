@@ -1,5 +1,6 @@
 ---
 weight: 60
+title: Other Blockchain Resources
 ---
 
 Discover a curated list of valuable cryptocurrency resources that offer essential information, educational content, and practical tools to enhance your understanding and engagement in the dynamic world of cryptocurrencies.

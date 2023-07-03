@@ -6,6 +6,7 @@ resources:
     params:
       credits: "[slideshare.net](https://www.slideshare.net/HedgeFundFundamentals/understanding-the-managed-futures-industry-infographic)"
 weight: 70
+title: Overview of Futures Trading
 ---
 
 {{< img name="futures" lazy=false size=medium >}}

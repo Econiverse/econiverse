@@ -1,5 +1,5 @@
 ---
-title: Significant Events
+title: Significant Events in GameStop's History
 weight: 20
 ---
 

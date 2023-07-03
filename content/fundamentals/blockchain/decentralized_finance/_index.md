@@ -1,7 +1,7 @@
 ---
 weight: 40
+Title: Introduction to Decentralized Finance (DeFi)
 ---
-## Decentralized Finance (DeFi)
 
 Decentralized finance (DeFi) refers to a set of financial applications hosted on public blockchains that offer peer-to-peer services traditionally provided by banks. These services include borrowing, lending, trading, and more, all without the need for intermediaries. DeFi is made possible through the utilization of [Smart Contracts](https://www.investopedia.com/terms/s/smart-contracts.asp), which automate the execution and enforcement of agreements.
 

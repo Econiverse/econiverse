@@ -6,6 +6,7 @@ resources:
     params:
       credits: "[Stockstotrade.com](https://stockstotrade.com/what-is-a-stock-chart-infographic/)"
 weight: 10
+title: Understanding Stock Charts
 ---
 
 {{< img name="what_is_a_stock_chart" lazy=false >}}

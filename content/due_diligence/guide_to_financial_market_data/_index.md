@@ -1,5 +1,6 @@
 ---
 weight: 1
+title: Understanding Financial Market Data
 ---
 
 This guide provides a curated collection of vital resources for an in-depth understanding of the financial markets. It features a broad array of tools covering diverse data types including price, volume, ownership, regulatory, and more. The content is suitable for professional financial analysts, traders, and financial market enthusiasts alike.

@@ -1,5 +1,5 @@
 ---
-title: SuperStonk Library
+title: SuperStonk Library - A Repository of GameStop Information
 weight: 20
 ---
 

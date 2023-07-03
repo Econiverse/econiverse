@@ -1,5 +1,5 @@
 ---
-title: GameStop Official
+title: Official GameStop Resources
 weight: 10
 ---
 

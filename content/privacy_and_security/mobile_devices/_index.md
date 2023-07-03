@@ -4,6 +4,7 @@ resources:
     src: "signal.png"
     title: Signal
 weight: 40
+title: Securing Mobile Devices
 ---
 
 Given our daily reliance on mobile devices, it's essential to prioritize security and privacy. The following are some tools and resources to aid in this endeavor.

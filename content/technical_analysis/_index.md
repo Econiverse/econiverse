@@ -1,5 +1,6 @@
 ---
 geekdocCollapseSection: true
+title: Intro to Technical Analysis
 ---
 
 {{< toc-tree >}}

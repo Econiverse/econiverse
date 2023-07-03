@@ -1,5 +1,5 @@
 ---
-title: Additional Resources
+title: Additional Resources on GameStop
 weight: 50
 ---
 

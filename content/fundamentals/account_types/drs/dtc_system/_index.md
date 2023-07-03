@@ -1,5 +1,5 @@
 ---
-title: DTC System
+title: Understanding the DTC System
 resources:
   - name: directregistrationsystem
     src: "directregistrationsystem.jpg"

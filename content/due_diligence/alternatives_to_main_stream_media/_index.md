@@ -1,5 +1,6 @@
 ---
 weight: 20
+title: Alternatives to Main Stream Media for Financial News
 ---
 
 While mainstream media serves a purpose, it's not without its shortcomings, as clearly demonstrated in the video below [(source)](https://deadspin.com/how-americas-largest-local-tv-owner-turned-its-news-anc-1824233490) [[b]](https://archive.ph/TVYxZ).

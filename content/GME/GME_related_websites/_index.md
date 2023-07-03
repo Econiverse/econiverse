@@ -1,5 +1,5 @@
 ---
-title: GameStop Investment Resource Websites
+title: Websites Related to GameStop
 weight: 40
 ---
 

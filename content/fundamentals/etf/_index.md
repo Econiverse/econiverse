@@ -1,5 +1,5 @@
 ---
-title: Exchange Traded Funds
+title: Intro to Exchange Traded Funds (ETFs)
 resources:
   - name: etf
     src: "etf.jpeg"

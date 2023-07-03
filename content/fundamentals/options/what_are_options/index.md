@@ -6,6 +6,7 @@ resources:
     params:
       credits: "[NapkinFinance.com](https://napkinfinance.com/napkin/finance-options/)"
 weight: 10
+title: Understanding Options
 ---
 
 {{< img name="NapkinFinance-Options-Napkin-04-07-2020-v04" lazy=false >}}

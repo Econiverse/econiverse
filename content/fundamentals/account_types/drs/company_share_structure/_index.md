@@ -1,5 +1,5 @@
 ---
-title: Company Share Structure
+title: Understanding Company Share Structure
 resources:
   - name: company-share-structure
     src: "company-share-structure.jpg"

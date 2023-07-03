@@ -1,5 +1,5 @@
 ---
-title: Free Open Source Software (FOSS) Showcase
+title: Introduction to Free Open Source Software (FOSS)
 resources:
   - name: linux_timeline
     src: "linux_timeline.png"

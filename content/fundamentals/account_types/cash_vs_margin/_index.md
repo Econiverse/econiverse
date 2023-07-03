@@ -1,5 +1,6 @@
 ---
 weight: 10
+title: Cash vs. Margin Accounts
 ---
 
 ## Cash Account

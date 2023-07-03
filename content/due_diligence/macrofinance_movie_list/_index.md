@@ -1,5 +1,6 @@
 ---
 weight: 30
+title: Macrofinance Movie List for Enthusiasts
 ---
 
 This is a carefully curated collection of documentaries, movies, and video clips spanning across multiple platforms that provide unique insights into the world of macrofinance.

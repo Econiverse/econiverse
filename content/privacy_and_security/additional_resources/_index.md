@@ -1,5 +1,6 @@
 ---
 weight: 90
+title: Additional Resources on Online Security & Privacy
 ---
 
 | Source | Description |

@@ -1,5 +1,6 @@
 ---
 weight: 20
+title: Guide to Storing and Exchanging Cryptocurrencies
 ---
 
 There are several ways to obtain cryptocurrency. The most popular method is to exchange fiat currency, such as the United States Dollar, or other cryptocurrencies, like Bitcoin, for it. This exchange of one store of value for another is done on an exchange. There are two types of exchanges: centralized and decentralized.

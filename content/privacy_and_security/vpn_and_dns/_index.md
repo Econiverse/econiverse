@@ -1,5 +1,5 @@
 ---
-title: "A Guide on VPN and DNS"
+title: Understanding VPN and DNS for Security
 weight: 20
 ---
 

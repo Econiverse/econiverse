@@ -1,5 +1,6 @@
 ---
 weight: 30
+title: Meet the Maintainers
 ---
 
 This site is currently maintained by:

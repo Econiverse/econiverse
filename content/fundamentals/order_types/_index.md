@@ -1,5 +1,6 @@
 ---
 weight: 20
+title: Different Types of Orders
 ---
 
 | Order Type | Description |

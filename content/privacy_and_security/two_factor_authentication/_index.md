@@ -1,5 +1,6 @@
 ---
 weight: 30
+title: Guide to Two-Factor Authentication
 ---
 Two-Factor Authentication (2FA) is a fundamental element in maintaining the security of your accounts. By adding a second level of verification, beyond just your password, you significantly decrease the chances of unauthorized access. This remains true even if your password has been compromised.
 

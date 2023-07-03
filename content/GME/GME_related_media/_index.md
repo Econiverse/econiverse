@@ -1,5 +1,5 @@
 ---
-title: Related Media
+title: Media Related to GameStop
 weight: 30
 ---
 

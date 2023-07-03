@@ -1,5 +1,6 @@
 ---
 weight: 80
+title: Understanding Encrypted Cloud Data Storage
 ---
 
 Cloud storage providers that offer zero-knowledge end-to-end encryption ensure that only you can access your data. With this encryption method, the cloud company does not have access to your encryption key, meaning they cannot see or decipher your data. If data privacy is a top priority for you, consider these trustworthy cloud storage providers that implement zero-knowledge encryption:

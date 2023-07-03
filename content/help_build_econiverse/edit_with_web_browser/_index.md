@@ -13,6 +13,7 @@ resources:
     src: "edit_this_file.png"
     title: Edit Button
 weight: 10
+title: How to Edit with a Web Browser
 ---
 
 To edit a page through a web browser, follow these steps:
