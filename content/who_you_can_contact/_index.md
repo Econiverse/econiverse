@@ -26,10 +26,16 @@ This directory provides a range of resources for anyone in need of assistance or
 17. [European Union Financial Conduct Authority (FCA)](#european-union-financial-conduct-authority-fca)
 18. [Australian Securities and Investments Commission (ASIC)](#australian-securities-and-investments-commission-asic)
 19. [Australian Financial Complaints Authority (AFCA)](#australian-financial-complaints-authority-afca)
-20. [Escalation to the Office of Ombudsman](#escalation-to-the-office-of-ombudsman)
-21. [Your Broker's Compliance Department](#your-brokers-compliance-department)
-22. [DRS Transfer Issues and an Escalation Resource](#drs-transfer-issues-and-an-escalation-resource)
-23. [Freedom of Information Act (FOIA)](#freedom-of-information-act-foia)
+20. [Financial Ombudsman Service (UK)](#financial-ombudsman-service-uk)
+21. [Monetary Authority of Singapore (MAS)](#monetary-authority-of-singapore-mas)
+22. [Securities and Futures Commission (SFC, Hong Kong)](#securities-and-futures-commission-sfc-hong-kong)
+23. [Japan Financial Services Agency (JFSA)](#japan-financial-services-agency-jfsa)
+24. [Reserve Bank of India (RBI)](#reserve-bank-of-india-rbi)
+25. [People's Bank of China (PBOC)](#peoples-bank-of-china-pboc)
+26. [South African Reserve Bank (SARB)](#south-african-reserve-bank-sarb)
+27. [Your Broker's Compliance Department](#your-brokers-compliance-department)
+28. [DRS Transfer Issues and an Escalation Resource](#drs-transfer-issues-and-an-escalation-resource)
+29. [Freedom of Information Act (FOIA)](#freedom-of-information-act-foia)
 
 ---
 
@@ -42,7 +48,7 @@ If you need to address public policy, legislation, or require personal assistanc
 
 ## United States House of Representatives
 
-Identify your representative using your ZIP code through this service. It provides links to your representative's website and contact page.
+Similar to the Senate, you can contact your representative to address public policy, legislation, or personal assistance. Most representatives will only respond to messages from people living in the district they represent.
 
 - [Find Your Representative](https://www.house.gov/representatives/find-your-representative)
 
@@ -160,11 +166,47 @@ AFCA consolidates complaints that previously would have been handled by differen
 
 - [Make a Complaint](https://www.afca.org.au/make-a-complaint)
 
-## Escalation to the Office of Ombudsman
+## Financial Ombudsman Service (UK)
 
-An Ombudsman is an independent official appointed to investigate complaints about maladministration, especially those made by individuals against public authorities. If your grievance with your broker or FINRA remains unresolved, consider escalating the issue to the Ombudsman.
+The Financial Ombudsman Service provides a free service to settle complaints between consumers and businesses that provide financial services.
 
-- [FINRA Office of Ombudsman Report](https://www.finra.org/sites/default/files/Office_of_Ombudsman_Report.pdf)
+- [Contact the Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/)
+
+## Monetary Authority of Singapore (MAS)
+
+MAS oversees all monetary and financial activities in Singapore, including the regulation of financial services and securities trading.
+
+- [MAS Contact Us](https://www.mas.gov.sg/contact-us)
+
+## Securities and Futures Commission (SFC, Hong Kong)
+
+The SFC is an independent statutory body set up to regulate Hong Kong's securities and futures markets.
+
+- [SFC Lodge a Complaint](https://www.sfc.hk/en/Lodge-a-complaint)
+
+## Japan Financial Services Agency (JFSA)
+
+The JFSA is the governmental body responsible for overseeing banking, securities and exchange, and insurance sectors in Japan.
+
+- [JFSA Contact](https://www.fsa.go.jp/en/contact.html)
+
+## Reserve Bank of India (RBI)
+
+The RBI is India's central banking institution, which controls the issue and supply of the Indian rupee and manages the country's main payment systems.
+
+- [RBI Complaints](https://www.rbi.org.in/Scripts/Complaints.aspx)
+
+## People's Bank of China (PBOC)
+
+The PBOC is the central bank of the People's Republic of China, responsible for carrying out monetary policy and regulation of financial institutions in mainland China.
+
+- [PBOC English](http://www.pbc.gov.cn/en/)
+
+## South African Reserve Bank (SARB)
+
+The SARB is the central bank of South Africa, which oversees monetary policy and ensures stability in the country's financial system.
+
+- [SARB Whistleblowing](https://www.resbank.co.za/en/home/contact-us/whistleblowing)
 
 ## Your Broker's Compliance Department
 
