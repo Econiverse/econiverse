@@ -5,13 +5,13 @@ geekdocAnchor: false
 
 # Welcome to Econiverse!
 
-Welcome to Econiverse, an all-inclusive guide to comprehending the world of finance. Built by a dedicated community, this open-source platform is passionately committed to democratizing financial knowledge. Its suite of free, user-friendly, and accessible educational resources equips individuals worldwide to demystify the world of finance.
+Econiverse is a community-driven, open-source platform dedicated to democratizing financial knowledge. Created by and for the people, it provides a suite of accessible, user-friendly, and free educational links and resources. The platform's mission is to equip individuals from all corners of the globe with the understanding they need to navigate the complexities of finance.
 
-Econiverse originated amid the ongoing GameStop stock saga, but it transcends being merely a reaction to a single event. Thanks to the collective efforts of a diverse community, the platform continues to evolve in response to the ever-changing financial landscape.
+Econiverse originated amid the ever developing GameStop naked short selling saga, but goes beyond a single stock. Thanks to the collective efforts of the community, the platform is setup to continue to adapt to the ever changing financial landscape.
 
 ## Be a Part of the Mission
-We wholeheartedly embrace the potency of collective intellect! The unique insights you bring are not just valued but integral to the evolution of the Econiverse. Thus, we extend a warm invitation for you to [contribute](/help_build_econiverse/) and enrich our common cause.
+Econiverse would not be possible without the power of collective intelligence. The unique insights and perspectives each person have are critical to the growth of Econiverse. Therefore, an open invitation is always extended to anyone interested in [contributing](/help_build_econiverse/).
 
-Stumbled upon a mistake or have a groundbreaking idea? Join the conversation! Post an [issue](https://github.com/Econiverse/econiverse/issues) or initiate a [discussion](https://github.com/Econiverse/econiverse/discussions) on our GitHub page.
+Whether you've spotted a mistake or have an innovative idea, your voice is welcome here. Engage with us! Start a conversation by posting an [issue](https://github.com/Econiverse/econiverse/issues) or initiating a [discussion](https://github.com/Econiverse/econiverse/discussions) on our GitHub page.
 
-Together, let's untangle the intricacies of finance and create an Econiverse for all.
+Let's decode the financial world together, creating an Econiverse that is inclusive and accessible to all.
