@@ -7,7 +7,7 @@ Econiverse is a community-driven platform committed to democratizing financial k
 Econiverse originated amid the ever developing GameStop naked short selling saga, but goes beyond a single stock. Thanks to the collective efforts of the community, the platform is setup to continue to adapt to the ever changing financial landscape.
 
 ## Be a Part of the Mission
-Econiverse would not be possible without the power of collective intelligence. The unique insights and perspectives each person have are critical to the growth of Econiverse. As such, an open invitation is always extended to anyone interested in [contributing](/help_build_econiverse/).
+Econiverse would not be possible without the power of community. The unique insights and perspectives each person bring are critical to the growth of Econiverse. As such, an open invitation is always extended to anyone interested in [contributing](/help_build_econiverse/).
 
 Whether you've spotted a mistake or have an innovative idea, your voice is welcome here. Engage with us! Start a conversation by posting an [issue](https://github.com/Econiverse/econiverse/issues) or initiating a [discussion](https://github.com/Econiverse/econiverse/discussions) on our GitHub page.
 
