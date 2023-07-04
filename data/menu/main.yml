@@ -70,15 +70,15 @@ main:
     ref: "/due_diligence"
     sub:
       - name: Financial Market Data
-        ref: "due_diligence/guide_to_financial_market_data"
+        ref: "/due_diligence/guide_to_financial_market_data"
       - name: Alt Finance News
-        ref: "due_diligence/alternatives_to_main_stream_media"
+        ref: "/due_diligence/alternatives_to_main_stream_media"
       - name: Macrofinance Movies
-        ref: "due_diligence/macrofinance_movie_list"
+        ref: "/due_diligence/macrofinance_movie_list"
       - name: Internet Archives
-        ref: "due_diligence/internet_archives"
+        ref: "/due_diligence/internet_archives"
       - name: Stocksera
-        ref: "due_diligence/stocksera"
+        ref: "/due_diligence/stocksera"
   - name: Deep Dive into GameStop (GME)
     ref: "/GME"
     sub:
@@ -100,7 +100,7 @@ main:
       - name: Additional Resources
         ref: "/GME/additional_resources"
       - name: Reddit Subreddits
-        ref: "GME/reddit_subs"
+        ref: "/GME/reddit_subs"
         sub:
           - name: Mainstream Subreddits
             ref: "/GME/reddit_subs/main_stream_subs"
@@ -109,28 +109,28 @@ main:
           - name: Regional Subreddits
             ref: "/GME/reddit_subs/region_specific_subs"
   - name: Financial Misconduct Help & Resources
-    ref: "who_you_can_contact"
+    ref: "/who_you_can_contact"
   - name: Guide to Online Privacy and Security
-    ref: "privacy_and_security"
+    ref: "/privacy_and_security"
     sub:
       - name: VPNs & DNS Security
-        ref: "privacy_and_security/vpn_and_dns"
+        ref: "/privacy_and_security/vpn_and_dns"
       - name: Two-Factor Authentication
-        ref: "privacy_and_security/two_factor_authentication"
+        ref: "/privacy_and_security/two_factor_authentication"
       - name: Privacy-Focused Browsers & Search Engines
-        ref: "privacy_and_security/browsers_and_search_engines"
+        ref: "/privacy_and_security/browsers_and_search_engines"
       - name: Mobile Device Security
-        ref: "privacy_and_security/mobile_devices"
+        ref: "/privacy_and_security/mobile_devices"
       - name: Free Open Source Software
-        ref: "privacy_and_security/foss"
+        ref: "/privacy_and_security/foss"
       - name: Encrypted Email
-        ref: "privacy_and_security/encrypted_email"
+        ref: "/privacy_and_security/encrypted_email"
       - name: Encrypted Cloud Storage
-        ref: "privacy_and_security/encrypted_cloud_data_storage"
+        ref: "/privacy_and_security/encrypted_cloud_data_storage"
       - name: Website Proxy
-        ref: "privacy_and_security/website_proxy"
+        ref: "/privacy_and_security/website_proxy"
       - name: More Resources
-        ref: "privacy_and_security/additional_resources"
+        ref: "/privacy_and_security/additional_resources"
   - name: Contributing to Econiverse
     ref: "/help_build_econiverse"
     sub:
