@@ -41,8 +41,7 @@ Below is a collection of sources for financial market data. It showcases a wide 
 | [Hedge Follow](https://hedgefollow.com/) | Tracks hedge funds and billionaires' stock holdings. |
 | [Holdings Channel](https://www.holdingschannel.com/bystock/) | Offers hedge fund holdings data. |
 | [Open Insider](http://openinsider.com/) | Provides insider trading information. |
-| [US House Stock Watcher](https://housestockwatcher.com/) | Provides US House of Representatives ownership data. |
-| [US Senate Stock Watcher](https://senatestockwatcher.com/) | Provides US Senate ownership data. |
+| [US Congress Stock Tracker](https://alphayou.net/politicians) | Provides US House and Senate trade disclosures, with the source filing for each. |
 | [WhaleWisdom](https://whalewisdom.com/) | Tracks 13F filings of hedge funds and institutional investors. |
 
 
